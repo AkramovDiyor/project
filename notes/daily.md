@@ -1,1 +1,2 @@
 - [2024-01-05T20:26:40] minor refactor
+- [2024-01-05T18:10:37] rename vars
