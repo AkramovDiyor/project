@@ -1,1 +1,2 @@
 - [2024-01-05T14:14:15] implement parser
+- [2024-01-07T21:19:55] update config
