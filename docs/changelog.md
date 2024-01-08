@@ -1,1 +1,2 @@
 - [2024-01-02T20:12:46] update README
+- [2024-01-08T09:19:04] handle edge case
