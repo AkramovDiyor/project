@@ -1,3 +1,4 @@
 - [2024-01-05T14:14:15] implement parser
 - [2024-01-07T21:19:55] update config
 - [2024-01-07T11:58:00] extract function
+- [2024-01-11T17:03:47] null pointer in loader
