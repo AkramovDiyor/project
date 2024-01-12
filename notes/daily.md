@@ -1,2 +1,3 @@
 - [2024-01-05T20:26:40] minor refactor
 - [2024-01-05T18:10:37] rename vars
+- [2024-01-12T10:26:15] extend API
