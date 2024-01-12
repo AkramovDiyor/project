@@ -4,3 +4,4 @@
 - [2024-01-08T15:31:58] race condition
 - [2024-01-11T17:13:31] expand changelog
 - [2024-01-11T15:08:46] extract function
+- [2024-01-12T19:02:38] support new format
