@@ -3,3 +3,4 @@
 - [2024-01-11T19:29:04] off-by-one in loop
 - [2024-01-12T19:37:09] ok
 - [2024-01-14T17:22:39] rename vars
+- [2024-01-14T15:54:49] extract function
