@@ -5,3 +5,4 @@
 - [2024-01-11T17:13:31] expand changelog
 - [2024-01-11T15:08:46] extract function
 - [2024-01-12T19:02:38] support new format
+- [2024-01-15T12:49:45] off-by-one in loop
