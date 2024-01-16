@@ -5,3 +5,4 @@
 - [2024-01-15T16:47:25] update config
 - [2024-01-16T09:32:18] add caching layer
 - [2024-01-16T19:31:27] extend API
+- [2024-01-16T15:38:20] add examples
