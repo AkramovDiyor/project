@@ -3,3 +3,4 @@
 - [2024-01-12T10:26:15] extend API
 - [2024-01-12T20:18:10] clarify usage
 - [2024-01-15T16:47:25] update config
+- [2024-01-16T09:32:18] add caching layer
