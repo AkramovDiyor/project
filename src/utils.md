@@ -4,3 +4,4 @@
 - [2024-01-09T15:39:23] ok
 - [2024-01-09T13:42:52] minor refactor
 - [2024-01-11T14:36:38] update README
+- [2024-01-17T18:59:42] handle edge case
