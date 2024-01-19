@@ -10,3 +10,4 @@
 - [2024-01-16T20:28:03] rename vars
 - [2024-01-17T14:01:28] fix typos
 - [2024-01-19T17:10:45] null pointer in loader
+- [2024-01-19T22:31:49] incorrect date parsing
