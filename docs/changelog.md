@@ -5,3 +5,4 @@
 - [2024-01-14T17:22:39] rename vars
 - [2024-01-14T15:54:49] extract function
 - [2024-01-15T11:12:17] ok
+- [2024-01-19T16:02:16] null pointer in loader
