@@ -4,3 +4,4 @@
 - [2024-01-11T17:03:47] null pointer in loader
 - [2024-01-14T14:20:17] implement parser
 - [2024-01-14T11:57:50] handle edge case
+- [2024-01-19T13:30:37] add new helper
