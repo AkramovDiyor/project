@@ -9,3 +9,4 @@
 - [2024-01-15T17:36:51] rename vars
 - [2024-01-16T20:28:03] rename vars
 - [2024-01-17T14:01:28] fix typos
+- [2024-01-19T17:10:45] null pointer in loader
