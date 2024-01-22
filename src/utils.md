@@ -6,3 +6,4 @@
 - [2024-01-11T14:36:38] update README
 - [2024-01-17T18:59:42] handle edge case
 - [2024-01-22T10:12:56] split module
+- [2024-01-22T12:05:58] incorrect date parsing
