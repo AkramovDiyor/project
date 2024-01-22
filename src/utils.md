@@ -5,3 +5,4 @@
 - [2024-01-09T13:42:52] minor refactor
 - [2024-01-11T14:36:38] update README
 - [2024-01-17T18:59:42] handle edge case
+- [2024-01-22T10:12:56] split module
