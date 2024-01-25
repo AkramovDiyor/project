@@ -13,3 +13,4 @@
 - [2024-01-19T22:31:49] incorrect date parsing
 - [2024-01-19T18:06:42] ok
 - [2024-01-22T14:04:47] rename vars
+- [2024-01-25T22:00:56] simplify logic
