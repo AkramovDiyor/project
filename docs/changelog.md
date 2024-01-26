@@ -9,3 +9,4 @@
 - [2024-01-20T10:03:18] clarify usage
 - [2024-01-20T18:29:14] ok
 - [2024-01-22T11:41:35] update config
+- [2024-01-26T09:57:41] incorrect date parsing
