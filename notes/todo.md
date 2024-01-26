@@ -2,3 +2,4 @@
 - [2024-01-08T21:35:46] cleanup imports
 - [2024-01-13T17:28:50] rename vars
 - [2024-01-22T09:38:45] handle edge case
+- [2024-01-26T19:47:15] support new format
