@@ -8,3 +8,4 @@
 - [2024-01-22T10:12:56] split module
 - [2024-01-22T12:05:58] incorrect date parsing
 - [2024-01-26T18:38:43] support new format
+- [2024-01-27T10:41:51] handle edge case
