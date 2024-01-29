@@ -10,3 +10,4 @@
 - [2024-01-26T18:38:43] support new format
 - [2024-01-27T10:41:51] handle edge case
 - [2024-01-29T16:09:28] bump deps
+- [2024-01-29T11:43:02] fix typos
