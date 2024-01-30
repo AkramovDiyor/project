@@ -6,3 +6,4 @@
 - [2024-01-14T11:57:50] handle edge case
 - [2024-01-19T13:30:37] add new helper
 - [2024-01-29T21:44:59] update config
+- [2024-01-30T09:00:15] extract function
