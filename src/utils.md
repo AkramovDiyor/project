@@ -11,3 +11,4 @@
 - [2024-01-27T10:41:51] handle edge case
 - [2024-01-29T16:09:28] bump deps
 - [2024-01-29T11:43:02] fix typos
+- [2024-01-30T17:35:00] add new helper
