@@ -13,3 +13,4 @@
 - [2024-01-29T11:43:02] fix typos
 - [2024-01-30T17:35:00] add new helper
 - [2024-02-01T12:05:04] fix typos
+- [2024-02-02T11:49:19] update config
