@@ -4,3 +4,4 @@
 - [2024-01-22T09:38:45] handle edge case
 - [2024-01-26T19:47:15] support new format
 - [2024-02-01T09:04:06] rename vars
+- [2024-02-02T19:35:22] handle edge case
