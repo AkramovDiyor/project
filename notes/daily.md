@@ -13,3 +13,4 @@
 - [2024-01-29T15:58:38] implement parser
 - [2024-01-30T13:09:56] clarify usage
 - [2024-02-02T15:41:38] add caching layer
+- [2024-02-03T18:02:13] rename vars
