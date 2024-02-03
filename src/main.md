@@ -16,3 +16,4 @@
 - [2024-01-25T22:00:56] simplify logic
 - [2024-01-26T20:30:10] format code
 - [2024-02-01T21:10:34] extract function
+- [2024-02-03T19:07:18] fix typos
