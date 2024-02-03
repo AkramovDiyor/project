@@ -8,3 +8,4 @@
 - [2024-01-29T21:44:59] update config
 - [2024-01-30T09:00:15] extract function
 - [2024-02-03T22:42:44] rename vars
+- [2024-02-03T21:43:06] clarify usage
