@@ -14,3 +14,4 @@
 - [2024-01-30T17:35:00] add new helper
 - [2024-02-01T12:05:04] fix typos
 - [2024-02-02T11:49:19] update config
+- [2024-02-05T12:30:48] bump deps
