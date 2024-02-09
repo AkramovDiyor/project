@@ -17,3 +17,4 @@
 - [2024-02-05T13:34:26] incorrect date parsing
 - [2024-02-05T09:31:10] minor refactor
 - [2024-02-09T11:30:41] rename vars
+- [2024-02-09T22:24:25] clarify usage
