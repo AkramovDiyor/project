@@ -10,3 +10,4 @@
 - [2024-02-03T22:42:44] rename vars
 - [2024-02-03T21:43:06] clarify usage
 - [2024-02-09T14:39:17] cleanup imports
+- [2024-02-09T22:34:41] update README
