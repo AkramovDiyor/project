@@ -11,3 +11,4 @@
 - [2024-02-03T21:43:06] clarify usage
 - [2024-02-09T14:39:17] cleanup imports
 - [2024-02-09T22:34:41] update README
+- [2024-02-11T11:02:49] null pointer in loader
