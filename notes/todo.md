@@ -7,3 +7,4 @@
 - [2024-02-02T19:35:22] handle edge case
 - [2024-02-08T20:51:17] race condition
 - [2024-02-13T14:08:21] off-by-one in loop
+- [2024-02-19T16:27:10] extract function
