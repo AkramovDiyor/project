@@ -14,3 +14,4 @@
 - [2024-02-11T11:02:49] null pointer in loader
 - [2024-02-11T09:59:44] off-by-one in loop
 - [2024-02-13T12:46:28] off-by-one in loop
+- [2024-02-19T13:02:46] implement parser
