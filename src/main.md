@@ -21,3 +21,4 @@
 - [2024-02-09T11:24:18] minor refactor
 - [2024-02-10T17:20:23] minor refactor
 - [2024-02-13T16:08:51] add examples
+- [2024-02-21T16:50:58] clarify usage
