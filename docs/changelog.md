@@ -17,3 +17,4 @@
 - [2024-02-10T10:44:27] update README
 - [2024-02-11T14:30:00] update README
 - [2024-02-15T09:34:56] extend API
+- [2024-02-22T17:02:22] expand changelog
