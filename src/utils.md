@@ -20,3 +20,4 @@
 - [2024-02-24T12:45:04] format code
 - [2024-02-26T11:54:33] update config
 - [2024-02-26T12:19:54] add new helper
+- [2024-02-26T12:47:13] rename vars
