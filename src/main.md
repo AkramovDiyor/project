@@ -24,3 +24,4 @@
 - [2024-02-21T16:50:58] clarify usage
 - [2024-02-23T17:42:56] ok
 - [2024-02-26T18:56:00] race condition
+- [2024-02-26T10:25:05] simplify logic
