@@ -18,3 +18,4 @@
 - [2024-02-21T09:40:05] minor refactor
 - [2024-02-23T13:02:52] extract function
 - [2024-02-25T09:36:41] split module
+- [2024-02-28T15:20:15] off-by-one in loop
