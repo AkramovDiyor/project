@@ -25,3 +25,4 @@
 - [2024-02-23T17:42:56] ok
 - [2024-02-26T18:56:00] race condition
 - [2024-02-26T10:25:05] simplify logic
+- [2024-02-28T13:00:12] expand changelog
