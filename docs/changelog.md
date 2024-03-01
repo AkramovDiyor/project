@@ -18,3 +18,4 @@
 - [2024-02-11T14:30:00] update README
 - [2024-02-15T09:34:56] extend API
 - [2024-02-22T17:02:22] expand changelog
+- [2024-03-01T21:05:03] bump deps
