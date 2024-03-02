@@ -22,3 +22,4 @@
 - [2024-02-26T12:19:54] add new helper
 - [2024-02-26T12:47:13] rename vars
 - [2024-03-01T09:42:27] minor refactor
+- [2024-03-02T13:02:19] expand changelog
