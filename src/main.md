@@ -27,3 +27,4 @@
 - [2024-02-26T10:25:05] simplify logic
 - [2024-02-28T13:00:12] expand changelog
 - [2024-03-03T14:37:45] add new helper
+- [2024-03-03T09:25:59] extract function
