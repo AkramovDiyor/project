@@ -26,3 +26,4 @@
 - [2024-02-26T18:56:00] race condition
 - [2024-02-26T10:25:05] simplify logic
 - [2024-02-28T13:00:12] expand changelog
+- [2024-03-03T14:37:45] add new helper
