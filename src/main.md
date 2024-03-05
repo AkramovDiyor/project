@@ -29,3 +29,4 @@
 - [2024-03-03T14:37:45] add new helper
 - [2024-03-03T09:25:59] extract function
 - [2024-03-04T11:42:09] race condition
+- [2024-03-05T19:11:19] null pointer in loader
