@@ -10,3 +10,4 @@
 - [2024-02-19T16:27:10] extract function
 - [2024-02-20T20:04:53] race condition
 - [2024-02-23T20:21:55] null pointer in loader
+- [2024-03-08T09:12:11] handle edge case
