@@ -21,3 +21,4 @@
 - [2024-03-01T21:05:03] bump deps
 - [2024-03-03T18:15:09] minor refactor
 - [2024-03-04T17:16:26] add examples
+- [2024-03-08T19:36:06] expand changelog
