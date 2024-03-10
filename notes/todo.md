@@ -12,3 +12,4 @@
 - [2024-02-23T20:21:55] null pointer in loader
 - [2024-03-08T09:12:11] handle edge case
 - [2024-03-10T16:39:58] add examples
+- [2024-03-10T20:56:26] handle edge case
