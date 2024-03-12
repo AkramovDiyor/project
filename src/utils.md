@@ -28,3 +28,4 @@
 - [2024-03-10T19:29:43] cleanup imports
 - [2024-03-11T19:19:47] off-by-one in loop
 - [2024-03-11T12:47:12] add caching layer
+- [2024-03-12T09:35:35] simplify logic
