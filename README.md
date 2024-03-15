@@ -23,3 +23,4 @@
 - [2024-03-10T09:50:51] handle edge case
 - [2024-03-11T12:44:28] extend API
 - [2024-03-12T18:46:09] implement parser
+- [2024-03-15T17:16:23] simplify logic
