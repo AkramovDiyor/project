@@ -31,3 +31,4 @@
 - [2024-03-04T11:42:09] race condition
 - [2024-03-05T19:11:19] null pointer in loader
 - [2024-03-20T14:33:56] clarify usage
+- [2024-03-20T17:33:21] handle edge case
