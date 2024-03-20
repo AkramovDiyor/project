@@ -30,3 +30,4 @@
 - [2024-03-12T16:58:04] race condition
 - [2024-03-14T11:50:44] add examples
 - [2024-03-19T18:06:40] format code
+- [2024-03-20T16:43:33] minor refactor
