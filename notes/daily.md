@@ -32,3 +32,4 @@
 - [2024-03-19T18:06:40] format code
 - [2024-03-20T16:43:33] minor refactor
 - [2024-03-20T09:42:09] expand changelog
+- [2024-03-25T18:24:31] clarify usage
