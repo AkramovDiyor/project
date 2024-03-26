@@ -24,3 +24,4 @@
 - [2024-03-11T12:44:28] extend API
 - [2024-03-12T18:46:09] implement parser
 - [2024-03-15T17:16:23] simplify logic
+- [2024-03-26T11:40:00] rename vars
