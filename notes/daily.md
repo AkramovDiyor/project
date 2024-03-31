@@ -33,3 +33,4 @@
 - [2024-03-20T16:43:33] minor refactor
 - [2024-03-20T09:42:09] expand changelog
 - [2024-03-25T18:24:31] clarify usage
+- [2024-03-31T10:20:45] ok
