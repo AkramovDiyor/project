@@ -34,3 +34,4 @@
 - [2024-03-20T09:42:09] expand changelog
 - [2024-03-25T18:24:31] clarify usage
 - [2024-03-31T10:20:45] ok
+- [2024-04-01T22:39:14] add caching layer
