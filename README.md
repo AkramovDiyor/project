@@ -25,3 +25,4 @@
 - [2024-03-12T18:46:09] implement parser
 - [2024-03-15T17:16:23] simplify logic
 - [2024-03-26T11:40:00] rename vars
+- [2024-04-02T10:18:06] split module
