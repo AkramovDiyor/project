@@ -35,3 +35,4 @@
 - [2024-03-31T11:47:43] cleanup imports
 - [2024-04-01T18:14:07] bump deps
 - [2024-04-03T11:48:46] rename vars
+- [2024-04-04T18:36:15] fix typos
