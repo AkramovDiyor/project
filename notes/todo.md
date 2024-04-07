@@ -23,3 +23,4 @@
 - [2024-04-03T12:30:44] update README
 - [2024-04-04T10:32:36] add examples
 - [2024-04-07T21:10:21] race condition
+- [2024-04-07T10:08:56] simplify logic
