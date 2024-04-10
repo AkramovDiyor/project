@@ -39,3 +39,4 @@
 - [2024-04-01T16:09:26] rename vars
 - [2024-04-07T22:01:41] expand changelog
 - [2024-04-07T20:11:46] split module
+- [2024-04-10T10:00:25] implement parser
