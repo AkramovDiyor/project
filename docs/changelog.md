@@ -31,3 +31,4 @@
 - [2024-04-02T09:17:20] incorrect date parsing
 - [2024-04-04T17:29:46] add examples
 - [2024-04-09T12:33:15] rename vars
+- [2024-04-12T18:13:34] extract function
