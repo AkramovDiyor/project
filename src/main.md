@@ -41,3 +41,4 @@
 - [2024-04-07T20:11:46] split module
 - [2024-04-10T10:00:25] implement parser
 - [2024-04-12T09:43:17] ok
+- [2024-04-13T10:17:11] null pointer in loader
