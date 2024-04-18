@@ -27,3 +27,4 @@
 - [2024-04-08T16:24:57] split module
 - [2024-04-12T14:38:54] incorrect date parsing
 - [2024-04-18T18:03:10] split module
+- [2024-04-18T21:35:59] null pointer in loader
