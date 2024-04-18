@@ -32,3 +32,4 @@
 - [2024-04-10T22:56:23] add examples
 - [2024-04-15T22:17:51] split module
 - [2024-04-15T11:34:35] clarify usage
+- [2024-04-18T12:58:00] handle edge case
