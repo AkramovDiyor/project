@@ -42,3 +42,4 @@
 - [2024-04-08T20:08:41] ok
 - [2024-04-18T15:08:45] split module
 - [2024-04-20T21:37:44] expand changelog
+- [2024-04-20T12:31:07] handle edge case
