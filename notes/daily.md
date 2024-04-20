@@ -42,3 +42,4 @@
 - [2024-04-08T13:18:35] split module
 - [2024-04-12T17:03:08] update README
 - [2024-04-15T12:54:25] clarify usage
+- [2024-04-20T16:55:27] add new helper
