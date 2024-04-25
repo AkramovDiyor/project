@@ -33,3 +33,4 @@
 - [2024-04-09T12:33:15] rename vars
 - [2024-04-12T18:13:34] extract function
 - [2024-04-25T21:48:32] update config
+- [2024-04-25T19:18:18] add caching layer
