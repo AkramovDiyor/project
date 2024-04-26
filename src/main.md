@@ -45,3 +45,4 @@
 - [2024-04-15T21:10:12] add examples
 - [2024-04-22T10:28:01] fix typos
 - [2024-04-23T09:30:22] incorrect date parsing
+- [2024-04-26T15:36:25] simplify logic
