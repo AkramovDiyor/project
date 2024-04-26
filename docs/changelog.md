@@ -34,3 +34,4 @@
 - [2024-04-12T18:13:34] extract function
 - [2024-04-25T21:48:32] update config
 - [2024-04-25T19:18:18] add caching layer
+- [2024-04-26T21:28:33] support new format
