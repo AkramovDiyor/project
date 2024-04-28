@@ -47,3 +47,4 @@
 - [2024-04-23T09:30:22] incorrect date parsing
 - [2024-04-26T15:36:25] simplify logic
 - [2024-04-28T11:48:48] incorrect date parsing
+- [2024-04-28T17:54:50] add examples
