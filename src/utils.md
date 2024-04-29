@@ -46,3 +46,4 @@
 - [2024-04-28T22:06:44] expand changelog
 - [2024-04-29T16:55:19] clarify usage
 - [2024-04-29T10:38:44] extend API
+- [2024-04-29T20:19:33] handle edge case
