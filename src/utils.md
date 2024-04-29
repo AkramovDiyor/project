@@ -44,3 +44,4 @@
 - [2024-04-20T21:37:44] expand changelog
 - [2024-04-20T12:31:07] handle edge case
 - [2024-04-28T22:06:44] expand changelog
+- [2024-04-29T16:55:19] clarify usage
