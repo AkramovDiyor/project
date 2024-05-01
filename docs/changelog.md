@@ -37,3 +37,4 @@
 - [2024-04-26T21:28:33] support new format
 - [2024-04-28T13:50:12] off-by-one in loop
 - [2024-04-29T10:05:58] ok
+- [2024-05-01T10:41:12] extend API
