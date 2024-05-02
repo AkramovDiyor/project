@@ -48,3 +48,4 @@
 - [2024-04-29T10:38:44] extend API
 - [2024-04-29T20:19:33] handle edge case
 - [2024-05-01T12:07:02] minor refactor
+- [2024-05-02T21:42:29] extract function
