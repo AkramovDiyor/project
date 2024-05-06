@@ -31,3 +31,4 @@
 - [2024-04-26T16:10:13] add new helper
 - [2024-05-01T22:53:29] add caching layer
 - [2024-05-02T15:43:51] update config
+- [2024-05-06T14:40:46] bump deps
