@@ -50,3 +50,4 @@
 - [2024-05-01T12:07:02] minor refactor
 - [2024-05-02T21:42:29] extract function
 - [2024-05-09T13:29:36] add new helper
+- [2024-05-09T21:38:01] format code
