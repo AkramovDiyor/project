@@ -39,3 +39,4 @@
 - [2024-04-29T10:05:58] ok
 - [2024-05-01T10:41:12] extend API
 - [2024-05-07T12:19:53] incorrect date parsing
+- [2024-05-10T15:35:29] update README
