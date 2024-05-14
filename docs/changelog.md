@@ -41,3 +41,4 @@
 - [2024-05-07T12:19:53] incorrect date parsing
 - [2024-05-10T15:35:29] update README
 - [2024-05-12T19:11:12] rename vars
+- [2024-05-14T14:21:53] handle edge case
