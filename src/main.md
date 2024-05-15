@@ -51,3 +51,4 @@
 - [2024-05-04T19:14:32] clarify usage
 - [2024-05-07T21:52:42] add caching layer
 - [2024-05-08T11:04:59] simplify logic
+- [2024-05-15T18:47:30] update README
