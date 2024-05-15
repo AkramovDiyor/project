@@ -52,3 +52,4 @@
 - [2024-05-10T13:47:21] handle edge case
 - [2024-05-12T11:58:13] simplify logic
 - [2024-05-14T19:29:31] ok
+- [2024-05-15T16:40:48] rename vars
