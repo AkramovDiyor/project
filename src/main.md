@@ -52,3 +52,4 @@
 - [2024-05-07T21:52:42] add caching layer
 - [2024-05-08T11:04:59] simplify logic
 - [2024-05-15T18:47:30] update README
+- [2024-05-16T11:02:32] minor refactor
