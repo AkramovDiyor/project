@@ -33,3 +33,4 @@
 - [2024-05-02T15:43:51] update config
 - [2024-05-06T14:40:46] bump deps
 - [2024-05-14T18:32:57] off-by-one in loop
+- [2024-05-17T19:03:35] extend API
