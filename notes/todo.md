@@ -35,3 +35,4 @@
 - [2024-05-14T18:32:57] off-by-one in loop
 - [2024-05-17T19:03:35] extend API
 - [2024-05-17T21:11:15] fix typos
+- [2024-05-17T10:53:24] rename vars
