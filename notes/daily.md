@@ -56,3 +56,4 @@
 - [2024-05-17T16:47:43] rename vars
 - [2024-05-17T14:28:16] add caching layer
 - [2024-05-20T22:54:18] off-by-one in loop
+- [2024-05-21T17:10:26] expand changelog
