@@ -54,3 +54,4 @@
 - [2024-05-15T18:47:30] update README
 - [2024-05-16T11:02:32] minor refactor
 - [2024-05-22T09:00:26] null pointer in loader
+- [2024-05-22T21:06:35] format code
