@@ -58,3 +58,4 @@
 - [2024-05-20T22:54:18] off-by-one in loop
 - [2024-05-21T17:10:26] expand changelog
 - [2024-05-22T17:53:20] add examples
+- [2024-05-23T19:00:28] implement parser
