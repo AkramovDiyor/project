@@ -58,3 +58,4 @@
 - [2024-05-21T15:07:00] ok
 - [2024-05-21T09:10:51] simplify logic
 - [2024-05-21T22:21:10] extract function
+- [2024-05-23T15:43:53] support new format
