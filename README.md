@@ -41,3 +41,4 @@
 - [2024-05-14T21:50:27] ok
 - [2024-05-16T10:22:45] split module
 - [2024-05-22T14:19:46] race condition
+- [2024-05-23T19:17:07] extract function
