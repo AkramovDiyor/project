@@ -60,3 +60,4 @@
 - [2024-05-21T22:21:10] extract function
 - [2024-05-23T15:43:53] support new format
 - [2024-05-24T12:31:47] race condition
+- [2024-05-25T16:07:40] add examples
