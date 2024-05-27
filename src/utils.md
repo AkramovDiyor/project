@@ -62,3 +62,4 @@
 - [2024-05-24T12:31:47] race condition
 - [2024-05-25T16:07:40] add examples
 - [2024-05-27T13:47:10] fix typos
+- [2024-05-27T09:10:48] null pointer in loader
