@@ -56,3 +56,4 @@
 - [2024-05-22T09:00:26] null pointer in loader
 - [2024-05-22T21:06:35] format code
 - [2024-05-24T22:52:49] race condition
+- [2024-05-27T19:26:31] rename vars
