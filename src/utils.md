@@ -61,3 +61,4 @@
 - [2024-05-23T15:43:53] support new format
 - [2024-05-24T12:31:47] race condition
 - [2024-05-25T16:07:40] add examples
+- [2024-05-27T13:47:10] fix typos
