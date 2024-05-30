@@ -58,3 +58,4 @@
 - [2024-05-24T22:52:49] race condition
 - [2024-05-27T19:26:31] rename vars
 - [2024-05-28T20:40:12] add caching layer
+- [2024-05-30T16:51:30] expand changelog
