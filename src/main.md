@@ -61,3 +61,4 @@
 - [2024-05-30T16:51:30] expand changelog
 - [2024-05-30T10:30:54] support new format
 - [2024-06-01T14:02:39] update config
+- [2024-06-01T17:46:17] extract function
