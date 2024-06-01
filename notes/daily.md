@@ -59,3 +59,4 @@
 - [2024-05-21T17:10:26] expand changelog
 - [2024-05-22T17:53:20] add examples
 - [2024-05-23T19:00:28] implement parser
+- [2024-06-01T16:26:22] null pointer in loader
