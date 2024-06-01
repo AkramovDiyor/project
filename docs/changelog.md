@@ -49,3 +49,4 @@
 - [2024-05-28T10:18:44] split module
 - [2024-05-29T21:45:36] clarify usage
 - [2024-05-29T22:26:12] update config
+- [2024-06-01T21:49:34] implement parser
