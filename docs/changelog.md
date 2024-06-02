@@ -50,3 +50,4 @@
 - [2024-05-29T21:45:36] clarify usage
 - [2024-05-29T22:26:12] update config
 - [2024-06-01T21:49:34] implement parser
+- [2024-06-02T22:27:40] off-by-one in loop
