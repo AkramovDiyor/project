@@ -67,3 +67,4 @@
 - [2024-05-29T15:58:41] split module
 - [2024-05-29T14:06:35] race condition
 - [2024-05-30T09:37:02] fix typos
+- [2024-06-02T09:33:12] expand changelog
