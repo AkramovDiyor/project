@@ -61,3 +61,4 @@
 - [2024-05-23T19:00:28] implement parser
 - [2024-06-01T16:26:22] null pointer in loader
 - [2024-06-03T17:13:54] add examples
+- [2024-06-03T13:43:36] extend API
