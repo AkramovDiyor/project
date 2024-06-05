@@ -52,3 +52,4 @@
 - [2024-06-01T21:49:34] implement parser
 - [2024-06-02T22:27:40] off-by-one in loop
 - [2024-06-02T11:02:26] extend API
+- [2024-06-05T17:57:05] fix typos
