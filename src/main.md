@@ -65,3 +65,4 @@
 - [2024-06-02T09:01:00] update config
 - [2024-06-05T14:50:10] fix typos
 - [2024-06-07T20:47:15] update README
+- [2024-06-07T14:19:43] split module
