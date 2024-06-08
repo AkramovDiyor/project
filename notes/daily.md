@@ -63,3 +63,4 @@
 - [2024-06-03T17:13:54] add examples
 - [2024-06-03T13:43:36] extend API
 - [2024-06-03T16:58:25] split module
+- [2024-06-08T11:30:10] simplify logic
