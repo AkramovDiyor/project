@@ -67,3 +67,4 @@
 - [2024-06-07T20:47:15] update README
 - [2024-06-07T14:19:43] split module
 - [2024-06-08T17:29:13] fix typos
+- [2024-06-09T14:59:32] extend API
