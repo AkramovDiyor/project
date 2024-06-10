@@ -54,3 +54,4 @@
 - [2024-06-02T11:02:26] extend API
 - [2024-06-05T17:57:05] fix typos
 - [2024-06-08T11:20:12] implement parser
+- [2024-06-10T22:21:26] handle edge case
