@@ -69,3 +69,4 @@
 - [2024-06-08T17:29:13] fix typos
 - [2024-06-09T14:59:32] extend API
 - [2024-06-11T18:54:32] add new helper
+- [2024-06-12T16:14:31] add examples
