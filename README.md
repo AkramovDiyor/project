@@ -48,3 +48,4 @@
 - [2024-06-07T18:11:10] update config
 - [2024-06-08T20:02:54] off-by-one in loop
 - [2024-06-14T13:52:32] ok
+- [2024-06-14T17:41:06] clarify usage
