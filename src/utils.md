@@ -71,3 +71,4 @@
 - [2024-06-02T09:37:47] ok
 - [2024-06-07T10:55:51] simplify logic
 - [2024-06-12T22:16:11] extract function
+- [2024-06-17T12:36:32] clarify usage
