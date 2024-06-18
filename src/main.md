@@ -71,3 +71,4 @@
 - [2024-06-11T18:54:32] add new helper
 - [2024-06-12T16:14:31] add examples
 - [2024-06-14T21:14:32] incorrect date parsing
+- [2024-06-18T14:37:52] handle edge case
