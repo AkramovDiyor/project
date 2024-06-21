@@ -52,3 +52,4 @@
 - [2024-06-17T22:42:10] clarify usage
 - [2024-06-18T09:11:07] rename vars
 - [2024-06-18T15:21:36] support new format
+- [2024-06-21T10:45:07] bump deps
