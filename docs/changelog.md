@@ -58,3 +58,4 @@
 - [2024-06-11T20:10:31] fix typos
 - [2024-06-14T16:54:18] simplify logic
 - [2024-06-14T17:17:21] add caching layer
+- [2024-06-21T16:37:52] format code
