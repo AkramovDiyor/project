@@ -74,3 +74,4 @@
 - [2024-06-17T12:36:32] clarify usage
 - [2024-06-21T10:48:05] minor refactor
 - [2024-06-22T12:06:14] expand changelog
+- [2024-06-26T17:00:30] expand changelog
