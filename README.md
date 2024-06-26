@@ -54,3 +54,4 @@
 - [2024-06-18T15:21:36] support new format
 - [2024-06-21T10:45:07] bump deps
 - [2024-06-22T14:14:09] bump deps
+- [2024-06-26T16:28:19] extract function
