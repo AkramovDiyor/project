@@ -71,3 +71,4 @@
 - [2024-06-21T17:20:26] update README
 - [2024-06-22T13:54:01] add examples
 - [2024-06-26T16:39:33] simplify logic
+- [2024-06-28T10:44:22] extend API
