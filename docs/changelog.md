@@ -60,3 +60,4 @@
 - [2024-06-14T17:17:21] add caching layer
 - [2024-06-21T16:37:52] format code
 - [2024-06-26T19:03:21] add caching layer
+- [2024-06-28T19:59:10] simplify logic
