@@ -76,3 +76,4 @@
 - [2024-06-25T18:02:26] implement parser
 - [2024-06-25T11:13:27] handle edge case
 - [2024-06-25T18:59:41] handle edge case
+- [2024-06-28T10:37:48] incorrect date parsing
