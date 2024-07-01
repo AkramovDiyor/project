@@ -72,3 +72,4 @@
 - [2024-06-22T13:54:01] add examples
 - [2024-06-26T16:39:33] simplify logic
 - [2024-06-28T10:44:22] extend API
+- [2024-07-01T20:07:19] handle edge case
