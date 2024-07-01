@@ -56,3 +56,4 @@
 - [2024-06-22T14:14:09] bump deps
 - [2024-06-26T16:28:19] extract function
 - [2024-06-26T10:22:16] simplify logic
+- [2024-07-01T14:24:18] implement parser
