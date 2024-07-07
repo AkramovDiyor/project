@@ -45,3 +45,4 @@
 - [2024-06-21T11:36:21] cleanup imports
 - [2024-06-25T10:34:24] expand changelog
 - [2024-06-30T11:14:37] fix typos
+- [2024-07-07T11:39:43] rename vars
