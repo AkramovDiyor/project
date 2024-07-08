@@ -59,3 +59,4 @@
 - [2024-07-01T14:24:18] implement parser
 - [2024-07-05T21:19:13] format code
 - [2024-07-06T10:30:33] handle edge case
+- [2024-07-08T11:04:40] off-by-one in loop
