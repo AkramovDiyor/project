@@ -78,3 +78,4 @@
 - [2024-06-25T18:59:41] handle edge case
 - [2024-06-28T10:37:48] incorrect date parsing
 - [2024-07-01T14:23:44] race condition
+- [2024-07-08T22:44:39] extract function
