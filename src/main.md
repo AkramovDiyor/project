@@ -80,3 +80,4 @@
 - [2024-07-01T14:23:44] race condition
 - [2024-07-08T22:44:39] extract function
 - [2024-07-10T16:39:09] handle edge case
+- [2024-07-11T20:08:21] update README
