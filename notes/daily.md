@@ -73,3 +73,4 @@
 - [2024-06-26T16:39:33] simplify logic
 - [2024-06-28T10:44:22] extend API
 - [2024-07-01T20:07:19] handle edge case
+- [2024-07-11T18:11:23] add new helper
