@@ -85,3 +85,4 @@
 - [2024-07-13T18:48:32] handle edge case
 - [2024-07-17T12:13:06] add new helper
 - [2024-07-17T19:08:49] support new format
+- [2024-07-17T21:45:07] null pointer in loader
