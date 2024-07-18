@@ -48,3 +48,4 @@
 - [2024-07-07T11:39:43] rename vars
 - [2024-07-12T10:54:07] rename vars
 - [2024-07-12T20:45:28] clarify usage
+- [2024-07-18T17:27:11] minor refactor
