@@ -62,3 +62,4 @@
 - [2024-07-08T11:04:40] off-by-one in loop
 - [2024-07-15T13:50:31] ok
 - [2024-07-17T11:47:10] rename vars
+- [2024-07-18T17:54:05] incorrect date parsing
