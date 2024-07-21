@@ -64,3 +64,4 @@
 - [2024-07-17T11:47:10] rename vars
 - [2024-07-18T17:54:05] incorrect date parsing
 - [2024-07-18T10:56:04] handle edge case
+- [2024-07-21T20:49:49] extract function
