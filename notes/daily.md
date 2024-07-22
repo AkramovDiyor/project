@@ -76,3 +76,4 @@
 - [2024-07-11T18:11:23] add new helper
 - [2024-07-12T12:03:38] clarify usage
 - [2024-07-17T09:41:46] cleanup imports
+- [2024-07-22T10:37:42] expand changelog
