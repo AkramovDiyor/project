@@ -66,3 +66,4 @@
 - [2024-07-18T10:56:04] handle edge case
 - [2024-07-21T20:49:49] extract function
 - [2024-07-22T11:37:59] handle edge case
+- [2024-07-23T11:22:25] add examples
