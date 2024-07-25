@@ -50,3 +50,4 @@
 - [2024-07-12T20:45:28] clarify usage
 - [2024-07-18T17:27:11] minor refactor
 - [2024-07-21T16:51:28] split module
+- [2024-07-25T10:43:41] add caching layer
