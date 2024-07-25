@@ -83,3 +83,4 @@
 - [2024-07-11T20:08:21] update README
 - [2024-07-11T18:43:20] off-by-one in loop
 - [2024-07-25T14:54:50] expand changelog
+- [2024-07-25T22:43:18] minor refactor
