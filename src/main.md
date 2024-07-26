@@ -84,3 +84,4 @@
 - [2024-07-11T18:43:20] off-by-one in loop
 - [2024-07-25T14:54:50] expand changelog
 - [2024-07-25T22:43:18] minor refactor
+- [2024-07-26T17:00:44] implement parser
