@@ -71,3 +71,4 @@
 - [2024-07-18T13:27:43] handle edge case
 - [2024-07-23T10:57:09] race condition
 - [2024-07-26T14:35:03] add examples
+- [2024-07-27T21:15:23] support new format
