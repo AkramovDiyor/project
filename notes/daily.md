@@ -79,3 +79,4 @@
 - [2024-07-22T10:37:42] expand changelog
 - [2024-07-23T19:14:32] cleanup imports
 - [2024-07-25T17:32:53] expand changelog
+- [2024-07-28T15:39:37] null pointer in loader
