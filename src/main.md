@@ -85,3 +85,4 @@
 - [2024-07-25T14:54:50] expand changelog
 - [2024-07-25T22:43:18] minor refactor
 - [2024-07-26T17:00:44] implement parser
+- [2024-08-02T21:10:20] race condition
