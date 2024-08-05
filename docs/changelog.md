@@ -74,3 +74,4 @@
 - [2024-07-27T21:15:23] support new format
 - [2024-08-02T22:14:03] rename vars
 - [2024-08-04T10:49:00] update README
+- [2024-08-05T19:59:56] expand changelog
