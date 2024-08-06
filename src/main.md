@@ -88,3 +88,4 @@
 - [2024-08-02T21:10:20] race condition
 - [2024-08-03T16:44:43] simplify logic
 - [2024-08-05T16:04:57] bump deps
+- [2024-08-06T12:53:45] null pointer in loader
