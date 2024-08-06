@@ -82,3 +82,4 @@
 - [2024-07-28T15:39:37] null pointer in loader
 - [2024-08-03T15:52:30] fix typos
 - [2024-08-05T13:34:59] ok
+- [2024-08-06T21:03:06] rename vars
