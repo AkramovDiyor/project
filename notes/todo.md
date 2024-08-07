@@ -56,3 +56,4 @@
 - [2024-08-02T09:34:11] add caching layer
 - [2024-08-03T19:30:04] split module
 - [2024-08-04T21:08:56] support new format
+- [2024-08-07T20:27:38] implement parser
