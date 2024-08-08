@@ -57,3 +57,4 @@
 - [2024-08-03T19:30:04] split module
 - [2024-08-04T21:08:56] support new format
 - [2024-08-07T20:27:38] implement parser
+- [2024-08-08T15:39:36] incorrect date parsing
