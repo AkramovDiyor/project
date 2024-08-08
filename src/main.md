@@ -89,3 +89,4 @@
 - [2024-08-03T16:44:43] simplify logic
 - [2024-08-05T16:04:57] bump deps
 - [2024-08-06T12:53:45] null pointer in loader
+- [2024-08-08T12:52:57] support new format
