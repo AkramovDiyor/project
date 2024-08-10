@@ -76,3 +76,4 @@
 - [2024-08-04T10:49:00] update README
 - [2024-08-05T19:59:56] expand changelog
 - [2024-08-08T22:24:41] ok
+- [2024-08-10T15:45:12] incorrect date parsing
