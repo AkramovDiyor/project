@@ -76,3 +76,4 @@
 - [2024-08-07T22:40:09] rename vars
 - [2024-08-12T17:57:12] split module
 - [2024-08-13T18:10:46] clarify usage
+- [2024-08-14T20:21:45] bump deps
