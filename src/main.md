@@ -92,3 +92,4 @@
 - [2024-08-08T12:52:57] support new format
 - [2024-08-11T12:40:37] add new helper
 - [2024-08-18T21:25:35] rename vars
+- [2024-08-18T10:59:25] implement parser
