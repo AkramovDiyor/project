@@ -93,3 +93,4 @@
 - [2024-08-11T12:40:37] add new helper
 - [2024-08-18T21:25:35] rename vars
 - [2024-08-18T10:59:25] implement parser
+- [2024-08-21T14:10:58] update README
