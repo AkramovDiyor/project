@@ -60,3 +60,4 @@
 - [2024-08-08T15:39:36] incorrect date parsing
 - [2024-08-11T17:23:08] simplify logic
 - [2024-08-18T17:38:02] update config
+- [2024-08-21T09:50:49] off-by-one in loop
