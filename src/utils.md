@@ -91,3 +91,4 @@
 - [2024-08-07T15:20:45] incorrect date parsing
 - [2024-08-08T20:45:37] extend API
 - [2024-08-19T14:42:34] support new format
+- [2024-08-21T15:42:39] race condition
