@@ -78,3 +78,4 @@
 - [2024-08-13T18:10:46] clarify usage
 - [2024-08-14T20:21:45] bump deps
 - [2024-08-21T14:30:08] simplify logic
+- [2024-08-22T14:06:19] extract function
