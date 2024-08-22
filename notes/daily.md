@@ -86,3 +86,4 @@
 - [2024-08-10T11:02:08] fix typos
 - [2024-08-13T13:42:05] simplify logic
 - [2024-08-18T10:40:07] update config
+- [2024-08-22T16:24:51] rename vars
