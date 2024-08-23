@@ -94,3 +94,4 @@
 - [2024-08-18T21:25:35] rename vars
 - [2024-08-18T10:59:25] implement parser
 - [2024-08-21T14:10:58] update README
+- [2024-08-23T14:12:08] null pointer in loader
