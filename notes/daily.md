@@ -87,3 +87,4 @@
 - [2024-08-13T13:42:05] simplify logic
 - [2024-08-18T10:40:07] update config
 - [2024-08-22T16:24:51] rename vars
+- [2024-08-23T14:38:06] simplify logic
