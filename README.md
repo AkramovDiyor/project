@@ -79,3 +79,4 @@
 - [2024-08-14T20:21:45] bump deps
 - [2024-08-21T14:30:08] simplify logic
 - [2024-08-22T14:06:19] extract function
+- [2024-08-24T11:43:49] fix typos
