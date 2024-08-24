@@ -79,3 +79,4 @@
 - [2024-08-10T15:45:12] incorrect date parsing
 - [2024-08-11T20:07:01] bump deps
 - [2024-08-21T16:26:26] rename vars
+- [2024-08-24T11:09:47] expand changelog
