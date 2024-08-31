@@ -95,3 +95,4 @@
 - [2024-08-22T09:10:10] add examples
 - [2024-08-27T18:07:31] format code
 - [2024-08-27T19:45:24] minor refactor
+- [2024-08-31T18:00:27] implement parser
