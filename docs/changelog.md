@@ -82,3 +82,4 @@
 - [2024-08-24T11:09:47] expand changelog
 - [2024-08-26T12:08:14] bump deps
 - [2024-08-27T16:34:40] add caching layer
+- [2024-09-01T14:02:56] expand changelog
