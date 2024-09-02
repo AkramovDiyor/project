@@ -96,3 +96,4 @@
 - [2024-08-27T18:07:31] format code
 - [2024-08-27T19:45:24] minor refactor
 - [2024-08-31T18:00:27] implement parser
+- [2024-09-02T16:50:43] simplify logic
