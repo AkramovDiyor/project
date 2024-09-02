@@ -82,3 +82,4 @@
 - [2024-08-24T11:43:49] fix typos
 - [2024-08-27T19:08:15] add new helper
 - [2024-09-01T19:38:05] support new format
+- [2024-09-02T13:10:10] bump deps
