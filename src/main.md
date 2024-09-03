@@ -95,3 +95,4 @@
 - [2024-08-18T10:59:25] implement parser
 - [2024-08-21T14:10:58] update README
 - [2024-08-23T14:12:08] null pointer in loader
+- [2024-09-03T18:25:29] incorrect date parsing
