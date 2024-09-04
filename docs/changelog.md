@@ -84,3 +84,4 @@
 - [2024-08-27T16:34:40] add caching layer
 - [2024-09-01T14:02:56] expand changelog
 - [2024-09-01T19:30:57] add new helper
+- [2024-09-04T21:29:25] fix typos
