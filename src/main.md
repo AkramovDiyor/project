@@ -98,3 +98,4 @@
 - [2024-09-03T18:25:29] incorrect date parsing
 - [2024-09-05T14:46:19] ok
 - [2024-09-06T18:49:47] off-by-one in loop
+- [2024-09-06T19:05:15] format code
