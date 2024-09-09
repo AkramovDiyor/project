@@ -99,3 +99,4 @@
 - [2024-09-02T16:50:43] simplify logic
 - [2024-09-02T18:04:21] clarify usage
 - [2024-09-09T20:01:15] null pointer in loader
+- [2024-09-09T14:39:17] simplify logic
