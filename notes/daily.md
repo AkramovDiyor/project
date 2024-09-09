@@ -89,3 +89,4 @@
 - [2024-08-22T16:24:51] rename vars
 - [2024-08-23T14:38:06] simplify logic
 - [2024-09-04T14:51:57] format code
+- [2024-09-09T10:47:38] extend API
