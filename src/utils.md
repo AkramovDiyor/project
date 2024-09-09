@@ -98,3 +98,4 @@
 - [2024-08-31T18:00:27] implement parser
 - [2024-09-02T16:50:43] simplify logic
 - [2024-09-02T18:04:21] clarify usage
+- [2024-09-09T20:01:15] null pointer in loader
