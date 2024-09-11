@@ -90,3 +90,4 @@
 - [2024-08-23T14:38:06] simplify logic
 - [2024-09-04T14:51:57] format code
 - [2024-09-09T10:47:38] extend API
+- [2024-09-11T13:41:36] incorrect date parsing
