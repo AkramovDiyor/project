@@ -101,3 +101,4 @@
 - [2024-09-09T20:01:15] null pointer in loader
 - [2024-09-09T14:39:17] simplify logic
 - [2024-09-10T21:24:01] extract function
+- [2024-09-11T10:06:38] format code
