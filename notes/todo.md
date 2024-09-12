@@ -70,3 +70,4 @@
 - [2024-09-10T14:52:05] handle edge case
 - [2024-09-12T17:50:52] cleanup imports
 - [2024-09-12T22:41:48] format code
+- [2024-09-12T17:09:41] extract function
