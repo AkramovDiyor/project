@@ -103,3 +103,4 @@
 - [2024-09-10T21:24:01] extract function
 - [2024-09-11T10:06:38] format code
 - [2024-09-12T16:28:23] null pointer in loader
+- [2024-09-12T22:09:36] off-by-one in loop
