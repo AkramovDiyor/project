@@ -101,3 +101,4 @@
 - [2024-09-06T19:05:15] format code
 - [2024-09-10T11:16:37] rename vars
 - [2024-09-11T16:20:14] expand changelog
+- [2024-09-13T11:49:29] simplify logic
