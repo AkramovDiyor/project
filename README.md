@@ -85,3 +85,4 @@
 - [2024-09-02T13:10:10] bump deps
 - [2024-09-10T11:35:11] support new format
 - [2024-09-11T15:48:58] race condition
+- [2024-09-16T09:19:08] incorrect date parsing
