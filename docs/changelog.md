@@ -89,3 +89,4 @@
 - [2024-09-10T14:51:43] split module
 - [2024-09-11T18:04:06] cleanup imports
 - [2024-09-14T18:44:13] fix typos
+- [2024-09-19T19:46:55] handle edge case
