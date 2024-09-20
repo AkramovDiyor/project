@@ -91,3 +91,4 @@
 - [2024-09-14T18:44:13] fix typos
 - [2024-09-19T19:46:55] handle edge case
 - [2024-09-20T18:45:19] incorrect date parsing
+- [2024-09-20T20:56:48] extend API
