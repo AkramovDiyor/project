@@ -102,3 +102,4 @@
 - [2024-09-10T11:16:37] rename vars
 - [2024-09-11T16:20:14] expand changelog
 - [2024-09-13T11:49:29] simplify logic
+- [2024-09-23T21:06:53] update config
