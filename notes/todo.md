@@ -74,3 +74,4 @@
 - [2024-09-16T15:17:08] handle edge case
 - [2024-09-18T19:49:06] minor refactor
 - [2024-09-24T15:46:52] rename vars
+- [2024-09-25T17:18:45] support new format
