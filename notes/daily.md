@@ -92,3 +92,4 @@
 - [2024-09-09T10:47:38] extend API
 - [2024-09-11T13:41:36] incorrect date parsing
 - [2024-09-19T21:22:57] fix typos
+- [2024-09-26T18:57:05] minor refactor
