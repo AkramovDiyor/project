@@ -106,3 +106,4 @@
 - [2024-09-23T13:40:35] cleanup imports
 - [2024-09-26T22:21:07] race condition
 - [2024-09-28T21:41:06] bump deps
+- [2024-09-29T09:15:38] null pointer in loader
