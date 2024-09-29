@@ -109,3 +109,4 @@
 - [2024-09-23T17:05:55] bump deps
 - [2024-09-26T12:58:25] extract function
 - [2024-09-28T11:05:40] clarify usage
+- [2024-09-29T10:54:45] update config
