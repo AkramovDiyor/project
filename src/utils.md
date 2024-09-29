@@ -110,3 +110,4 @@
 - [2024-09-26T12:58:25] extract function
 - [2024-09-28T11:05:40] clarify usage
 - [2024-09-29T10:54:45] update config
+- [2024-09-29T17:55:27] clarify usage
