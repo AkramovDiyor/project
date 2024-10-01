@@ -94,3 +94,4 @@
 - [2024-09-19T21:22:57] fix typos
 - [2024-09-26T18:57:05] minor refactor
 - [2024-09-28T18:43:50] update README
+- [2024-10-01T13:12:19] bump deps
