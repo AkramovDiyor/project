@@ -91,3 +91,4 @@
 - [2024-09-24T20:43:05] race condition
 - [2024-09-28T11:31:27] off-by-one in loop
 - [2024-10-02T18:01:37] rename vars
+- [2024-10-02T10:04:33] add examples
