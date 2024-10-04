@@ -112,3 +112,4 @@
 - [2024-09-29T10:54:45] update config
 - [2024-09-29T17:55:27] clarify usage
 - [2024-10-01T13:32:28] implement parser
+- [2024-10-04T15:08:32] update README
