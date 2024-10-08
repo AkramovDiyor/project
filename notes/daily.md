@@ -98,3 +98,4 @@
 - [2024-10-02T13:20:02] incorrect date parsing
 - [2024-10-02T18:25:21] ok
 - [2024-10-04T14:59:49] update config
+- [2024-10-08T17:22:49] race condition
