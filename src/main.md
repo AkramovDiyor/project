@@ -108,3 +108,4 @@
 - [2024-09-28T21:41:06] bump deps
 - [2024-09-29T09:15:38] null pointer in loader
 - [2024-10-07T21:01:54] clarify usage
+- [2024-10-09T16:44:10] extract function
