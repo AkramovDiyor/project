@@ -115,3 +115,4 @@
 - [2024-10-04T15:08:32] update README
 - [2024-10-07T12:55:14] update README
 - [2024-10-09T13:55:17] rename vars
+- [2024-10-10T11:47:13] simplify logic
