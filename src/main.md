@@ -109,3 +109,4 @@
 - [2024-09-29T09:15:38] null pointer in loader
 - [2024-10-07T21:01:54] clarify usage
 - [2024-10-09T16:44:10] extract function
+- [2024-10-10T11:47:29] implement parser
