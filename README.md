@@ -95,3 +95,4 @@
 - [2024-10-07T18:33:03] incorrect date parsing
 - [2024-10-07T18:12:10] extend API
 - [2024-10-10T15:26:07] cleanup imports
+- [2024-10-11T18:26:33] handle edge case
