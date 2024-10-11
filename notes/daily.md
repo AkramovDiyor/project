@@ -100,3 +100,4 @@
 - [2024-10-04T14:59:49] update config
 - [2024-10-08T17:22:49] race condition
 - [2024-10-09T16:02:22] bump deps
+- [2024-10-11T18:22:41] add caching layer
