@@ -113,3 +113,4 @@
 - [2024-10-11T17:01:32] clarify usage
 - [2024-10-14T18:21:13] ok
 - [2024-10-14T16:59:29] incorrect date parsing
+- [2024-10-14T22:34:07] implement parser
