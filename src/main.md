@@ -114,3 +114,4 @@
 - [2024-10-14T18:21:13] ok
 - [2024-10-14T16:59:29] incorrect date parsing
 - [2024-10-14T22:34:07] implement parser
+- [2024-10-15T14:25:51] update README
