@@ -102,3 +102,4 @@
 - [2024-10-09T16:02:22] bump deps
 - [2024-10-11T18:22:41] add caching layer
 - [2024-10-12T10:06:49] update config
+- [2024-10-17T13:58:51] update README
