@@ -103,3 +103,4 @@
 - [2024-10-11T18:22:41] add caching layer
 - [2024-10-12T10:06:49] update config
 - [2024-10-17T13:58:51] update README
+- [2024-10-18T18:44:02] extend API
