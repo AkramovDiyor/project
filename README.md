@@ -96,3 +96,4 @@
 - [2024-10-07T18:12:10] extend API
 - [2024-10-10T15:26:07] cleanup imports
 - [2024-10-11T18:26:33] handle edge case
+- [2024-10-21T20:20:41] fix typos
