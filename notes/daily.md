@@ -105,3 +105,4 @@
 - [2024-10-17T13:58:51] update README
 - [2024-10-18T18:44:02] extend API
 - [2024-10-18T22:03:22] add caching layer
+- [2024-10-22T18:45:10] null pointer in loader
