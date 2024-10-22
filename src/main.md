@@ -118,3 +118,4 @@
 - [2024-10-21T13:46:56] format code
 - [2024-10-22T16:05:30] incorrect date parsing
 - [2024-10-22T13:32:44] update config
+- [2024-10-22T22:40:21] expand changelog
