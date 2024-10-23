@@ -106,3 +106,4 @@
 - [2024-10-18T18:44:02] extend API
 - [2024-10-18T22:03:22] add caching layer
 - [2024-10-22T18:45:10] null pointer in loader
+- [2024-10-23T15:46:10] fix typos
