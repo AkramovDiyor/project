@@ -84,3 +84,4 @@
 - [2024-10-11T16:27:08] fix typos
 - [2024-10-12T12:30:20] fix typos
 - [2024-10-22T12:00:54] handle edge case
+- [2024-10-23T18:55:07] update README
