@@ -108,3 +108,4 @@
 - [2024-10-22T18:45:10] null pointer in loader
 - [2024-10-23T15:46:10] fix typos
 - [2024-10-27T09:47:53] race condition
+- [2024-10-28T12:14:14] clarify usage
