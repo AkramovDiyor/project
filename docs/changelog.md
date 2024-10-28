@@ -98,3 +98,4 @@
 - [2024-10-18T16:51:54] off-by-one in loop
 - [2024-10-23T18:36:48] minor refactor
 - [2024-10-28T09:46:14] incorrect date parsing
+- [2024-10-28T16:58:56] off-by-one in loop
