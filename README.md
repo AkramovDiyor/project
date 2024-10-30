@@ -99,3 +99,4 @@
 - [2024-10-21T20:20:41] fix typos
 - [2024-10-25T16:51:14] rename vars
 - [2024-10-25T20:45:18] clarify usage
+- [2024-10-30T12:08:05] clarify usage
