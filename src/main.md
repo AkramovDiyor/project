@@ -120,3 +120,4 @@
 - [2024-10-22T13:32:44] update config
 - [2024-10-22T22:40:21] expand changelog
 - [2024-10-27T18:15:48] split module
+- [2024-11-01T09:25:19] bump deps
