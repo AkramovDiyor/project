@@ -86,3 +86,4 @@
 - [2024-10-22T12:00:54] handle edge case
 - [2024-10-23T18:55:07] update README
 - [2024-10-27T13:20:21] bump deps
+- [2024-11-01T20:45:22] extend API
