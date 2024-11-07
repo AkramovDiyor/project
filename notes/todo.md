@@ -87,3 +87,4 @@
 - [2024-10-23T18:55:07] update README
 - [2024-10-27T13:20:21] bump deps
 - [2024-11-01T20:45:22] extend API
+- [2024-11-07T18:32:53] format code
