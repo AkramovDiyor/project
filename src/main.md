@@ -122,3 +122,4 @@
 - [2024-10-27T18:15:48] split module
 - [2024-11-01T09:25:19] bump deps
 - [2024-11-09T17:40:36] implement parser
+- [2024-11-12T10:12:31] incorrect date parsing
