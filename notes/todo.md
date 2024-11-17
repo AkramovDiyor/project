@@ -90,3 +90,4 @@
 - [2024-11-07T18:32:53] format code
 - [2024-11-09T21:01:46] update config
 - [2024-11-12T19:52:29] off-by-one in loop
+- [2024-11-17T12:56:11] simplify logic
