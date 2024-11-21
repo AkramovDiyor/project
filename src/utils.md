@@ -127,3 +127,4 @@
 - [2024-11-19T10:27:42] clarify usage
 - [2024-11-19T18:32:01] cleanup imports
 - [2024-11-21T19:39:28] handle edge case
+- [2024-11-21T12:12:06] simplify logic
