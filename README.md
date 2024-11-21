@@ -103,3 +103,4 @@
 - [2024-10-31T09:31:50] cleanup imports
 - [2024-11-02T20:34:02] rename vars
 - [2024-11-07T20:31:11] expand changelog
+- [2024-11-21T11:36:05] race condition
