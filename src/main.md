@@ -125,3 +125,4 @@
 - [2024-11-12T10:12:31] incorrect date parsing
 - [2024-11-17T20:19:21] incorrect date parsing
 - [2024-11-19T17:13:54] ok
+- [2024-11-25T22:33:45] extract function
