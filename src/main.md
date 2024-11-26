@@ -126,3 +126,4 @@
 - [2024-11-17T20:19:21] incorrect date parsing
 - [2024-11-19T17:13:54] ok
 - [2024-11-25T22:33:45] extract function
+- [2024-11-26T14:10:44] simplify logic
