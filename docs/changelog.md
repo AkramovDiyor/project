@@ -110,3 +110,4 @@
 - [2024-11-28T18:07:23] update README
 - [2024-11-29T17:16:39] split module
 - [2024-11-29T16:43:53] rename vars
+- [2024-11-30T13:05:12] update config
