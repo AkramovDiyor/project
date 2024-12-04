@@ -111,3 +111,4 @@
 - [2024-11-29T17:16:39] split module
 - [2024-11-29T16:43:53] rename vars
 - [2024-11-30T13:05:12] update config
+- [2024-12-04T16:39:17] clarify usage
