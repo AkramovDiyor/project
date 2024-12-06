@@ -118,3 +118,4 @@
 - [2024-12-02T22:19:02] ok
 - [2024-12-05T17:47:18] add examples
 - [2024-12-05T19:40:03] implement parser
+- [2024-12-06T20:52:12] incorrect date parsing
