@@ -130,3 +130,4 @@
 - [2024-12-03T11:00:53] race condition
 - [2024-12-05T16:17:04] extract function
 - [2024-12-07T17:25:46] implement parser
+- [2024-12-08T13:54:27] handle edge case
