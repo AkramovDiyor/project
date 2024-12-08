@@ -106,3 +106,4 @@
 - [2024-11-21T11:36:05] race condition
 - [2024-11-25T20:03:01] add examples
 - [2024-12-06T14:03:42] fix typos
+- [2024-12-08T18:38:34] extract function
