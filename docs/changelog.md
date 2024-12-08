@@ -112,3 +112,4 @@
 - [2024-11-29T16:43:53] rename vars
 - [2024-11-30T13:05:12] update config
 - [2024-12-04T16:39:17] clarify usage
+- [2024-12-08T13:50:06] clarify usage
