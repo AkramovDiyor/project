@@ -95,3 +95,4 @@
 - [2024-11-28T10:24:26] extend API
 - [2024-11-29T22:54:46] update README
 - [2024-12-07T20:23:10] handle edge case
+- [2024-12-09T13:04:24] incorrect date parsing
