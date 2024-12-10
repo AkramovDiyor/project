@@ -96,3 +96,4 @@
 - [2024-11-29T22:54:46] update README
 - [2024-12-07T20:23:10] handle edge case
 - [2024-12-09T13:04:24] incorrect date parsing
+- [2024-12-10T12:23:30] simplify logic
