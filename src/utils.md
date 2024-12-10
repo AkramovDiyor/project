@@ -134,3 +134,4 @@
 - [2024-11-27T21:45:31] race condition
 - [2024-11-29T21:43:54] clarify usage
 - [2024-12-05T20:18:01] cleanup imports
+- [2024-12-10T17:21:59] add new helper
