@@ -131,3 +131,4 @@
 - [2024-12-05T16:17:04] extract function
 - [2024-12-07T17:25:46] implement parser
 - [2024-12-08T13:54:27] handle edge case
+- [2024-12-11T15:35:46] incorrect date parsing
