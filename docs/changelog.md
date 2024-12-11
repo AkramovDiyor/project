@@ -113,3 +113,4 @@
 - [2024-11-30T13:05:12] update config
 - [2024-12-04T16:39:17] clarify usage
 - [2024-12-08T13:50:06] clarify usage
+- [2024-12-11T09:58:06] expand changelog
