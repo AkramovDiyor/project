@@ -117,3 +117,4 @@
 - [2024-12-12T13:56:03] cleanup imports
 - [2024-12-15T22:59:11] update README
 - [2024-12-15T16:39:44] format code
+- [2024-12-15T16:36:41] add examples
