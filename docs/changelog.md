@@ -115,3 +115,4 @@
 - [2024-12-08T13:50:06] clarify usage
 - [2024-12-11T09:58:06] expand changelog
 - [2024-12-12T13:56:03] cleanup imports
+- [2024-12-15T22:59:11] update README
