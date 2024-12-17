@@ -109,3 +109,4 @@
 - [2024-12-08T18:38:34] extract function
 - [2024-12-08T20:26:04] fix typos
 - [2024-12-15T20:07:54] update README
+- [2024-12-17T16:54:06] clarify usage
