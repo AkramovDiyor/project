@@ -119,3 +119,4 @@
 - [2024-12-15T16:39:44] format code
 - [2024-12-15T16:36:41] add examples
 - [2024-12-17T14:55:22] extract function
+- [2024-12-17T18:36:32] clarify usage
