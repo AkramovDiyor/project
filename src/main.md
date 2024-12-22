@@ -133,3 +133,4 @@
 - [2024-12-08T13:54:27] handle edge case
 - [2024-12-11T15:35:46] incorrect date parsing
 - [2024-12-15T20:10:58] extract function
+- [2024-12-22T15:57:33] expand changelog
