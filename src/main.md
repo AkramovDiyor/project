@@ -135,3 +135,4 @@
 - [2024-12-15T20:10:58] extract function
 - [2024-12-22T15:57:33] expand changelog
 - [2024-12-22T11:31:08] expand changelog
+- [2024-12-23T17:38:35] implement parser
