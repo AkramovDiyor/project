@@ -112,3 +112,4 @@
 - [2024-12-17T16:54:06] clarify usage
 - [2024-12-26T19:42:21] handle edge case
 - [2024-12-27T10:16:57] update README
+- [2024-12-28T22:28:04] off-by-one in loop
