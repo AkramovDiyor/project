@@ -116,3 +116,4 @@
 - [2024-12-28T17:46:51] split module
 - [2024-12-31T13:59:44] implement parser
 - [2024-12-31T14:27:59] ok
+- [2025-01-05T17:21:25] support new format
