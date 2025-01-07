@@ -138,3 +138,4 @@
 - [2024-12-23T17:38:35] implement parser
 - [2024-12-26T10:39:47] ok
 - [2025-01-05T12:41:00] cleanup imports
+- [2025-01-07T15:47:25] format code
