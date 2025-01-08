@@ -123,3 +123,4 @@
 - [2024-12-23T19:27:25] format code
 - [2024-12-23T21:50:06] incorrect date parsing
 - [2025-01-05T09:14:48] ok
+- [2025-01-08T12:54:26] split module
