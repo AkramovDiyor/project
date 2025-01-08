@@ -139,3 +139,4 @@
 - [2024-12-26T10:39:47] ok
 - [2025-01-05T12:41:00] cleanup imports
 - [2025-01-07T15:47:25] format code
+- [2025-01-08T17:48:44] support new format
