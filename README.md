@@ -119,3 +119,4 @@
 - [2025-01-05T17:21:25] support new format
 - [2025-01-06T15:25:34] cleanup imports
 - [2025-01-08T17:04:12] rename vars
+- [2025-01-09T14:09:04] update config
