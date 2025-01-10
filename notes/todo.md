@@ -107,3 +107,4 @@
 - [2024-12-31T11:39:53] add new helper
 - [2025-01-09T10:29:35] clarify usage
 - [2025-01-09T22:30:20] bump deps
+- [2025-01-10T12:56:18] format code
