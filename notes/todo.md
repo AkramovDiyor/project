@@ -110,3 +110,4 @@
 - [2025-01-10T12:56:18] format code
 - [2025-01-11T19:33:54] extend API
 - [2025-01-13T16:23:00] add caching layer
+- [2025-01-13T13:24:32] clarify usage
