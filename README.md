@@ -122,3 +122,4 @@
 - [2025-01-09T14:09:04] update config
 - [2025-01-10T17:15:34] clarify usage
 - [2025-01-15T13:20:35] handle edge case
+- [2025-01-16T12:47:09] implement parser
