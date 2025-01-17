@@ -111,3 +111,4 @@
 - [2025-01-11T19:33:54] extend API
 - [2025-01-13T16:23:00] add caching layer
 - [2025-01-13T13:24:32] clarify usage
+- [2025-01-17T19:12:21] off-by-one in loop
