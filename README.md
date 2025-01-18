@@ -124,3 +124,4 @@
 - [2025-01-15T13:20:35] handle edge case
 - [2025-01-16T12:47:09] implement parser
 - [2025-01-16T11:43:49] fix typos
+- [2025-01-18T17:05:53] minor refactor
