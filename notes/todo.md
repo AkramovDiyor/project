@@ -112,3 +112,4 @@
 - [2025-01-13T16:23:00] add caching layer
 - [2025-01-13T13:24:32] clarify usage
 - [2025-01-17T19:12:21] off-by-one in loop
+- [2025-01-19T09:32:36] support new format
