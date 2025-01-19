@@ -142,3 +142,4 @@
 - [2025-01-08T17:48:44] support new format
 - [2025-01-09T09:08:52] ok
 - [2025-01-16T22:18:54] clarify usage
+- [2025-01-19T10:37:22] off-by-one in loop
