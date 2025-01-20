@@ -125,3 +125,4 @@
 - [2025-01-16T12:47:09] implement parser
 - [2025-01-16T11:43:49] fix typos
 - [2025-01-18T17:05:53] minor refactor
+- [2025-01-20T17:58:51] update config
