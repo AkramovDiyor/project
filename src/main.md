@@ -144,3 +144,4 @@
 - [2025-01-16T22:18:54] clarify usage
 - [2025-01-19T10:37:22] off-by-one in loop
 - [2025-01-20T19:02:53] incorrect date parsing
+- [2025-01-20T09:41:10] simplify logic
