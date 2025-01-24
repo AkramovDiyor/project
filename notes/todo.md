@@ -114,3 +114,4 @@
 - [2025-01-17T19:12:21] off-by-one in loop
 - [2025-01-19T09:32:36] support new format
 - [2025-01-21T20:27:05] update README
+- [2025-01-24T17:55:04] add examples
