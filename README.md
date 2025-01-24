@@ -127,3 +127,4 @@
 - [2025-01-18T17:05:53] minor refactor
 - [2025-01-20T17:58:51] update config
 - [2025-01-21T19:53:35] implement parser
+- [2025-01-24T16:43:58] minor refactor
