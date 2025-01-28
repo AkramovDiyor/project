@@ -129,3 +129,4 @@
 - [2025-01-17T12:34:55] update config
 - [2025-01-18T16:14:21] expand changelog
 - [2025-01-20T14:04:27] rename vars
+- [2025-01-28T18:58:24] fix typos
