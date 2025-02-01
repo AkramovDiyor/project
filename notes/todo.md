@@ -116,3 +116,4 @@
 - [2025-01-21T20:27:05] update README
 - [2025-01-24T17:55:04] add examples
 - [2025-01-31T17:35:06] support new format
+- [2025-02-01T22:58:17] clarify usage
