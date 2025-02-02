@@ -149,3 +149,4 @@
 - [2025-01-24T09:42:18] handle edge case
 - [2025-01-27T15:11:20] expand changelog
 - [2025-01-31T20:23:53] rename vars
+- [2025-02-02T14:08:55] add new helper
