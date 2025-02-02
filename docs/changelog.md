@@ -128,3 +128,4 @@
 - [2025-01-13T18:57:08] null pointer in loader
 - [2025-01-13T22:28:06] clarify usage
 - [2025-01-19T10:35:17] update README
+- [2025-02-02T20:38:49] update config
