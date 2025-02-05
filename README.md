@@ -129,3 +129,4 @@
 - [2025-01-21T19:53:35] implement parser
 - [2025-01-24T16:43:58] minor refactor
 - [2025-02-02T20:58:41] minor refactor
+- [2025-02-05T16:14:43] bump deps
