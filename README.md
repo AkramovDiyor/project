@@ -130,3 +130,4 @@
 - [2025-01-24T16:43:58] minor refactor
 - [2025-02-02T20:58:41] minor refactor
 - [2025-02-05T16:14:43] bump deps
+- [2025-02-05T20:08:17] add caching layer
