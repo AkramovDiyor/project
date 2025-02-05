@@ -130,3 +130,4 @@
 - [2025-01-19T10:35:17] update README
 - [2025-02-02T20:38:49] update config
 - [2025-02-04T21:25:04] extract function
+- [2025-02-05T09:47:10] off-by-one in loop
