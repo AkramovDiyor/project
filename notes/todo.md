@@ -118,3 +118,4 @@
 - [2025-01-31T17:35:06] support new format
 - [2025-02-01T22:58:17] clarify usage
 - [2025-02-05T12:33:58] split module
+- [2025-02-05T12:45:20] rename vars
