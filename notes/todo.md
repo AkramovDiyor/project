@@ -120,3 +120,4 @@
 - [2025-02-05T12:33:58] split module
 - [2025-02-05T12:45:20] rename vars
 - [2025-02-06T14:25:10] minor refactor
+- [2025-02-06T20:19:20] simplify logic
