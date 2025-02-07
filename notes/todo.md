@@ -121,3 +121,4 @@
 - [2025-02-05T12:45:20] rename vars
 - [2025-02-06T14:25:10] minor refactor
 - [2025-02-06T20:19:20] simplify logic
+- [2025-02-07T20:43:41] off-by-one in loop
