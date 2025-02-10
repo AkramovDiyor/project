@@ -153,3 +153,4 @@
 - [2025-02-02T19:20:01] expand changelog
 - [2025-02-06T14:10:10] rename vars
 - [2025-02-06T12:36:01] fix typos
+- [2025-02-10T12:23:53] split module
