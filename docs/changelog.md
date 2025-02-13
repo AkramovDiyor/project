@@ -132,3 +132,4 @@
 - [2025-02-04T21:25:04] extract function
 - [2025-02-05T09:47:10] off-by-one in loop
 - [2025-02-09T11:51:18] expand changelog
+- [2025-02-13T14:31:19] race condition
