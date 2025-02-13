@@ -123,3 +123,4 @@
 - [2025-02-06T20:19:20] simplify logic
 - [2025-02-07T20:43:41] off-by-one in loop
 - [2025-02-09T16:13:22] add new helper
+- [2025-02-13T16:52:51] expand changelog
