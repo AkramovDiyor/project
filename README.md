@@ -134,3 +134,4 @@
 - [2025-02-09T13:57:19] update README
 - [2025-02-10T14:42:50] race condition
 - [2025-02-10T11:14:08] extract function
+- [2025-02-14T17:09:25] extend API
