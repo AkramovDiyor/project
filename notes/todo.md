@@ -124,3 +124,4 @@
 - [2025-02-07T20:43:41] off-by-one in loop
 - [2025-02-09T16:13:22] add new helper
 - [2025-02-13T16:52:51] expand changelog
+- [2025-02-16T11:47:08] clarify usage
