@@ -157,3 +157,4 @@
 - [2025-02-12T15:15:22] cleanup imports
 - [2025-02-13T17:09:26] extract function
 - [2025-02-13T18:59:54] ok
+- [2025-02-18T21:35:56] extend API
