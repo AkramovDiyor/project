@@ -125,3 +125,4 @@
 - [2025-02-09T16:13:22] add new helper
 - [2025-02-13T16:52:51] expand changelog
 - [2025-02-16T11:47:08] clarify usage
+- [2025-02-18T10:50:27] format code
