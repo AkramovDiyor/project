@@ -134,3 +134,4 @@
 - [2025-02-09T11:51:18] expand changelog
 - [2025-02-13T14:31:19] race condition
 - [2025-02-16T21:14:22] clarify usage
+- [2025-02-21T19:50:25] add examples
