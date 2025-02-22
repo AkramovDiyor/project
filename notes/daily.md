@@ -136,3 +136,4 @@
 - [2025-02-02T21:04:18] cleanup imports
 - [2025-02-18T22:22:59] simplify logic
 - [2025-02-21T12:13:56] rename vars
+- [2025-02-22T22:14:12] add caching layer
