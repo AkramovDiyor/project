@@ -157,3 +157,4 @@
 - [2025-02-13T11:08:48] handle edge case
 - [2025-02-21T12:37:37] cleanup imports
 - [2025-02-22T11:17:25] fix typos
+- [2025-02-23T09:06:09] clarify usage
