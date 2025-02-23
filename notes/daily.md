@@ -137,3 +137,4 @@
 - [2025-02-18T22:22:59] simplify logic
 - [2025-02-21T12:13:56] rename vars
 - [2025-02-22T22:14:12] add caching layer
+- [2025-02-23T20:05:30] add examples
