@@ -161,3 +161,4 @@
 - [2025-02-18T17:09:54] bump deps
 - [2025-02-18T21:07:23] add caching layer
 - [2025-02-22T14:43:23] split module
+- [2025-02-23T09:11:48] extend API
