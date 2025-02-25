@@ -127,3 +127,4 @@
 - [2025-02-16T11:47:08] clarify usage
 - [2025-02-18T10:50:27] format code
 - [2025-02-21T16:12:38] add new helper
+- [2025-02-25T16:25:09] handle edge case
