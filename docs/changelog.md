@@ -138,3 +138,4 @@
 - [2025-02-22T19:16:43] add examples
 - [2025-02-25T11:30:37] expand changelog
 - [2025-02-26T14:08:13] clarify usage
+- [2025-02-27T15:20:03] expand changelog
