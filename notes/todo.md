@@ -128,3 +128,4 @@
 - [2025-02-18T10:50:27] format code
 - [2025-02-21T16:12:38] add new helper
 - [2025-02-25T16:25:09] handle edge case
+- [2025-02-27T19:47:37] update config
