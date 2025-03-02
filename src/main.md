@@ -161,3 +161,4 @@
 - [2025-02-23T13:28:59] split module
 - [2025-02-26T21:55:13] implement parser
 - [2025-02-28T19:51:58] rename vars
+- [2025-03-02T19:52:53] extract function
