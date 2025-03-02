@@ -140,3 +140,4 @@
 - [2025-02-26T19:22:42] incorrect date parsing
 - [2025-02-28T13:56:08] update README
 - [2025-03-02T14:04:13] extend API
+- [2025-03-02T22:13:10] split module
