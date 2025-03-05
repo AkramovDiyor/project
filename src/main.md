@@ -164,3 +164,4 @@
 - [2025-03-02T19:52:53] extract function
 - [2025-03-03T13:11:10] race condition
 - [2025-03-04T15:36:10] off-by-one in loop
+- [2025-03-05T19:57:35] minor refactor
