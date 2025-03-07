@@ -141,3 +141,4 @@
 - [2025-02-27T11:41:19] fix typos
 - [2025-02-28T12:31:29] format code
 - [2025-03-02T11:28:11] extract function
+- [2025-03-07T19:06:02] clarify usage
