@@ -140,3 +140,4 @@
 - [2025-02-26T14:08:13] clarify usage
 - [2025-02-27T15:20:03] expand changelog
 - [2025-03-07T18:48:13] extend API
+- [2025-03-08T09:37:50] expand changelog
