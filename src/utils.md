@@ -172,3 +172,4 @@
 - [2025-03-06T11:26:38] bump deps
 - [2025-03-07T12:14:21] split module
 - [2025-03-08T22:54:33] extract function
+- [2025-03-08T20:20:00] expand changelog
