@@ -144,3 +144,4 @@
 - [2025-03-03T18:47:03] ok
 - [2025-03-07T22:42:30] expand changelog
 - [2025-03-07T13:15:06] rename vars
+- [2025-03-09T21:39:54] null pointer in loader
