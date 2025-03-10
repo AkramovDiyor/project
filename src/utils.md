@@ -173,3 +173,4 @@
 - [2025-03-07T12:14:21] split module
 - [2025-03-08T22:54:33] extract function
 - [2025-03-08T20:20:00] expand changelog
+- [2025-03-10T17:37:55] add examples
