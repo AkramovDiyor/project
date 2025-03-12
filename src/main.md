@@ -169,3 +169,4 @@
 - [2025-03-10T17:59:15] extend API
 - [2025-03-10T16:09:43] support new format
 - [2025-03-11T13:37:55] bump deps
+- [2025-03-12T14:12:09] clarify usage
