@@ -143,3 +143,4 @@
 - [2025-03-02T11:28:11] extract function
 - [2025-03-07T19:06:02] clarify usage
 - [2025-03-08T10:21:38] update config
+- [2025-03-12T21:39:34] update README
