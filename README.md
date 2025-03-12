@@ -145,3 +145,4 @@
 - [2025-03-07T22:42:30] expand changelog
 - [2025-03-07T13:15:06] rename vars
 - [2025-03-09T21:39:54] null pointer in loader
+- [2025-03-12T15:27:13] incorrect date parsing
