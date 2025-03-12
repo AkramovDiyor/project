@@ -130,3 +130,4 @@
 - [2025-02-25T16:25:09] handle edge case
 - [2025-02-27T19:47:37] update config
 - [2025-03-05T22:27:09] update README
+- [2025-03-12T10:13:55] clarify usage
