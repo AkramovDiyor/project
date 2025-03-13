@@ -170,3 +170,4 @@
 - [2025-03-10T16:09:43] support new format
 - [2025-03-11T13:37:55] bump deps
 - [2025-03-12T14:12:09] clarify usage
+- [2025-03-13T19:34:56] rename vars
