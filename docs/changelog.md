@@ -142,3 +142,4 @@
 - [2025-03-07T18:48:13] extend API
 - [2025-03-08T09:37:50] expand changelog
 - [2025-03-10T10:09:09] null pointer in loader
+- [2025-03-15T14:26:19] clarify usage
