@@ -175,3 +175,4 @@
 - [2025-03-08T20:20:00] expand changelog
 - [2025-03-10T17:37:55] add examples
 - [2025-03-16T20:51:10] extend API
+- [2025-03-16T18:32:32] rename vars
