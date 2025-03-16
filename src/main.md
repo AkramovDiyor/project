@@ -172,3 +172,4 @@
 - [2025-03-12T14:12:09] clarify usage
 - [2025-03-13T19:34:56] rename vars
 - [2025-03-16T09:51:00] clarify usage
+- [2025-03-16T14:53:00] split module
