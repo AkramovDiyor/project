@@ -173,3 +173,4 @@
 - [2025-03-13T19:34:56] rename vars
 - [2025-03-16T09:51:00] clarify usage
 - [2025-03-16T14:53:00] split module
+- [2025-03-17T21:39:47] add caching layer
