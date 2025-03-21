@@ -176,3 +176,4 @@
 - [2025-03-10T17:37:55] add examples
 - [2025-03-16T20:51:10] extend API
 - [2025-03-16T18:32:32] rename vars
+- [2025-03-21T19:52:26] null pointer in loader
