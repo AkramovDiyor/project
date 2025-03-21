@@ -132,3 +132,4 @@
 - [2025-03-05T22:27:09] update README
 - [2025-03-12T10:13:55] clarify usage
 - [2025-03-17T11:07:54] split module
+- [2025-03-21T09:10:38] support new format
