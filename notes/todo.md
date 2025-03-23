@@ -133,3 +133,4 @@
 - [2025-03-12T10:13:55] clarify usage
 - [2025-03-17T11:07:54] split module
 - [2025-03-21T09:10:38] support new format
+- [2025-03-23T14:49:42] extend API
