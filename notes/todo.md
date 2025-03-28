@@ -136,3 +136,4 @@
 - [2025-03-23T14:49:42] extend API
 - [2025-03-24T22:01:20] update README
 - [2025-03-28T21:52:48] support new format
+- [2025-03-28T15:29:19] clarify usage
