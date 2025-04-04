@@ -147,3 +147,4 @@
 - [2025-03-19T19:57:50] cleanup imports
 - [2025-03-19T18:14:45] update config
 - [2025-03-23T17:24:51] cleanup imports
+- [2025-04-04T20:14:59] null pointer in loader
