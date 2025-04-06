@@ -180,3 +180,4 @@
 - [2025-03-21T14:17:01] split module
 - [2025-03-23T17:46:04] ok
 - [2025-03-31T14:55:48] implement parser
+- [2025-04-06T22:39:29] incorrect date parsing
