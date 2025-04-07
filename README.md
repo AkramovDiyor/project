@@ -151,3 +151,4 @@
 - [2025-03-17T09:15:33] ok
 - [2025-03-21T16:26:56] rename vars
 - [2025-03-21T19:15:54] incorrect date parsing
+- [2025-04-07T09:13:47] simplify logic
