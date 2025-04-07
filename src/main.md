@@ -180,3 +180,4 @@
 - [2025-03-31T17:44:12] fix typos
 - [2025-04-06T12:31:02] race condition
 - [2025-04-06T15:25:17] support new format
+- [2025-04-07T20:04:00] implement parser
