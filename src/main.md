@@ -183,3 +183,4 @@
 - [2025-04-07T20:04:00] implement parser
 - [2025-04-07T10:43:51] expand changelog
 - [2025-04-07T16:03:50] ok
+- [2025-04-09T14:49:58] extend API
