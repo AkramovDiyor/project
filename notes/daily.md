@@ -149,3 +149,4 @@
 - [2025-03-23T17:24:51] cleanup imports
 - [2025-04-04T20:14:59] null pointer in loader
 - [2025-04-04T15:20:57] minor refactor
+- [2025-04-09T14:32:49] null pointer in loader
