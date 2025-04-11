@@ -151,3 +151,4 @@
 - [2025-04-04T15:20:57] minor refactor
 - [2025-04-09T14:32:49] null pointer in loader
 - [2025-04-09T15:41:26] add caching layer
+- [2025-04-11T14:10:00] expand changelog
