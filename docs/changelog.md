@@ -149,3 +149,4 @@
 - [2025-03-31T19:33:58] handle edge case
 - [2025-03-31T22:11:15] expand changelog
 - [2025-04-07T16:32:08] support new format
+- [2025-04-11T11:07:12] split module
