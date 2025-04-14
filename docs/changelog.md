@@ -150,3 +150,4 @@
 - [2025-03-31T22:11:15] expand changelog
 - [2025-04-07T16:32:08] support new format
 - [2025-04-11T11:07:12] split module
+- [2025-04-14T09:52:49] clarify usage
