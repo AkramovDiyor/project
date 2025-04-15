@@ -153,3 +153,4 @@
 - [2025-03-21T19:15:54] incorrect date parsing
 - [2025-04-07T09:13:47] simplify logic
 - [2025-04-11T22:19:52] update README
+- [2025-04-15T11:30:46] expand changelog
