@@ -153,3 +153,4 @@
 - [2025-04-14T09:52:49] clarify usage
 - [2025-04-15T16:27:20] expand changelog
 - [2025-04-16T22:26:31] update README
+- [2025-04-16T22:21:26] null pointer in loader
