@@ -141,3 +141,4 @@
 - [2025-04-09T14:22:52] clarify usage
 - [2025-04-12T14:56:29] update README
 - [2025-04-15T11:16:11] cleanup imports
+- [2025-04-17T11:53:01] extend API
