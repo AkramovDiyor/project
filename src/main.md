@@ -187,3 +187,4 @@
 - [2025-04-11T15:18:12] format code
 - [2025-04-15T09:27:30] expand changelog
 - [2025-04-16T13:37:43] null pointer in loader
+- [2025-04-18T12:01:55] incorrect date parsing
