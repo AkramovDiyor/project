@@ -155,3 +155,4 @@
 - [2025-04-11T22:19:52] update README
 - [2025-04-15T11:30:46] expand changelog
 - [2025-04-19T20:52:40] update README
+- [2025-04-22T09:51:12] support new format
