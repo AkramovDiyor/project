@@ -144,3 +144,4 @@
 - [2025-04-17T11:53:01] extend API
 - [2025-04-18T09:26:58] add caching layer
 - [2025-04-21T17:34:12] split module
+- [2025-04-22T09:10:49] extend API
