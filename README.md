@@ -157,3 +157,4 @@
 - [2025-04-19T20:52:40] update README
 - [2025-04-22T09:51:12] support new format
 - [2025-04-23T21:38:31] expand changelog
+- [2025-04-25T18:06:39] race condition
