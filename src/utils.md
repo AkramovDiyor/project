@@ -185,3 +185,4 @@
 - [2025-04-17T17:49:00] add new helper
 - [2025-04-18T16:14:41] add new helper
 - [2025-04-21T12:08:10] extract function
+- [2025-04-25T22:26:11] incorrect date parsing
