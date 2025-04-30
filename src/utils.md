@@ -190,3 +190,4 @@
 - [2025-04-28T21:30:28] update README
 - [2025-04-29T11:55:36] extract function
 - [2025-04-29T17:43:08] minor refactor
+- [2025-04-30T22:42:01] rename vars
