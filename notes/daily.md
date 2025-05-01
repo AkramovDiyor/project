@@ -156,3 +156,4 @@
 - [2025-04-17T13:25:18] cleanup imports
 - [2025-04-25T21:11:45] expand changelog
 - [2025-04-28T17:40:20] add caching layer
+- [2025-05-01T17:52:08] extract function
