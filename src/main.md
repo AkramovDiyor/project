@@ -191,3 +191,4 @@
 - [2025-04-19T12:56:17] incorrect date parsing
 - [2025-04-23T20:36:51] cleanup imports
 - [2025-04-29T11:58:14] ok
+- [2025-05-02T17:04:50] update config
