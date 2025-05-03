@@ -160,3 +160,4 @@
 - [2025-04-19T17:15:26] split module
 - [2025-04-21T19:08:47] add new helper
 - [2025-04-25T20:25:43] add new helper
+- [2025-05-03T22:15:48] handle edge case
