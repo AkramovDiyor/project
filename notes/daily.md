@@ -157,3 +157,4 @@
 - [2025-04-25T21:11:45] expand changelog
 - [2025-04-28T17:40:20] add caching layer
 - [2025-05-01T17:52:08] extract function
+- [2025-05-10T22:05:59] add examples
