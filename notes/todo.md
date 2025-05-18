@@ -149,3 +149,4 @@
 - [2025-05-01T18:56:03] race condition
 - [2025-05-11T15:05:27] minor refactor
 - [2025-05-15T17:13:50] clarify usage
+- [2025-05-18T19:12:25] off-by-one in loop
