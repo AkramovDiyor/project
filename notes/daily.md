@@ -161,3 +161,4 @@
 - [2025-05-10T22:18:24] add caching layer
 - [2025-05-15T22:52:49] clarify usage
 - [2025-05-15T19:53:25] update README
+- [2025-05-20T21:53:01] off-by-one in loop
