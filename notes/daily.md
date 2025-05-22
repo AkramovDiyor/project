@@ -162,3 +162,4 @@
 - [2025-05-15T22:52:49] clarify usage
 - [2025-05-15T19:53:25] update README
 - [2025-05-20T21:53:01] off-by-one in loop
+- [2025-05-22T15:41:02] extract function
