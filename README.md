@@ -162,3 +162,4 @@
 - [2025-05-01T20:31:40] implement parser
 - [2025-05-17T21:38:40] implement parser
 - [2025-05-20T20:17:31] expand changelog
+- [2025-05-22T15:57:49] fix typos
