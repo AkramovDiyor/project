@@ -165,3 +165,4 @@
 - [2025-05-22T15:57:49] fix typos
 - [2025-05-25T20:26:00] extract function
 - [2025-05-26T20:44:18] rename vars
+- [2025-05-26T17:32:50] support new format
