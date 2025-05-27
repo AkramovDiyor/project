@@ -170,3 +170,4 @@
 - [2025-05-18T20:54:38] fix typos
 - [2025-05-25T20:17:33] fix typos
 - [2025-05-27T14:34:24] off-by-one in loop
+- [2025-05-27T12:49:07] incorrect date parsing
