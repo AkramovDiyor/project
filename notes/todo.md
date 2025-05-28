@@ -154,3 +154,4 @@
 - [2025-05-22T13:56:05] extend API
 - [2025-05-27T20:23:45] simplify logic
 - [2025-05-28T18:09:39] update config
+- [2025-05-28T13:17:37] extract function
