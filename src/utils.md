@@ -196,3 +196,4 @@
 - [2025-05-17T18:59:52] add examples
 - [2025-05-21T16:52:43] handle edge case
 - [2025-05-21T18:20:21] incorrect date parsing
+- [2025-05-28T13:35:51] extract function
