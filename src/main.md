@@ -199,3 +199,4 @@
 - [2025-05-20T15:22:29] incorrect date parsing
 - [2025-05-22T17:10:02] rename vars
 - [2025-05-26T11:21:38] ok
+- [2025-05-28T12:06:20] update README
