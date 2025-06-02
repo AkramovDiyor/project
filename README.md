@@ -167,3 +167,4 @@
 - [2025-05-26T20:44:18] rename vars
 - [2025-05-26T17:32:50] support new format
 - [2025-06-02T14:48:26] simplify logic
+- [2025-06-02T17:03:22] handle edge case
