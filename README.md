@@ -166,3 +166,4 @@
 - [2025-05-25T20:26:00] extract function
 - [2025-05-26T20:44:18] rename vars
 - [2025-05-26T17:32:50] support new format
+- [2025-06-02T14:48:26] simplify logic
