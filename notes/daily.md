@@ -164,3 +164,4 @@
 - [2025-05-20T21:53:01] off-by-one in loop
 - [2025-05-22T15:41:02] extract function
 - [2025-05-26T19:18:50] support new format
+- [2025-06-02T11:46:06] support new format
