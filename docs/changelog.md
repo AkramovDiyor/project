@@ -174,3 +174,4 @@
 - [2025-05-30T19:04:53] minor refactor
 - [2025-05-31T13:02:43] rename vars
 - [2025-06-02T14:38:29] update config
+- [2025-06-03T11:56:25] expand changelog
