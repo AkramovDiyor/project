@@ -197,3 +197,4 @@
 - [2025-05-21T16:52:43] handle edge case
 - [2025-05-21T18:20:21] incorrect date parsing
 - [2025-05-28T13:35:51] extract function
+- [2025-06-04T16:24:55] support new format
