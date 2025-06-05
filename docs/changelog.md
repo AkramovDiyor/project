@@ -176,3 +176,4 @@
 - [2025-06-02T14:38:29] update config
 - [2025-06-03T11:56:25] expand changelog
 - [2025-06-05T11:02:08] add new helper
+- [2025-06-05T21:37:13] add examples
