@@ -202,3 +202,4 @@
 - [2025-05-28T12:06:20] update README
 - [2025-05-31T11:38:37] minor refactor
 - [2025-06-05T22:24:12] expand changelog
+- [2025-06-05T19:57:08] incorrect date parsing
