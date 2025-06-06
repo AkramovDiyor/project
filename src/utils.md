@@ -198,3 +198,4 @@
 - [2025-05-21T18:20:21] incorrect date parsing
 - [2025-05-28T13:35:51] extract function
 - [2025-06-04T16:24:55] support new format
+- [2025-06-06T11:47:38] ok
