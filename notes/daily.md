@@ -166,3 +166,4 @@
 - [2025-05-26T19:18:50] support new format
 - [2025-06-02T11:46:06] support new format
 - [2025-06-03T09:35:04] add new helper
+- [2025-06-06T22:18:56] rename vars
