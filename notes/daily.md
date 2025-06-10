@@ -168,3 +168,4 @@
 - [2025-06-03T09:35:04] add new helper
 - [2025-06-06T22:18:56] rename vars
 - [2025-06-06T09:35:54] support new format
+- [2025-06-10T21:18:24] bump deps
