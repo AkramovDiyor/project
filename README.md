@@ -171,3 +171,4 @@
 - [2025-06-09T19:42:12] rename vars
 - [2025-06-09T12:33:28] minor refactor
 - [2025-06-10T09:34:41] fix typos
+- [2025-06-11T12:59:21] split module
