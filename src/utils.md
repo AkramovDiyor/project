@@ -200,3 +200,4 @@
 - [2025-06-04T16:24:55] support new format
 - [2025-06-06T11:47:38] ok
 - [2025-06-07T13:43:08] extract function
+- [2025-06-11T09:58:58] fix typos
