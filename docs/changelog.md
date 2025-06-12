@@ -178,3 +178,4 @@
 - [2025-06-05T11:02:08] add new helper
 - [2025-06-05T21:37:13] add examples
 - [2025-06-11T18:44:23] rename vars
+- [2025-06-12T22:04:15] off-by-one in loop
