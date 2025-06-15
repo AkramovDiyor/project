@@ -174,3 +174,4 @@
 - [2025-06-11T12:59:21] split module
 - [2025-06-14T12:04:58] race condition
 - [2025-06-15T10:01:16] simplify logic
+- [2025-06-15T21:16:48] extend API
