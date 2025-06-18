@@ -158,3 +158,4 @@
 - [2025-06-02T09:39:36] cleanup imports
 - [2025-06-10T16:11:09] incorrect date parsing
 - [2025-06-15T11:19:01] update README
+- [2025-06-18T09:57:42] off-by-one in loop
