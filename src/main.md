@@ -206,3 +206,4 @@
 - [2025-06-06T16:01:45] extend API
 - [2025-06-12T13:35:13] add new helper
 - [2025-06-18T17:24:12] add new helper
+- [2025-06-21T10:21:19] null pointer in loader
