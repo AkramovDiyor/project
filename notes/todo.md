@@ -159,3 +159,4 @@
 - [2025-06-10T16:11:09] incorrect date parsing
 - [2025-06-15T11:19:01] update README
 - [2025-06-18T09:57:42] off-by-one in loop
+- [2025-06-21T12:28:50] off-by-one in loop
