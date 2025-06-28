@@ -180,3 +180,4 @@
 - [2025-06-11T18:44:23] rename vars
 - [2025-06-12T22:04:15] off-by-one in loop
 - [2025-06-27T10:15:32] update config
+- [2025-06-28T15:37:29] extend API
