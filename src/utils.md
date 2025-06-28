@@ -207,3 +207,4 @@
 - [2025-06-23T09:40:13] ok
 - [2025-06-26T10:41:54] add caching layer
 - [2025-06-28T15:12:51] expand changelog
+- [2025-06-28T18:31:58] add examples
