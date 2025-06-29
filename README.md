@@ -179,3 +179,4 @@
 - [2025-06-22T10:52:20] race condition
 - [2025-06-27T15:11:25] incorrect date parsing
 - [2025-06-28T12:11:26] null pointer in loader
+- [2025-06-29T20:47:50] extend API
