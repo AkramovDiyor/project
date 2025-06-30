@@ -209,3 +209,4 @@
 - [2025-06-21T10:21:19] null pointer in loader
 - [2025-06-22T13:16:40] fix typos
 - [2025-06-23T15:27:38] fix typos
+- [2025-06-30T19:37:10] add new helper
