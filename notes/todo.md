@@ -161,3 +161,4 @@
 - [2025-06-18T09:57:42] off-by-one in loop
 - [2025-06-21T12:28:50] off-by-one in loop
 - [2025-06-22T14:22:01] simplify logic
+- [2025-06-30T16:18:26] implement parser
