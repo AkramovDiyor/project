@@ -210,3 +210,4 @@
 - [2025-06-28T18:31:58] add examples
 - [2025-06-30T14:37:14] expand changelog
 - [2025-07-02T10:43:26] split module
+- [2025-07-02T13:50:50] expand changelog
