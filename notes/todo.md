@@ -163,3 +163,4 @@
 - [2025-06-22T14:22:01] simplify logic
 - [2025-06-30T16:18:26] implement parser
 - [2025-06-30T16:40:03] implement parser
+- [2025-07-03T20:08:47] null pointer in loader
