@@ -211,3 +211,4 @@
 - [2025-06-23T15:27:38] fix typos
 - [2025-06-30T19:37:10] add new helper
 - [2025-06-30T19:06:22] bump deps
+- [2025-07-05T11:10:38] expand changelog
