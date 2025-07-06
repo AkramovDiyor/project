@@ -182,3 +182,4 @@
 - [2025-06-29T20:47:50] extend API
 - [2025-07-02T09:22:01] cleanup imports
 - [2025-07-03T12:28:07] extend API
+- [2025-07-06T11:15:47] support new format
