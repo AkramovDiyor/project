@@ -212,3 +212,4 @@
 - [2025-07-02T10:43:26] split module
 - [2025-07-02T13:50:50] expand changelog
 - [2025-07-05T12:15:51] add new helper
+- [2025-07-06T14:49:14] add examples
