@@ -166,3 +166,4 @@
 - [2025-07-03T20:08:47] null pointer in loader
 - [2025-07-05T13:29:05] update README
 - [2025-07-06T21:42:18] support new format
+- [2025-07-07T15:57:01] update config
