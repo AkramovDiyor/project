@@ -212,3 +212,4 @@
 - [2025-06-30T19:37:10] add new helper
 - [2025-06-30T19:06:22] bump deps
 - [2025-07-05T11:10:38] expand changelog
+- [2025-07-08T21:45:09] extend API
