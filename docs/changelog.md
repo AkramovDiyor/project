@@ -184,3 +184,4 @@
 - [2025-07-06T20:45:34] add new helper
 - [2025-07-07T09:39:18] cleanup imports
 - [2025-07-07T14:12:29] cleanup imports
+- [2025-07-08T20:51:26] update config
