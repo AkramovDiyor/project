@@ -213,3 +213,4 @@
 - [2025-07-02T13:50:50] expand changelog
 - [2025-07-05T12:15:51] add new helper
 - [2025-07-06T14:49:14] add examples
+- [2025-07-09T18:18:39] rename vars
