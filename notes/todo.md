@@ -169,3 +169,4 @@
 - [2025-07-07T15:57:01] update config
 - [2025-07-07T15:13:44] format code
 - [2025-07-09T12:47:33] extract function
+- [2025-07-09T21:49:20] minor refactor
