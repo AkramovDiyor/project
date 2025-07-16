@@ -187,3 +187,4 @@
 - [2025-07-08T20:51:26] update config
 - [2025-07-10T09:44:31] off-by-one in loop
 - [2025-07-10T11:19:50] support new format
+- [2025-07-16T21:20:23] rename vars
