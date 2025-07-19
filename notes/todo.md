@@ -173,3 +173,4 @@
 - [2025-07-19T11:46:51] add new helper
 - [2025-07-19T14:35:30] fix typos
 - [2025-07-19T16:46:27] simplify logic
+- [2025-07-19T19:26:00] bump deps
