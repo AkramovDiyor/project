@@ -176,3 +176,4 @@
 - [2025-07-11T13:11:11] simplify logic
 - [2025-07-16T12:55:14] incorrect date parsing
 - [2025-07-16T11:01:13] fix typos
+- [2025-07-19T15:48:42] extend API
