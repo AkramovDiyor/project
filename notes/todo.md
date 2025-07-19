@@ -171,3 +171,4 @@
 - [2025-07-09T12:47:33] extract function
 - [2025-07-09T21:49:20] minor refactor
 - [2025-07-19T11:46:51] add new helper
+- [2025-07-19T14:35:30] fix typos
