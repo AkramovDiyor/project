@@ -177,3 +177,4 @@
 - [2025-07-16T12:55:14] incorrect date parsing
 - [2025-07-16T11:01:13] fix typos
 - [2025-07-19T15:48:42] extend API
+- [2025-07-21T19:36:21] support new format
