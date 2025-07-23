@@ -175,3 +175,4 @@
 - [2025-07-19T16:46:27] simplify logic
 - [2025-07-19T19:26:00] bump deps
 - [2025-07-23T14:49:19] simplify logic
+- [2025-07-23T21:03:13] handle edge case
