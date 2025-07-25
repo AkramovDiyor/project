@@ -180,3 +180,4 @@
 - [2025-07-21T19:36:21] support new format
 - [2025-07-21T22:50:26] update README
 - [2025-07-25T14:33:37] update README
+- [2025-07-25T14:52:23] incorrect date parsing
