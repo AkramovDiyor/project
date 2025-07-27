@@ -185,3 +185,4 @@
 - [2025-07-06T11:15:47] support new format
 - [2025-07-14T09:43:25] expand changelog
 - [2025-07-16T14:48:30] extract function
+- [2025-07-27T12:46:01] support new format
