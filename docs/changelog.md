@@ -191,3 +191,4 @@
 - [2025-07-17T19:39:21] rename vars
 - [2025-07-22T17:57:56] rename vars
 - [2025-07-25T10:34:52] minor refactor
+- [2025-07-29T19:19:25] bump deps
