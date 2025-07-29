@@ -176,3 +176,4 @@
 - [2025-07-19T19:26:00] bump deps
 - [2025-07-23T14:49:19] simplify logic
 - [2025-07-23T21:03:13] handle edge case
+- [2025-07-29T14:51:30] rename vars
