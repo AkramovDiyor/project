@@ -192,3 +192,4 @@
 - [2025-07-22T17:57:56] rename vars
 - [2025-07-25T10:34:52] minor refactor
 - [2025-07-29T19:19:25] bump deps
+- [2025-07-29T21:15:14] add caching layer
