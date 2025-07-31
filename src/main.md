@@ -217,3 +217,4 @@
 - [2025-07-16T18:31:45] simplify logic
 - [2025-07-23T17:50:50] fix typos
 - [2025-07-25T20:13:44] format code
+- [2025-07-31T21:34:00] simplify logic
