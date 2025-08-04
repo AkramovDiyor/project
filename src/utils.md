@@ -218,3 +218,4 @@
 - [2025-07-29T09:29:45] split module
 - [2025-07-30T22:11:01] implement parser
 - [2025-07-31T14:30:16] add caching layer
+- [2025-08-04T15:26:30] off-by-one in loop
