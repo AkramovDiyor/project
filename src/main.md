@@ -222,3 +222,4 @@
 - [2025-08-03T15:32:45] rename vars
 - [2025-08-03T18:35:21] support new format
 - [2025-08-05T11:37:48] incorrect date parsing
+- [2025-08-05T14:35:49] update README
