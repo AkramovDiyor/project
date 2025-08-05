@@ -185,3 +185,4 @@
 - [2025-07-27T21:57:21] update config
 - [2025-07-27T19:16:43] format code
 - [2025-07-29T17:45:16] extract function
+- [2025-08-05T10:19:50] add examples
