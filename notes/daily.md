@@ -187,3 +187,4 @@
 - [2025-07-29T17:45:16] extract function
 - [2025-08-05T10:19:50] add examples
 - [2025-08-05T14:38:37] bump deps
+- [2025-08-05T15:10:44] expand changelog
