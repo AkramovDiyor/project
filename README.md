@@ -187,3 +187,4 @@
 - [2025-07-16T14:48:30] extract function
 - [2025-07-27T12:46:01] support new format
 - [2025-08-03T21:30:56] extract function
+- [2025-08-07T21:19:16] update config
