@@ -190,3 +190,4 @@
 - [2025-08-07T21:19:16] update config
 - [2025-08-07T17:29:07] add examples
 - [2025-08-07T15:33:55] support new format
+- [2025-08-08T15:57:08] split module
