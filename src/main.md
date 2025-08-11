@@ -225,3 +225,4 @@
 - [2025-08-05T14:35:49] update README
 - [2025-08-07T12:04:40] rename vars
 - [2025-08-11T09:27:39] add examples
+- [2025-08-11T17:22:39] split module
