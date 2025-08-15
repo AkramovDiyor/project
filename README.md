@@ -193,3 +193,4 @@
 - [2025-08-08T15:57:08] split module
 - [2025-08-09T20:54:02] split module
 - [2025-08-13T17:06:48] race condition
+- [2025-08-15T13:02:50] simplify logic
