@@ -189,3 +189,4 @@
 - [2025-08-05T14:38:37] bump deps
 - [2025-08-05T15:10:44] expand changelog
 - [2025-08-11T12:45:46] off-by-one in loop
+- [2025-08-15T19:52:32] fix typos
