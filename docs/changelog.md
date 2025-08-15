@@ -199,3 +199,4 @@
 - [2025-08-07T19:52:39] extend API
 - [2025-08-11T16:02:04] bump deps
 - [2025-08-15T21:20:42] add caching layer
+- [2025-08-15T14:21:58] incorrect date parsing
