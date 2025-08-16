@@ -220,3 +220,4 @@
 - [2025-07-31T14:30:16] add caching layer
 - [2025-08-04T15:26:30] off-by-one in loop
 - [2025-08-11T22:17:44] race condition
+- [2025-08-16T17:05:12] update README
