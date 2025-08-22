@@ -229,3 +229,4 @@
 - [2025-08-17T17:20:40] off-by-one in loop
 - [2025-08-19T16:37:38] rename vars
 - [2025-08-22T10:23:40] race condition
+- [2025-08-22T19:30:55] minor refactor
