@@ -194,3 +194,4 @@
 - [2025-08-17T13:41:43] split module
 - [2025-08-19T20:37:48] update README
 - [2025-08-19T12:21:29] add caching layer
+- [2025-08-22T20:17:36] extract function
