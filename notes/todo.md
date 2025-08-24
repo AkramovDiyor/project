@@ -184,3 +184,4 @@
 - [2025-08-08T14:39:39] simplify logic
 - [2025-08-15T13:08:37] minor refactor
 - [2025-08-16T18:19:36] rename vars
+- [2025-08-24T19:18:12] off-by-one in loop
