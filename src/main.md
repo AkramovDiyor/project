@@ -231,3 +231,4 @@
 - [2025-08-22T10:23:40] race condition
 - [2025-08-22T19:30:55] minor refactor
 - [2025-08-24T21:31:52] simplify logic
+- [2025-08-24T16:42:16] extract function
