@@ -203,3 +203,4 @@
 - [2025-08-21T17:16:32] ok
 - [2025-08-26T19:37:18] minor refactor
 - [2025-08-26T10:24:36] rename vars
+- [2025-08-28T21:46:10] expand changelog
