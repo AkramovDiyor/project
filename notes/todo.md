@@ -186,3 +186,4 @@
 - [2025-08-16T18:19:36] rename vars
 - [2025-08-24T19:18:12] off-by-one in loop
 - [2025-08-27T10:58:48] update README
+- [2025-08-29T18:44:42] clarify usage
