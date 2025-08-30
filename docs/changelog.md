@@ -204,3 +204,4 @@
 - [2025-08-26T19:37:18] minor refactor
 - [2025-08-26T10:24:36] rename vars
 - [2025-08-28T21:46:10] expand changelog
+- [2025-08-30T22:49:36] incorrect date parsing
