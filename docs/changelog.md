@@ -206,3 +206,4 @@
 - [2025-08-28T21:46:10] expand changelog
 - [2025-08-30T22:49:36] incorrect date parsing
 - [2025-09-01T21:57:27] extract function
+- [2025-09-03T10:50:02] rename vars
