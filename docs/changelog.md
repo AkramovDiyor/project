@@ -208,3 +208,4 @@
 - [2025-09-01T21:57:27] extract function
 - [2025-09-03T10:50:02] rename vars
 - [2025-09-03T11:18:03] extend API
+- [2025-09-03T22:28:41] expand changelog
