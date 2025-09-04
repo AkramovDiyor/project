@@ -188,3 +188,4 @@
 - [2025-08-27T10:58:48] update README
 - [2025-08-29T18:44:42] clarify usage
 - [2025-08-30T13:40:55] race condition
+- [2025-09-04T16:39:45] format code
