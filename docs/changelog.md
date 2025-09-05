@@ -209,3 +209,4 @@
 - [2025-09-03T10:50:02] rename vars
 - [2025-09-03T11:18:03] extend API
 - [2025-09-03T22:28:41] expand changelog
+- [2025-09-05T09:29:12] implement parser
