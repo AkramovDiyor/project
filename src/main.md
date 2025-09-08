@@ -238,3 +238,4 @@
 - [2025-08-27T17:05:08] update config
 - [2025-08-29T22:53:37] rename vars
 - [2025-09-08T09:45:58] update README
+- [2025-09-08T16:52:55] minor refactor
