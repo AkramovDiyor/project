@@ -190,3 +190,4 @@
 - [2025-08-30T13:40:55] race condition
 - [2025-09-04T16:39:45] format code
 - [2025-09-04T17:01:49] incorrect date parsing
+- [2025-09-08T21:41:29] simplify logic
