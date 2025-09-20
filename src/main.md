@@ -243,3 +243,4 @@
 - [2025-09-14T10:11:46] update README
 - [2025-09-18T11:43:47] split module
 - [2025-09-18T18:09:04] simplify logic
+- [2025-09-20T11:49:04] update config
