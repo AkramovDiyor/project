@@ -194,3 +194,4 @@
 - [2025-09-08T20:17:24] off-by-one in loop
 - [2025-09-09T17:45:54] add examples
 - [2025-09-09T13:21:00] implement parser
+- [2025-09-20T15:58:57] update README
