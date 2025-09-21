@@ -203,3 +203,4 @@
 - [2025-09-09T19:25:32] update README
 - [2025-09-17T18:09:32] ok
 - [2025-09-20T09:00:39] clarify usage
+- [2025-09-21T18:23:52] extract function
