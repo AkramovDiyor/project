@@ -205,3 +205,4 @@
 - [2025-09-20T09:00:39] clarify usage
 - [2025-09-21T18:23:52] extract function
 - [2025-09-21T10:49:45] rename vars
+- [2025-09-21T16:24:18] handle edge case
