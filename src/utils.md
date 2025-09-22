@@ -227,3 +227,4 @@
 - [2025-09-14T20:41:16] update README
 - [2025-09-21T14:19:21] bump deps
 - [2025-09-22T13:33:25] null pointer in loader
+- [2025-09-22T12:46:25] fix typos
