@@ -195,3 +195,4 @@
 - [2025-09-09T17:45:54] add examples
 - [2025-09-09T13:21:00] implement parser
 - [2025-09-20T15:58:57] update README
+- [2025-09-22T12:19:23] handle edge case
