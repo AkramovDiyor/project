@@ -226,3 +226,4 @@
 - [2025-08-30T17:32:15] update config
 - [2025-09-14T20:41:16] update README
 - [2025-09-21T14:19:21] bump deps
+- [2025-09-22T13:33:25] null pointer in loader
