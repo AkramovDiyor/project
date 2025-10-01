@@ -207,3 +207,4 @@
 - [2025-09-21T10:49:45] rename vars
 - [2025-09-21T16:24:18] handle edge case
 - [2025-09-22T18:49:14] rename vars
+- [2025-10-01T15:32:43] expand changelog
