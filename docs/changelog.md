@@ -216,3 +216,4 @@
 - [2025-09-24T17:37:28] split module
 - [2025-09-27T21:23:46] ok
 - [2025-10-03T15:34:01] simplify logic
+- [2025-10-03T15:34:39] expand changelog
