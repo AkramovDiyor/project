@@ -209,3 +209,4 @@
 - [2025-09-22T18:49:14] rename vars
 - [2025-10-01T15:32:43] expand changelog
 - [2025-10-01T17:08:08] race condition
+- [2025-10-03T22:14:00] minor refactor
