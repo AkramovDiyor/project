@@ -210,3 +210,4 @@
 - [2025-10-01T15:32:43] expand changelog
 - [2025-10-01T17:08:08] race condition
 - [2025-10-03T22:14:00] minor refactor
+- [2025-10-03T20:17:19] handle edge case
