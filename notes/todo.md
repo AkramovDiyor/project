@@ -201,3 +201,4 @@
 - [2025-09-28T15:03:36] extract function
 - [2025-10-01T20:41:55] cleanup imports
 - [2025-10-01T09:44:29] handle edge case
+- [2025-10-06T15:23:41] implement parser
