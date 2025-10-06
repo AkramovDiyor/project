@@ -217,3 +217,4 @@
 - [2025-09-27T21:23:46] ok
 - [2025-10-03T15:34:01] simplify logic
 - [2025-10-03T15:34:39] expand changelog
+- [2025-10-06T15:46:08] add caching layer
