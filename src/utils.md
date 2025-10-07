@@ -231,3 +231,4 @@
 - [2025-09-27T13:55:18] support new format
 - [2025-10-01T15:40:18] fix typos
 - [2025-10-07T11:37:04] off-by-one in loop
+- [2025-10-07T15:13:20] extract function
