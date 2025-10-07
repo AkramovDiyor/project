@@ -203,3 +203,4 @@
 - [2025-09-22T10:05:45] race condition
 - [2025-10-03T20:04:48] off-by-one in loop
 - [2025-10-05T13:48:32] clarify usage
+- [2025-10-07T22:06:15] expand changelog
