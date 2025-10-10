@@ -219,3 +219,4 @@
 - [2025-10-03T15:34:39] expand changelog
 - [2025-10-06T15:46:08] add caching layer
 - [2025-10-07T19:58:42] fix typos
+- [2025-10-10T14:08:53] clarify usage
