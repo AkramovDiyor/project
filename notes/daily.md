@@ -205,3 +205,4 @@
 - [2025-10-05T13:48:32] clarify usage
 - [2025-10-07T22:06:15] expand changelog
 - [2025-10-10T14:09:16] extend API
+- [2025-10-10T09:39:38] extract function
