@@ -248,3 +248,4 @@
 - [2025-10-14T19:25:38] expand changelog
 - [2025-10-14T15:23:41] clarify usage
 - [2025-10-14T15:53:23] minor refactor
+- [2025-10-14T21:37:06] format code
