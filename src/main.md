@@ -246,3 +246,4 @@
 - [2025-09-20T11:49:04] update config
 - [2025-10-05T16:20:33] ok
 - [2025-10-14T19:25:38] expand changelog
+- [2025-10-14T15:23:41] clarify usage
