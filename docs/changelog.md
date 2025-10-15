@@ -222,3 +222,4 @@
 - [2025-10-10T14:08:53] clarify usage
 - [2025-10-15T11:54:45] off-by-one in loop
 - [2025-10-15T15:05:22] handle edge case
+- [2025-10-15T09:19:18] update README
