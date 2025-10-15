@@ -220,3 +220,4 @@
 - [2025-10-06T15:46:08] add caching layer
 - [2025-10-07T19:58:42] fix typos
 - [2025-10-10T14:08:53] clarify usage
+- [2025-10-15T11:54:45] off-by-one in loop
