@@ -221,3 +221,4 @@
 - [2025-10-07T19:58:42] fix typos
 - [2025-10-10T14:08:53] clarify usage
 - [2025-10-15T11:54:45] off-by-one in loop
+- [2025-10-15T15:05:22] handle edge case
