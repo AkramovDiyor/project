@@ -250,3 +250,4 @@
 - [2025-10-14T15:53:23] minor refactor
 - [2025-10-14T21:37:06] format code
 - [2025-10-15T18:07:23] expand changelog
+- [2025-10-18T16:44:39] split module
