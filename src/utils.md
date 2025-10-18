@@ -233,3 +233,4 @@
 - [2025-10-07T11:37:04] off-by-one in loop
 - [2025-10-07T15:13:20] extract function
 - [2025-10-17T21:44:56] implement parser
+- [2025-10-18T16:03:25] fix typos
