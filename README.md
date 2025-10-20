@@ -213,3 +213,4 @@
 - [2025-10-03T20:17:19] handle edge case
 - [2025-10-10T22:02:18] expand changelog
 - [2025-10-17T09:51:23] off-by-one in loop
+- [2025-10-20T22:02:52] expand changelog
