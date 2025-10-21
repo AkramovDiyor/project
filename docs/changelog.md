@@ -224,3 +224,4 @@
 - [2025-10-15T15:05:22] handle edge case
 - [2025-10-15T09:19:18] update README
 - [2025-10-17T19:01:36] expand changelog
+- [2025-10-21T13:06:01] minor refactor
