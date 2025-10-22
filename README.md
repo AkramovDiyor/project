@@ -215,3 +215,4 @@
 - [2025-10-17T09:51:23] off-by-one in loop
 - [2025-10-20T22:02:52] expand changelog
 - [2025-10-21T13:22:25] off-by-one in loop
+- [2025-10-22T22:23:06] update config
