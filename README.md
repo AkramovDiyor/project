@@ -217,3 +217,4 @@
 - [2025-10-21T13:22:25] off-by-one in loop
 - [2025-10-22T22:23:06] update config
 - [2025-10-22T15:35:55] incorrect date parsing
+- [2025-10-22T11:35:48] add caching layer
