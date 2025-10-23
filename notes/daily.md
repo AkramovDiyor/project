@@ -209,3 +209,4 @@
 - [2025-10-14T17:26:16] race condition
 - [2025-10-17T13:22:59] extend API
 - [2025-10-17T18:10:31] add new helper
+- [2025-10-23T18:57:46] support new format
