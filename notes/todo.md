@@ -207,3 +207,4 @@
 - [2025-10-21T10:23:23] add caching layer
 - [2025-10-23T19:08:27] clarify usage
 - [2025-10-24T17:39:15] ok
+- [2025-10-24T16:50:45] split module
