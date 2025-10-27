@@ -235,3 +235,4 @@
 - [2025-10-17T21:44:56] implement parser
 - [2025-10-18T16:03:25] fix typos
 - [2025-10-22T20:36:20] add caching layer
+- [2025-10-27T14:51:21] extend API
