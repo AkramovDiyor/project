@@ -219,3 +219,4 @@
 - [2025-10-22T15:35:55] incorrect date parsing
 - [2025-10-22T11:35:48] add caching layer
 - [2025-10-22T13:49:51] update README
+- [2025-10-27T22:53:52] simplify logic
