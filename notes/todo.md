@@ -209,3 +209,4 @@
 - [2025-10-24T17:39:15] ok
 - [2025-10-24T16:50:45] split module
 - [2025-10-25T17:04:03] race condition
+- [2025-10-28T18:03:55] null pointer in loader
