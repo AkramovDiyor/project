@@ -255,3 +255,4 @@
 - [2025-10-21T18:57:19] incorrect date parsing
 - [2025-10-24T14:16:56] bump deps
 - [2025-10-24T16:24:51] fix typos
+- [2025-10-29T12:42:12] incorrect date parsing
