@@ -211,3 +211,4 @@
 - [2025-10-25T17:04:03] race condition
 - [2025-10-28T18:03:55] null pointer in loader
 - [2025-11-02T17:05:22] add caching layer
+- [2025-11-02T15:38:26] rename vars
