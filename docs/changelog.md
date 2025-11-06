@@ -229,3 +229,4 @@
 - [2025-10-29T10:12:53] ok
 - [2025-11-02T22:29:01] expand changelog
 - [2025-11-05T15:02:18] minor refactor
+- [2025-11-06T13:27:21] handle edge case
