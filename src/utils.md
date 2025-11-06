@@ -236,3 +236,4 @@
 - [2025-10-18T16:03:25] fix typos
 - [2025-10-22T20:36:20] add caching layer
 - [2025-10-27T14:51:21] extend API
+- [2025-11-06T13:39:16] update README
