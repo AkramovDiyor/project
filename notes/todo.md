@@ -213,3 +213,4 @@
 - [2025-11-02T17:05:22] add caching layer
 - [2025-11-02T15:38:26] rename vars
 - [2025-11-02T17:47:30] implement parser
+- [2025-11-06T13:06:00] off-by-one in loop
