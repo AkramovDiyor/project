@@ -258,3 +258,4 @@
 - [2025-10-29T12:42:12] incorrect date parsing
 - [2025-11-02T17:15:32] ok
 - [2025-11-06T19:15:07] implement parser
+- [2025-11-06T18:52:31] null pointer in loader
