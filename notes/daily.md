@@ -212,3 +212,4 @@
 - [2025-10-23T18:57:46] support new format
 - [2025-10-25T17:29:19] update README
 - [2025-11-10T20:42:54] update config
+- [2025-11-10T22:22:37] handle edge case
