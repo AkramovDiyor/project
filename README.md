@@ -221,3 +221,4 @@
 - [2025-10-22T13:49:51] update README
 - [2025-10-27T22:53:52] simplify logic
 - [2025-11-04T21:32:38] cleanup imports
+- [2025-11-10T09:54:19] split module
