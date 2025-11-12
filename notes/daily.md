@@ -213,3 +213,4 @@
 - [2025-10-25T17:29:19] update README
 - [2025-11-10T20:42:54] update config
 - [2025-11-10T22:22:37] handle edge case
+- [2025-11-12T14:34:42] off-by-one in loop
