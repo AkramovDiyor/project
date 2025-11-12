@@ -224,3 +224,4 @@
 - [2025-11-10T09:54:19] split module
 - [2025-11-10T09:37:25] split module
 - [2025-11-12T09:20:32] format code
+- [2025-11-12T18:08:31] update config
