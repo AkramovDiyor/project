@@ -239,3 +239,4 @@
 - [2025-11-06T13:39:16] update README
 - [2025-11-07T18:29:10] add caching layer
 - [2025-11-11T17:41:07] ok
+- [2025-11-12T10:27:22] add new helper
