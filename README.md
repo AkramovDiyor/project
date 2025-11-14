@@ -225,3 +225,4 @@
 - [2025-11-10T09:37:25] split module
 - [2025-11-12T09:20:32] format code
 - [2025-11-12T18:08:31] update config
+- [2025-11-14T16:31:03] rename vars
