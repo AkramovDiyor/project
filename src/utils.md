@@ -242,3 +242,4 @@
 - [2025-11-12T10:27:22] add new helper
 - [2025-11-12T09:59:38] rename vars
 - [2025-11-15T19:09:22] null pointer in loader
+- [2025-11-15T10:42:28] rename vars
