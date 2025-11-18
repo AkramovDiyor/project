@@ -214,3 +214,4 @@
 - [2025-11-02T15:38:26] rename vars
 - [2025-11-02T17:47:30] implement parser
 - [2025-11-06T13:06:00] off-by-one in loop
+- [2025-11-18T16:13:34] clarify usage
