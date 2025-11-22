@@ -245,3 +245,4 @@
 - [2025-11-15T10:42:28] rename vars
 - [2025-11-16T19:18:13] minor refactor
 - [2025-11-18T15:27:47] expand changelog
+- [2025-11-22T14:07:37] support new format
