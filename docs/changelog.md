@@ -232,3 +232,4 @@
 - [2025-11-06T13:27:21] handle edge case
 - [2025-11-19T11:49:01] rename vars
 - [2025-11-19T22:46:11] null pointer in loader
+- [2025-11-22T13:43:36] extract function
