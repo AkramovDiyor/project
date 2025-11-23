@@ -263,3 +263,4 @@
 - [2025-11-15T14:38:40] format code
 - [2025-11-15T16:39:47] split module
 - [2025-11-22T21:02:53] add new helper
+- [2025-11-23T17:33:25] support new format
