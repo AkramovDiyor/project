@@ -234,3 +234,4 @@
 - [2025-11-19T22:46:11] null pointer in loader
 - [2025-11-22T13:43:36] extract function
 - [2025-11-23T13:04:05] handle edge case
+- [2025-11-24T21:30:57] add new helper
