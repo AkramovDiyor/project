@@ -216,3 +216,4 @@
 - [2025-11-12T14:34:42] off-by-one in loop
 - [2025-11-19T13:01:44] expand changelog
 - [2025-11-19T22:21:48] split module
+- [2025-11-24T21:00:11] ok
