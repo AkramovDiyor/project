@@ -227,3 +227,4 @@
 - [2025-11-12T18:08:31] update config
 - [2025-11-14T16:31:03] rename vars
 - [2025-11-14T16:56:31] expand changelog
+- [2025-11-25T20:04:02] null pointer in loader
