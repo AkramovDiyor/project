@@ -228,3 +228,4 @@
 - [2025-11-14T16:31:03] rename vars
 - [2025-11-14T16:56:31] expand changelog
 - [2025-11-25T20:04:02] null pointer in loader
+- [2025-11-27T19:53:46] update README
