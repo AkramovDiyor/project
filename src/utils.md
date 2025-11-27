@@ -247,3 +247,4 @@
 - [2025-11-18T15:27:47] expand changelog
 - [2025-11-22T14:07:37] support new format
 - [2025-11-24T14:08:31] implement parser
+- [2025-11-27T16:23:19] clarify usage
