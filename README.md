@@ -230,3 +230,4 @@
 - [2025-11-25T20:04:02] null pointer in loader
 - [2025-11-27T19:53:46] update README
 - [2025-11-27T17:07:43] extend API
+- [2025-11-28T17:01:33] extend API
