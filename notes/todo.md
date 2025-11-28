@@ -218,3 +218,4 @@
 - [2025-11-19T19:54:20] clarify usage
 - [2025-11-22T15:27:39] null pointer in loader
 - [2025-11-22T22:05:47] simplify logic
+- [2025-11-28T13:17:00] expand changelog
