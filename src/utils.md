@@ -250,3 +250,4 @@
 - [2025-11-27T16:23:19] clarify usage
 - [2025-11-28T22:38:13] fix typos
 - [2025-11-28T09:40:21] add examples
+- [2025-11-28T20:36:35] simplify logic
