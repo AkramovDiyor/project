@@ -248,3 +248,4 @@
 - [2025-11-22T14:07:37] support new format
 - [2025-11-24T14:08:31] implement parser
 - [2025-11-27T16:23:19] clarify usage
+- [2025-11-28T22:38:13] fix typos
