@@ -236,3 +236,4 @@
 - [2025-11-23T13:04:05] handle edge case
 - [2025-11-24T21:30:57] add new helper
 - [2025-11-27T10:03:09] minor refactor
+- [2025-11-29T09:38:58] split module
