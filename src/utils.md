@@ -253,3 +253,4 @@
 - [2025-11-28T20:36:35] simplify logic
 - [2025-11-29T20:45:55] ok
 - [2025-11-30T11:27:15] extract function
+- [2025-11-30T13:22:49] null pointer in loader
