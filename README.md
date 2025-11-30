@@ -231,3 +231,4 @@
 - [2025-11-27T19:53:46] update README
 - [2025-11-27T17:07:43] extend API
 - [2025-11-28T17:01:33] extend API
+- [2025-11-30T18:29:30] expand changelog
