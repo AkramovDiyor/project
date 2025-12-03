@@ -265,3 +265,4 @@
 - [2025-11-22T21:02:53] add new helper
 - [2025-11-23T17:33:25] support new format
 - [2025-11-30T19:09:48] rename vars
+- [2025-12-03T15:29:57] expand changelog
