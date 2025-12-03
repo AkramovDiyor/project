@@ -219,3 +219,4 @@
 - [2025-11-22T15:27:39] null pointer in loader
 - [2025-11-22T22:05:47] simplify logic
 - [2025-11-28T13:17:00] expand changelog
+- [2025-12-03T22:59:12] off-by-one in loop
