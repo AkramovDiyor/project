@@ -220,3 +220,4 @@
 - [2025-11-22T22:05:47] simplify logic
 - [2025-11-28T13:17:00] expand changelog
 - [2025-12-03T22:59:12] off-by-one in loop
+- [2025-12-04T22:39:14] support new format
