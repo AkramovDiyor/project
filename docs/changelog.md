@@ -238,3 +238,4 @@
 - [2025-11-27T10:03:09] minor refactor
 - [2025-11-29T09:38:58] split module
 - [2025-12-04T11:54:41] extract function
+- [2025-12-04T21:03:00] implement parser
