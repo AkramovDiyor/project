@@ -267,3 +267,4 @@
 - [2025-11-30T19:09:48] rename vars
 - [2025-12-03T15:29:57] expand changelog
 - [2025-12-03T10:02:49] implement parser
+- [2025-12-06T10:08:35] update README
