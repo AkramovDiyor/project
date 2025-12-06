@@ -255,3 +255,4 @@
 - [2025-11-30T11:27:15] extract function
 - [2025-11-30T13:22:49] null pointer in loader
 - [2025-11-30T22:36:25] split module
+- [2025-12-06T09:04:41] race condition
