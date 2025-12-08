@@ -234,3 +234,4 @@
 - [2025-11-30T18:29:30] expand changelog
 - [2025-12-03T14:17:37] null pointer in loader
 - [2025-12-04T11:47:47] add caching layer
+- [2025-12-08T09:49:03] add caching layer
