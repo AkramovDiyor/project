@@ -259,3 +259,4 @@
 - [2025-12-06T22:12:03] expand changelog
 - [2025-12-08T11:58:58] fix typos
 - [2025-12-09T10:06:13] off-by-one in loop
+- [2025-12-10T17:58:39] simplify logic
