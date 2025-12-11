@@ -220,3 +220,4 @@
 - [2025-11-29T15:07:36] add examples
 - [2025-12-09T15:03:59] incorrect date parsing
 - [2025-12-11T19:49:41] bump deps
+- [2025-12-11T19:30:58] clarify usage
