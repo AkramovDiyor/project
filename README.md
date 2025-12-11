@@ -236,3 +236,4 @@
 - [2025-12-04T11:47:47] add caching layer
 - [2025-12-08T09:49:03] add caching layer
 - [2025-12-08T20:23:35] expand changelog
+- [2025-12-11T09:05:40] update README
