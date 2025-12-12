@@ -221,3 +221,4 @@
 - [2025-12-09T15:03:59] incorrect date parsing
 - [2025-12-11T19:49:41] bump deps
 - [2025-12-11T19:30:58] clarify usage
+- [2025-12-12T11:48:24] bump deps
