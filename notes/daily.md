@@ -224,3 +224,4 @@
 - [2025-12-12T11:48:24] bump deps
 - [2025-12-13T17:57:42] null pointer in loader
 - [2025-12-13T17:16:49] clarify usage
+- [2025-12-15T16:27:51] race condition
