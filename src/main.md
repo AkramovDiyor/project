@@ -271,3 +271,4 @@
 - [2025-12-12T20:25:15] split module
 - [2025-12-12T21:01:30] update README
 - [2025-12-15T15:43:12] bump deps
+- [2025-12-15T09:24:24] add caching layer
