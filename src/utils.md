@@ -261,3 +261,4 @@
 - [2025-12-09T10:06:13] off-by-one in loop
 - [2025-12-10T17:58:39] simplify logic
 - [2025-12-15T17:15:04] bump deps
+- [2025-12-17T16:17:13] simplify logic
