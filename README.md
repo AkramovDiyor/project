@@ -238,3 +238,4 @@
 - [2025-12-08T20:23:35] expand changelog
 - [2025-12-11T09:05:40] update README
 - [2025-12-17T22:14:15] format code
+- [2025-12-17T17:25:00] extend API
