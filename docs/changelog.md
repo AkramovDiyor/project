@@ -240,3 +240,4 @@
 - [2025-12-04T11:54:41] extract function
 - [2025-12-04T21:03:00] implement parser
 - [2025-12-11T18:03:30] extend API
+- [2025-12-19T19:30:25] extract function
