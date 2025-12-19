@@ -225,3 +225,4 @@
 - [2025-12-13T17:57:42] null pointer in loader
 - [2025-12-13T17:16:49] clarify usage
 - [2025-12-15T16:27:51] race condition
+- [2025-12-19T22:06:05] expand changelog
