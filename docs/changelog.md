@@ -242,3 +242,4 @@
 - [2025-12-11T18:03:30] extend API
 - [2025-12-19T19:30:25] extract function
 - [2025-12-19T15:23:02] simplify logic
+- [2025-12-22T12:32:42] implement parser
