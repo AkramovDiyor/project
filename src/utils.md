@@ -265,3 +265,4 @@
 - [2025-12-17T16:02:15] off-by-one in loop
 - [2025-12-22T11:30:04] split module
 - [2025-12-22T09:16:14] bump deps
+- [2025-12-22T22:42:42] implement parser
