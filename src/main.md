@@ -275,3 +275,4 @@
 - [2025-12-15T18:51:20] minor refactor
 - [2025-12-19T18:21:10] implement parser
 - [2025-12-22T20:37:18] update README
+- [2025-12-24T20:07:25] expand changelog
