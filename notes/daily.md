@@ -227,3 +227,4 @@
 - [2025-12-15T16:27:51] race condition
 - [2025-12-19T22:06:05] expand changelog
 - [2025-12-21T09:30:01] handle edge case
+- [2025-12-26T10:34:39] incorrect date parsing
