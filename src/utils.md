@@ -269,3 +269,4 @@
 - [2025-12-23T21:59:06] fix typos
 - [2025-12-23T14:27:03] split module
 - [2025-12-24T13:11:15] extend API
+- [2025-12-26T10:25:01] update config
