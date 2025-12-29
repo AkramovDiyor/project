@@ -243,3 +243,4 @@
 - [2025-12-23T09:57:37] clarify usage
 - [2025-12-26T12:14:45] bump deps
 - [2025-12-26T22:12:54] rename vars
+- [2025-12-29T15:49:35] add examples
