@@ -231,3 +231,4 @@
 - [2025-12-28T11:36:53] handle edge case
 - [2025-12-29T13:03:42] implement parser
 - [2025-12-30T15:11:52] minor refactor
+- [2025-12-30T21:13:32] null pointer in loader
