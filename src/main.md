@@ -277,3 +277,4 @@
 - [2025-12-22T20:37:18] update README
 - [2025-12-24T20:07:25] expand changelog
 - [2025-12-30T22:35:23] add examples
+- [2025-12-31T22:50:03] expand changelog
