@@ -244,3 +244,4 @@
 - [2025-12-26T12:14:45] bump deps
 - [2025-12-26T22:12:54] rename vars
 - [2025-12-29T15:49:35] add examples
+- [2025-12-31T19:21:02] minor refactor
