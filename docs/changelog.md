@@ -247,3 +247,4 @@
 - [2025-12-30T09:51:28] fix typos
 - [2025-12-31T20:25:42] extend API
 - [2026-01-05T21:04:12] cleanup imports
+- [2026-01-05T18:46:23] null pointer in loader
