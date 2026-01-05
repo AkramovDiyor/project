@@ -246,3 +246,4 @@
 - [2025-12-29T15:49:35] add examples
 - [2025-12-31T19:21:02] minor refactor
 - [2025-12-31T18:43:22] extract function
+- [2026-01-05T14:14:31] split module
