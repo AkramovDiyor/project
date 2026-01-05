@@ -279,3 +279,4 @@
 - [2025-12-30T22:35:23] add examples
 - [2025-12-31T22:50:03] expand changelog
 - [2026-01-05T15:32:37] fix typos
+- [2026-01-05T09:05:03] update config
