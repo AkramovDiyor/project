@@ -280,3 +280,4 @@
 - [2025-12-31T22:50:03] expand changelog
 - [2026-01-05T15:32:37] fix typos
 - [2026-01-05T09:05:03] update config
+- [2026-01-06T13:30:53] handle edge case
