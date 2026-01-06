@@ -224,3 +224,4 @@
 - [2025-12-13T09:55:23] support new format
 - [2025-12-13T13:20:20] cleanup imports
 - [2025-12-13T12:36:32] extract function
+- [2026-01-06T11:55:20] rename vars
