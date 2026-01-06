@@ -233,3 +233,4 @@
 - [2025-12-30T15:11:52] minor refactor
 - [2025-12-30T21:13:32] null pointer in loader
 - [2025-12-31T21:38:27] off-by-one in loop
+- [2026-01-06T19:28:13] extend API
