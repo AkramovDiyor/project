@@ -248,3 +248,4 @@
 - [2025-12-31T20:25:42] extend API
 - [2026-01-05T21:04:12] cleanup imports
 - [2026-01-05T18:46:23] null pointer in loader
+- [2026-01-06T12:16:32] add caching layer
