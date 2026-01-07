@@ -273,3 +273,4 @@
 - [2025-12-29T22:07:08] fix typos
 - [2025-12-30T20:15:15] simplify logic
 - [2026-01-05T21:15:58] minor refactor
+- [2026-01-07T16:14:15] add caching layer
