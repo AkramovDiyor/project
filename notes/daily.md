@@ -236,3 +236,4 @@
 - [2026-01-06T19:28:13] extend API
 - [2026-01-07T21:32:39] add new helper
 - [2026-01-08T16:43:44] extract function
+- [2026-01-08T21:25:49] clarify usage
