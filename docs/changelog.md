@@ -251,3 +251,4 @@
 - [2026-01-06T12:16:32] add caching layer
 - [2026-01-07T14:31:19] clarify usage
 - [2026-01-08T14:45:59] bump deps
+- [2026-01-09T22:19:36] update README
