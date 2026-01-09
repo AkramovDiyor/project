@@ -237,3 +237,4 @@
 - [2026-01-07T21:32:39] add new helper
 - [2026-01-08T16:43:44] extract function
 - [2026-01-08T21:25:49] clarify usage
+- [2026-01-09T15:50:20] ok
