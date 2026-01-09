@@ -249,3 +249,4 @@
 - [2026-01-05T14:14:31] split module
 - [2026-01-07T12:28:45] rename vars
 - [2026-01-08T12:25:04] add examples
+- [2026-01-09T13:47:42] simplify logic
