@@ -275,3 +275,4 @@
 - [2026-01-05T21:15:58] minor refactor
 - [2026-01-07T16:14:15] add caching layer
 - [2026-01-09T15:43:19] simplify logic
+- [2026-01-11T11:33:58] rename vars
