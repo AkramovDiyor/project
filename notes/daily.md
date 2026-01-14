@@ -238,3 +238,4 @@
 - [2026-01-08T16:43:44] extract function
 - [2026-01-08T21:25:49] clarify usage
 - [2026-01-09T15:50:20] ok
+- [2026-01-14T09:38:46] clarify usage
