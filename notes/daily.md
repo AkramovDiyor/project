@@ -241,3 +241,4 @@
 - [2026-01-14T09:38:46] clarify usage
 - [2026-01-14T09:42:38] update config
 - [2026-01-14T18:52:02] race condition
+- [2026-01-16T18:49:09] bump deps
