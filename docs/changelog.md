@@ -254,3 +254,4 @@
 - [2026-01-09T22:19:36] update README
 - [2026-01-14T19:46:43] extract function
 - [2026-01-18T18:24:18] rename vars
+- [2026-01-18T20:26:26] support new format
