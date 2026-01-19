@@ -277,3 +277,4 @@
 - [2026-01-09T15:43:19] simplify logic
 - [2026-01-11T11:33:58] rename vars
 - [2026-01-18T21:40:41] off-by-one in loop
+- [2026-01-19T22:24:52] race condition
