@@ -245,3 +245,4 @@
 - [2026-01-16T14:32:18] format code
 - [2026-01-18T11:21:23] bump deps
 - [2026-01-19T18:50:15] add new helper
+- [2026-01-19T22:53:56] update README
