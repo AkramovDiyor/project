@@ -227,3 +227,4 @@
 - [2026-01-06T11:55:20] rename vars
 - [2026-01-06T18:19:06] ok
 - [2026-01-14T21:06:54] extract function
+- [2026-01-19T16:11:33] null pointer in loader
