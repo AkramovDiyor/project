@@ -279,3 +279,4 @@
 - [2026-01-18T21:40:41] off-by-one in loop
 - [2026-01-19T22:24:52] race condition
 - [2026-01-20T17:37:23] ok
+- [2026-01-21T13:00:27] update README
