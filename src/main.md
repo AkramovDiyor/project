@@ -289,3 +289,4 @@
 - [2026-01-18T19:55:28] fix typos
 - [2026-01-20T09:20:07] extract function
 - [2026-01-24T17:27:10] extend API
+- [2026-01-24T12:01:20] implement parser
