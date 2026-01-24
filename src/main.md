@@ -290,3 +290,4 @@
 - [2026-01-20T09:20:07] extract function
 - [2026-01-24T17:27:10] extend API
 - [2026-01-24T12:01:20] implement parser
+- [2026-01-24T13:25:09] ok
