@@ -228,3 +228,4 @@
 - [2026-01-06T18:19:06] ok
 - [2026-01-14T21:06:54] extract function
 - [2026-01-19T16:11:33] null pointer in loader
+- [2026-01-25T21:38:34] minor refactor
