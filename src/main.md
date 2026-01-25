@@ -292,3 +292,4 @@
 - [2026-01-24T12:01:20] implement parser
 - [2026-01-24T13:25:09] ok
 - [2026-01-24T18:55:17] off-by-one in loop
+- [2026-01-25T15:30:36] race condition
