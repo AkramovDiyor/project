@@ -255,3 +255,4 @@
 - [2026-01-19T11:38:48] simplify logic
 - [2026-01-19T15:06:36] simplify logic
 - [2026-01-21T14:16:56] format code
+- [2026-01-25T10:50:25] support new format
