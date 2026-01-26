@@ -259,3 +259,4 @@
 - [2026-01-25T20:46:04] cleanup imports
 - [2026-01-25T13:06:37] fix typos
 - [2026-01-26T22:36:21] add caching layer
+- [2026-01-26T14:56:59] update config
