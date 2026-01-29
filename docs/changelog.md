@@ -260,3 +260,4 @@
 - [2026-01-22T10:41:00] handle edge case
 - [2026-01-22T11:31:40] simplify logic
 - [2026-01-22T14:30:44] update README
+- [2026-01-29T13:14:47] null pointer in loader
