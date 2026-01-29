@@ -297,3 +297,4 @@
 - [2026-01-26T11:01:11] update config
 - [2026-01-26T15:47:15] extend API
 - [2026-01-29T21:44:46] handle edge case
+- [2026-01-29T11:28:12] add examples
