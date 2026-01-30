@@ -260,3 +260,4 @@
 - [2026-01-25T13:06:37] fix typos
 - [2026-01-26T22:36:21] add caching layer
 - [2026-01-26T14:56:59] update config
+- [2026-01-30T18:30:42] expand changelog
