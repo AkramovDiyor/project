@@ -261,3 +261,4 @@
 - [2026-01-22T11:31:40] simplify logic
 - [2026-01-22T14:30:44] update README
 - [2026-01-29T13:14:47] null pointer in loader
+- [2026-01-31T15:43:08] race condition
