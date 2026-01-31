@@ -247,3 +247,4 @@
 - [2026-01-19T18:50:15] add new helper
 - [2026-01-19T22:53:56] update README
 - [2026-01-21T10:51:54] support new format
+- [2026-01-31T21:20:32] expand changelog
