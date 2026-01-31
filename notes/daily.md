@@ -248,3 +248,4 @@
 - [2026-01-19T22:53:56] update README
 - [2026-01-21T10:51:54] support new format
 - [2026-01-31T21:20:32] expand changelog
+- [2026-01-31T10:32:26] ok
