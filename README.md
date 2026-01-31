@@ -261,3 +261,4 @@
 - [2026-01-26T22:36:21] add caching layer
 - [2026-01-26T14:56:59] update config
 - [2026-01-30T18:30:42] expand changelog
+- [2026-01-31T13:19:04] update README
