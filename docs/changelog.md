@@ -262,3 +262,4 @@
 - [2026-01-22T14:30:44] update README
 - [2026-01-29T13:14:47] null pointer in loader
 - [2026-01-31T15:43:08] race condition
+- [2026-02-02T12:44:50] support new format
