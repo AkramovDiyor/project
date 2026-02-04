@@ -249,3 +249,4 @@
 - [2026-01-21T10:51:54] support new format
 - [2026-01-31T21:20:32] expand changelog
 - [2026-01-31T10:32:26] ok
+- [2026-02-04T09:25:33] null pointer in loader
