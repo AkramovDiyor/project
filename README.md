@@ -264,3 +264,4 @@
 - [2026-01-31T13:19:04] update README
 - [2026-01-31T22:51:33] off-by-one in loop
 - [2026-02-03T20:24:27] extract function
+- [2026-02-04T19:37:07] extend API
