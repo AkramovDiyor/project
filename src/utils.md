@@ -285,3 +285,4 @@
 - [2026-01-24T10:44:19] incorrect date parsing
 - [2026-01-24T12:45:23] implement parser
 - [2026-02-04T09:45:50] simplify logic
+- [2026-02-05T17:18:33] add examples
