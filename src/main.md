@@ -303,3 +303,4 @@
 - [2026-01-31T12:47:36] incorrect date parsing
 - [2026-02-02T19:30:40] incorrect date parsing
 - [2026-02-05T16:19:08] off-by-one in loop
+- [2026-02-07T11:54:31] extend API
