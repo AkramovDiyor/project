@@ -251,3 +251,4 @@
 - [2026-01-31T10:32:26] ok
 - [2026-02-04T09:25:33] null pointer in loader
 - [2026-02-07T18:54:57] split module
+- [2026-02-09T16:53:43] extend API
