@@ -286,3 +286,4 @@
 - [2026-01-24T12:45:23] implement parser
 - [2026-02-04T09:45:50] simplify logic
 - [2026-02-05T17:18:33] add examples
+- [2026-02-11T18:03:25] null pointer in loader
