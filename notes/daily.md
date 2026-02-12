@@ -252,3 +252,4 @@
 - [2026-02-04T09:25:33] null pointer in loader
 - [2026-02-07T18:54:57] split module
 - [2026-02-09T16:53:43] extend API
+- [2026-02-12T15:23:00] support new format
