@@ -236,3 +236,4 @@
 - [2026-01-30T09:30:22] format code
 - [2026-02-05T13:25:22] ok
 - [2026-02-12T19:58:03] simplify logic
+- [2026-02-14T16:27:55] incorrect date parsing
