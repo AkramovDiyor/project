@@ -254,3 +254,4 @@
 - [2026-02-09T16:53:43] extend API
 - [2026-02-12T15:23:00] support new format
 - [2026-02-13T09:16:47] support new format
+- [2026-02-15T13:04:27] add caching layer
