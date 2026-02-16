@@ -267,3 +267,4 @@
 - [2026-02-12T15:45:16] incorrect date parsing
 - [2026-02-13T22:02:28] off-by-one in loop
 - [2026-02-14T13:49:20] ok
+- [2026-02-16T15:14:15] update README
