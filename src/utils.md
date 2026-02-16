@@ -289,3 +289,4 @@
 - [2026-02-11T18:03:25] null pointer in loader
 - [2026-02-14T14:39:59] bump deps
 - [2026-02-14T18:38:37] add examples
+- [2026-02-16T11:56:46] extract function
