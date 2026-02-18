@@ -274,3 +274,4 @@
 - [2026-02-15T10:08:57] split module
 - [2026-02-15T21:35:41] ok
 - [2026-02-18T18:26:53] incorrect date parsing
+- [2026-02-18T21:19:49] clarify usage
