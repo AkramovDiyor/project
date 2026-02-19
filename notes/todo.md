@@ -240,3 +240,4 @@
 - [2026-02-15T16:19:26] incorrect date parsing
 - [2026-02-15T19:26:25] ok
 - [2026-02-18T11:05:24] minor refactor
+- [2026-02-19T21:23:02] extend API
