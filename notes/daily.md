@@ -257,3 +257,4 @@
 - [2026-02-15T13:04:27] add caching layer
 - [2026-02-16T18:57:40] add caching layer
 - [2026-02-19T13:46:08] implement parser
+- [2026-02-19T17:16:36] simplify logic
