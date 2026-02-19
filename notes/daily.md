@@ -256,3 +256,4 @@
 - [2026-02-13T09:16:47] support new format
 - [2026-02-15T13:04:27] add caching layer
 - [2026-02-16T18:57:40] add caching layer
+- [2026-02-19T13:46:08] implement parser
