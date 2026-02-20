@@ -290,3 +290,4 @@
 - [2026-02-14T14:39:59] bump deps
 - [2026-02-14T18:38:37] add examples
 - [2026-02-16T11:56:46] extract function
+- [2026-02-20T21:03:45] race condition
