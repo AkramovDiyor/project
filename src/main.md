@@ -305,3 +305,4 @@
 - [2026-02-05T16:19:08] off-by-one in loop
 - [2026-02-07T11:54:31] extend API
 - [2026-02-12T15:30:48] handle edge case
+- [2026-02-21T20:44:04] fix typos
