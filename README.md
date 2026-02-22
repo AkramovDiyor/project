@@ -278,3 +278,4 @@
 - [2026-02-18T22:56:35] rename vars
 - [2026-02-19T22:32:37] null pointer in loader
 - [2026-02-20T19:03:15] update README
+- [2026-02-22T17:24:42] bump deps
