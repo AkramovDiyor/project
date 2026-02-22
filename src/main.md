@@ -306,3 +306,4 @@
 - [2026-02-07T11:54:31] extend API
 - [2026-02-12T15:30:48] handle edge case
 - [2026-02-21T20:44:04] fix typos
+- [2026-02-22T09:34:40] update config
