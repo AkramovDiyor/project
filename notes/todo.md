@@ -243,3 +243,4 @@
 - [2026-02-19T21:23:02] extend API
 - [2026-02-19T14:54:07] add examples
 - [2026-02-22T12:14:31] off-by-one in loop
+- [2026-02-23T22:23:44] extend API
