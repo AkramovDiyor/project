@@ -271,3 +271,4 @@
 - [2026-02-22T19:17:27] off-by-one in loop
 - [2026-02-23T14:40:13] ok
 - [2026-02-25T18:56:30] update README
+- [2026-02-25T20:05:34] add caching layer
