@@ -262,3 +262,4 @@
 - [2026-02-23T09:22:47] ok
 - [2026-02-25T14:04:27] cleanup imports
 - [2026-02-25T16:56:57] clarify usage
+- [2026-02-26T09:44:45] clarify usage
