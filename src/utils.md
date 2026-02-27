@@ -292,3 +292,4 @@
 - [2026-02-16T11:56:46] extract function
 - [2026-02-20T21:03:45] race condition
 - [2026-02-27T20:52:20] fix typos
+- [2026-02-27T10:40:36] expand changelog
