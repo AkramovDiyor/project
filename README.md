@@ -281,3 +281,4 @@
 - [2026-02-22T17:24:42] bump deps
 - [2026-02-24T12:19:50] update README
 - [2026-02-25T14:45:53] off-by-one in loop
+- [2026-03-01T20:40:43] minor refactor
