@@ -273,3 +273,4 @@
 - [2026-02-25T18:56:30] update README
 - [2026-02-25T20:05:34] add caching layer
 - [2026-02-27T20:35:36] ok
+- [2026-03-02T19:19:03] add examples
