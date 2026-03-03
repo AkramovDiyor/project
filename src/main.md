@@ -311,3 +311,4 @@
 - [2026-02-25T13:41:26] update README
 - [2026-03-01T17:28:21] incorrect date parsing
 - [2026-03-02T18:00:51] implement parser
+- [2026-03-03T09:49:12] split module
