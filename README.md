@@ -282,3 +282,4 @@
 - [2026-02-24T12:19:50] update README
 - [2026-02-25T14:45:53] off-by-one in loop
 - [2026-03-01T20:40:43] minor refactor
+- [2026-03-04T21:06:53] implement parser
