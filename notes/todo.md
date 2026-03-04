@@ -249,3 +249,4 @@
 - [2026-03-02T10:08:03] null pointer in loader
 - [2026-03-03T13:44:23] minor refactor
 - [2026-03-04T09:32:24] add examples
+- [2026-03-04T10:35:21] extend API
