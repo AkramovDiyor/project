@@ -251,3 +251,4 @@
 - [2026-03-04T09:32:24] add examples
 - [2026-03-04T10:35:21] extend API
 - [2026-03-04T14:42:14] rename vars
+- [2026-03-04T13:18:24] extract function
