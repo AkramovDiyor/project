@@ -274,3 +274,4 @@
 - [2026-02-25T20:05:34] add caching layer
 - [2026-02-27T20:35:36] ok
 - [2026-03-02T19:19:03] add examples
+- [2026-03-04T15:56:07] extract function
