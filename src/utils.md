@@ -294,3 +294,4 @@
 - [2026-02-27T20:52:20] fix typos
 - [2026-02-27T10:40:36] expand changelog
 - [2026-03-03T12:41:18] split module
+- [2026-03-07T17:08:56] expand changelog
