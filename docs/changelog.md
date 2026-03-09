@@ -276,3 +276,4 @@
 - [2026-03-02T19:19:03] add examples
 - [2026-03-04T15:56:07] extract function
 - [2026-03-05T13:00:34] extend API
+- [2026-03-09T19:33:19] extract function
