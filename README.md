@@ -285,3 +285,4 @@
 - [2026-03-04T21:06:53] implement parser
 - [2026-03-06T19:09:15] null pointer in loader
 - [2026-03-10T12:24:27] add caching layer
+- [2026-03-10T22:08:44] extract function
