@@ -265,3 +265,4 @@
 - [2026-02-26T09:44:45] clarify usage
 - [2026-03-03T09:39:00] add new helper
 - [2026-03-09T21:17:51] incorrect date parsing
+- [2026-03-12T14:25:53] ok
