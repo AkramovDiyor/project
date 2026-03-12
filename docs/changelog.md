@@ -281,3 +281,4 @@
 - [2026-03-11T09:34:17] race condition
 - [2026-03-12T16:40:02] extract function
 - [2026-03-12T17:16:46] fix typos
+- [2026-03-12T10:17:38] minor refactor
