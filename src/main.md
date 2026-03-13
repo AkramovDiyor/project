@@ -316,3 +316,4 @@
 - [2026-03-05T18:00:56] add examples
 - [2026-03-05T13:40:50] format code
 - [2026-03-07T18:46:45] implement parser
+- [2026-03-13T09:11:01] null pointer in loader
