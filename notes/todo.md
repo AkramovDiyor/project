@@ -256,3 +256,4 @@
 - [2026-03-05T15:31:07] clarify usage
 - [2026-03-09T15:20:34] cleanup imports
 - [2026-03-12T20:18:33] race condition
+- [2026-03-15T15:54:54] bump deps
