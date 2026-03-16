@@ -285,3 +285,4 @@
 - [2026-03-13T16:47:09] race condition
 - [2026-03-15T16:15:45] fix typos
 - [2026-03-15T10:16:27] expand changelog
+- [2026-03-16T14:38:35] add caching layer
