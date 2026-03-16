@@ -289,3 +289,4 @@
 - [2026-03-11T12:43:12] null pointer in loader
 - [2026-03-13T14:25:17] simplify logic
 - [2026-03-16T09:54:43] add examples
+- [2026-03-16T16:34:48] handle edge case
