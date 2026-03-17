@@ -321,3 +321,4 @@
 - [2026-03-15T14:03:27] clarify usage
 - [2026-03-16T15:27:21] add examples
 - [2026-03-17T22:52:08] expand changelog
+- [2026-03-17T10:08:08] add examples
