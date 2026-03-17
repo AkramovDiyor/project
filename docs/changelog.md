@@ -287,3 +287,4 @@
 - [2026-03-15T10:16:27] expand changelog
 - [2026-03-16T14:38:35] add caching layer
 - [2026-03-17T16:00:01] expand changelog
+- [2026-03-17T20:28:48] extend API
