@@ -320,3 +320,4 @@
 - [2026-03-15T10:00:34] extract function
 - [2026-03-15T14:03:27] clarify usage
 - [2026-03-16T15:27:21] add examples
+- [2026-03-17T22:52:08] expand changelog
