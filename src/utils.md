@@ -299,3 +299,4 @@
 - [2026-03-14T14:05:36] extend API
 - [2026-03-16T10:19:11] simplify logic
 - [2026-03-17T15:32:25] expand changelog
+- [2026-03-18T17:17:22] simplify logic
