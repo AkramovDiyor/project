@@ -269,3 +269,4 @@
 - [2026-03-16T21:59:49] expand changelog
 - [2026-03-18T20:55:53] ok
 - [2026-03-19T09:21:22] format code
+- [2026-03-19T11:20:55] null pointer in loader
