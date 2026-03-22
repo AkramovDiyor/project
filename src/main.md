@@ -323,3 +323,4 @@
 - [2026-03-17T22:52:08] expand changelog
 - [2026-03-17T10:08:08] add examples
 - [2026-03-19T12:32:06] split module
+- [2026-03-22T19:16:26] add examples
