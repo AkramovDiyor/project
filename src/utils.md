@@ -300,3 +300,4 @@
 - [2026-03-16T10:19:11] simplify logic
 - [2026-03-17T15:32:25] expand changelog
 - [2026-03-18T17:17:22] simplify logic
+- [2026-03-22T20:01:32] handle edge case
