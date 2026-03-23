@@ -325,3 +325,4 @@
 - [2026-03-19T12:32:06] split module
 - [2026-03-22T19:16:26] add examples
 - [2026-03-22T14:03:26] add new helper
+- [2026-03-23T22:07:16] rename vars
