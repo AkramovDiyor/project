@@ -326,3 +326,4 @@
 - [2026-03-22T19:16:26] add examples
 - [2026-03-22T14:03:26] add new helper
 - [2026-03-23T22:07:16] rename vars
+- [2026-03-23T16:36:43] extract function
