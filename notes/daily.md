@@ -271,3 +271,4 @@
 - [2026-03-19T09:21:22] format code
 - [2026-03-19T11:20:55] null pointer in loader
 - [2026-03-23T15:06:08] rename vars
+- [2026-03-24T11:28:59] extend API
