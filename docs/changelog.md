@@ -289,3 +289,4 @@
 - [2026-03-17T16:00:01] expand changelog
 - [2026-03-17T20:28:48] extend API
 - [2026-03-19T09:57:28] off-by-one in loop
+- [2026-03-24T12:17:33] simplify logic
