@@ -293,3 +293,4 @@
 - [2026-03-18T19:28:59] cleanup imports
 - [2026-03-19T16:17:43] extract function
 - [2026-03-23T21:06:30] implement parser
+- [2026-03-26T13:19:50] null pointer in loader
