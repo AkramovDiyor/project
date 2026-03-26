@@ -328,3 +328,4 @@
 - [2026-03-23T22:07:16] rename vars
 - [2026-03-23T16:36:43] extract function
 - [2026-03-26T22:28:40] handle edge case
+- [2026-03-26T13:51:19] add examples
