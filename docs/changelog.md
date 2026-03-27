@@ -291,3 +291,4 @@
 - [2026-03-19T09:57:28] off-by-one in loop
 - [2026-03-24T12:17:33] simplify logic
 - [2026-03-27T09:10:18] off-by-one in loop
+- [2026-03-27T19:40:32] simplify logic
