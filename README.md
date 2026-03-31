@@ -295,3 +295,4 @@
 - [2026-03-23T21:06:30] implement parser
 - [2026-03-26T13:19:50] null pointer in loader
 - [2026-03-27T19:42:29] update README
+- [2026-03-31T14:50:15] add examples
