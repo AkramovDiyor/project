@@ -329,3 +329,4 @@
 - [2026-03-23T16:36:43] extract function
 - [2026-03-26T22:28:40] handle edge case
 - [2026-03-26T13:51:19] add examples
+- [2026-04-03T19:05:53] null pointer in loader
