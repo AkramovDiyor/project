@@ -297,3 +297,4 @@
 - [2026-03-27T19:42:29] update README
 - [2026-03-31T14:50:15] add examples
 - [2026-04-03T19:31:24] split module
+- [2026-04-03T22:58:33] minor refactor
