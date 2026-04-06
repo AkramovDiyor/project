@@ -264,3 +264,4 @@
 - [2026-03-27T11:55:48] incorrect date parsing
 - [2026-03-28T21:15:27] ok
 - [2026-04-06T20:31:52] simplify logic
+- [2026-04-06T21:56:29] minor refactor
