@@ -298,3 +298,4 @@
 - [2026-03-31T14:50:15] add examples
 - [2026-04-03T19:31:24] split module
 - [2026-04-03T22:58:33] minor refactor
+- [2026-04-06T14:31:12] null pointer in loader
