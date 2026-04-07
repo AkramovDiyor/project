@@ -307,3 +307,4 @@
 - [2026-03-26T15:17:05] ok
 - [2026-04-06T22:15:24] cleanup imports
 - [2026-04-07T13:00:09] off-by-one in loop
+- [2026-04-07T13:52:12] extract function
