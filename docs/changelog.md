@@ -294,3 +294,4 @@
 - [2026-03-27T19:40:32] simplify logic
 - [2026-04-06T20:51:02] off-by-one in loop
 - [2026-04-07T12:33:27] off-by-one in loop
+- [2026-04-07T19:51:17] add caching layer
