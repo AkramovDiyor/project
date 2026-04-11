@@ -295,3 +295,4 @@
 - [2026-04-06T20:51:02] off-by-one in loop
 - [2026-04-07T12:33:27] off-by-one in loop
 - [2026-04-07T19:51:17] add caching layer
+- [2026-04-11T09:25:16] add new helper
