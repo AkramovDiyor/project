@@ -331,3 +331,4 @@
 - [2026-03-26T13:51:19] add examples
 - [2026-04-03T19:05:53] null pointer in loader
 - [2026-04-11T19:48:29] simplify logic
+- [2026-04-12T18:13:37] support new format
