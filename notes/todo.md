@@ -266,3 +266,4 @@
 - [2026-04-06T20:31:52] simplify logic
 - [2026-04-06T21:56:29] minor refactor
 - [2026-04-11T10:56:21] add new helper
+- [2026-04-12T19:33:46] implement parser
