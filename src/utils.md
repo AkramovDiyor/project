@@ -309,3 +309,4 @@
 - [2026-04-07T13:00:09] off-by-one in loop
 - [2026-04-07T13:52:12] extract function
 - [2026-04-12T17:20:02] incorrect date parsing
+- [2026-04-13T12:05:36] fix typos
