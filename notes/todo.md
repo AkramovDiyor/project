@@ -268,3 +268,4 @@
 - [2026-04-11T10:56:21] add new helper
 - [2026-04-12T19:33:46] implement parser
 - [2026-04-12T20:32:23] bump deps
+- [2026-04-13T11:37:40] update README
