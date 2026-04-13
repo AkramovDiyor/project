@@ -300,3 +300,4 @@
 - [2026-04-03T22:58:33] minor refactor
 - [2026-04-06T14:31:12] null pointer in loader
 - [2026-04-13T10:20:18] off-by-one in loop
+- [2026-04-13T15:43:33] clarify usage
