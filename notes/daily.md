@@ -277,3 +277,4 @@
 - [2026-04-07T17:47:02] rename vars
 - [2026-04-08T22:08:22] simplify logic
 - [2026-04-13T16:57:24] clarify usage
+- [2026-04-17T20:26:49] clarify usage
