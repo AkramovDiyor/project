@@ -301,3 +301,4 @@
 - [2026-04-06T14:31:12] null pointer in loader
 - [2026-04-13T10:20:18] off-by-one in loop
 - [2026-04-13T15:43:33] clarify usage
+- [2026-04-17T18:40:28] rename vars
