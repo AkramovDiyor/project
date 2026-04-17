@@ -311,3 +311,4 @@
 - [2026-04-12T17:20:02] incorrect date parsing
 - [2026-04-13T12:05:36] fix typos
 - [2026-04-17T11:43:57] rename vars
+- [2026-04-17T16:55:07] race condition
