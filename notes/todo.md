@@ -269,3 +269,4 @@
 - [2026-04-12T19:33:46] implement parser
 - [2026-04-12T20:32:23] bump deps
 - [2026-04-13T11:37:40] update README
+- [2026-04-18T15:37:28] add caching layer
