@@ -302,3 +302,4 @@
 - [2026-04-13T10:20:18] off-by-one in loop
 - [2026-04-13T15:43:33] clarify usage
 - [2026-04-17T18:40:28] rename vars
+- [2026-04-18T14:29:40] clarify usage
