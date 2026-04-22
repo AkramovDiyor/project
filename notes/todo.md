@@ -271,3 +271,4 @@
 - [2026-04-13T11:37:40] update README
 - [2026-04-18T15:37:28] add caching layer
 - [2026-04-18T20:36:55] off-by-one in loop
+- [2026-04-22T11:09:14] minor refactor
