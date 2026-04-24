@@ -280,3 +280,4 @@
 - [2026-04-17T20:26:49] clarify usage
 - [2026-04-21T17:40:35] extract function
 - [2026-04-24T21:42:08] add new helper
+- [2026-04-24T18:00:40] rename vars
