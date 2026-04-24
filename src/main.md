@@ -333,3 +333,4 @@
 - [2026-04-11T19:48:29] simplify logic
 - [2026-04-12T18:13:37] support new format
 - [2026-04-24T17:58:13] ok
+- [2026-04-24T12:01:42] null pointer in loader
