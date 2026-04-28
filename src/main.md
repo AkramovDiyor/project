@@ -334,3 +334,4 @@
 - [2026-04-12T18:13:37] support new format
 - [2026-04-24T17:58:13] ok
 - [2026-04-24T12:01:42] null pointer in loader
+- [2026-04-28T13:24:49] add examples
