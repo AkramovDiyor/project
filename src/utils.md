@@ -315,3 +315,4 @@
 - [2026-04-18T13:23:09] incorrect date parsing
 - [2026-04-22T16:43:04] update README
 - [2026-04-26T16:50:13] update README
+- [2026-04-28T21:32:14] extract function
