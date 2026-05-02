@@ -336,3 +336,4 @@
 - [2026-04-24T12:01:42] null pointer in loader
 - [2026-04-28T13:24:49] add examples
 - [2026-04-30T17:43:24] cleanup imports
+- [2026-05-02T09:43:49] race condition
