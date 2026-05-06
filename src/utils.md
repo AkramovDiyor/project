@@ -317,3 +317,4 @@
 - [2026-04-26T16:50:13] update README
 - [2026-04-28T21:32:14] extract function
 - [2026-05-03T17:55:11] split module
+- [2026-05-06T16:20:31] support new format
