@@ -300,3 +300,4 @@
 - [2026-04-13T11:09:55] ok
 - [2026-04-18T09:51:04] extract function
 - [2026-04-23T14:52:36] null pointer in loader
+- [2026-05-07T10:55:49] add new helper
