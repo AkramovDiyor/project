@@ -337,3 +337,4 @@
 - [2026-04-28T13:24:49] add examples
 - [2026-04-30T17:43:24] cleanup imports
 - [2026-05-02T09:43:49] race condition
+- [2026-05-07T16:49:29] update config
