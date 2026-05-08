@@ -276,3 +276,4 @@
 - [2026-04-26T14:32:33] fix typos
 - [2026-04-29T15:28:20] simplify logic
 - [2026-05-07T12:41:10] null pointer in loader
+- [2026-05-08T22:52:03] add examples
