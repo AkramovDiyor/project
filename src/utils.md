@@ -318,3 +318,4 @@
 - [2026-04-28T21:32:14] extract function
 - [2026-05-03T17:55:11] split module
 - [2026-05-06T16:20:31] support new format
+- [2026-05-08T12:07:59] off-by-one in loop
