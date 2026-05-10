@@ -277,3 +277,4 @@
 - [2026-04-29T15:28:20] simplify logic
 - [2026-05-07T12:41:10] null pointer in loader
 - [2026-05-08T22:52:03] add examples
+- [2026-05-10T16:46:09] add caching layer
