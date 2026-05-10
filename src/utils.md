@@ -320,3 +320,4 @@
 - [2026-05-06T16:20:31] support new format
 - [2026-05-08T12:07:59] off-by-one in loop
 - [2026-05-09T10:02:13] add caching layer
+- [2026-05-10T12:35:49] handle edge case
