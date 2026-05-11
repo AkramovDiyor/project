@@ -287,3 +287,4 @@
 - [2026-05-03T13:15:37] rename vars
 - [2026-05-08T20:33:54] fix typos
 - [2026-05-08T10:30:14] add caching layer
+- [2026-05-11T18:53:04] extend API
