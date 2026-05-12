@@ -280,3 +280,4 @@
 - [2026-05-10T16:46:09] add caching layer
 - [2026-05-11T13:24:58] minor refactor
 - [2026-05-11T21:44:24] fix typos
+- [2026-05-12T19:03:53] update README
