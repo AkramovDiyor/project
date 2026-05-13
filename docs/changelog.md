@@ -303,3 +303,4 @@
 - [2026-05-07T10:55:49] add new helper
 - [2026-05-13T16:39:49] bump deps
 - [2026-05-13T20:12:14] extract function
+- [2026-05-13T13:54:30] add examples
