@@ -302,3 +302,4 @@
 - [2026-04-23T14:52:36] null pointer in loader
 - [2026-05-07T10:55:49] add new helper
 - [2026-05-13T16:39:49] bump deps
+- [2026-05-13T20:12:14] extract function
