@@ -310,3 +310,4 @@
 - [2026-05-06T19:46:49] split module
 - [2026-05-06T14:57:18] clarify usage
 - [2026-05-11T09:50:36] extend API
+- [2026-05-13T12:18:50] support new format
