@@ -305,3 +305,4 @@
 - [2026-05-13T20:12:14] extract function
 - [2026-05-13T13:54:30] add examples
 - [2026-05-14T16:35:21] null pointer in loader
+- [2026-05-15T12:48:36] rename vars
