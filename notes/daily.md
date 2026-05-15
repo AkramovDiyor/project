@@ -289,3 +289,4 @@
 - [2026-05-08T10:30:14] add caching layer
 - [2026-05-11T18:53:04] extend API
 - [2026-05-12T12:51:02] handle edge case
+- [2026-05-15T09:32:12] fix typos
