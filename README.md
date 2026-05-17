@@ -312,3 +312,4 @@
 - [2026-05-11T09:50:36] extend API
 - [2026-05-13T12:18:50] support new format
 - [2026-05-14T19:42:19] add examples
+- [2026-05-17T19:51:27] simplify logic
