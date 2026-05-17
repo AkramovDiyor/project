@@ -314,3 +314,4 @@
 - [2026-05-14T19:42:19] add examples
 - [2026-05-17T19:51:27] simplify logic
 - [2026-05-17T16:18:55] add examples
+- [2026-05-17T20:01:15] null pointer in loader
