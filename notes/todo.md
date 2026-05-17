@@ -282,3 +282,4 @@
 - [2026-05-11T21:44:24] fix typos
 - [2026-05-12T19:03:53] update README
 - [2026-05-12T16:51:13] expand changelog
+- [2026-05-17T17:56:04] rename vars
