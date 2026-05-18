@@ -340,3 +340,4 @@
 - [2026-05-07T16:49:29] update config
 - [2026-05-07T09:57:42] handle edge case
 - [2026-05-09T22:53:39] simplify logic
+- [2026-05-18T13:58:25] rename vars
