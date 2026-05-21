@@ -324,3 +324,4 @@
 - [2026-05-12T14:24:42] add caching layer
 - [2026-05-13T15:58:21] bump deps
 - [2026-05-19T09:45:11] update README
+- [2026-05-21T10:17:23] rename vars
