@@ -342,3 +342,4 @@
 - [2026-05-09T22:53:39] simplify logic
 - [2026-05-18T13:58:25] rename vars
 - [2026-05-21T10:38:11] support new format
+- [2026-05-22T22:43:39] race condition
