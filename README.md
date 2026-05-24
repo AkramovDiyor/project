@@ -318,3 +318,4 @@
 - [2026-05-18T17:33:16] support new format
 - [2026-05-21T21:34:54] simplify logic
 - [2026-05-24T10:12:13] handle edge case
+- [2026-05-24T13:15:11] add caching layer
