@@ -310,3 +310,4 @@
 - [2026-05-19T09:11:25] split module
 - [2026-05-19T09:44:01] support new format
 - [2026-05-19T21:33:36] support new format
+- [2026-05-24T16:05:47] rename vars
