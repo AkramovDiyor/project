@@ -285,3 +285,4 @@
 - [2026-05-17T17:56:04] rename vars
 - [2026-05-17T14:47:33] format code
 - [2026-05-21T09:07:06] incorrect date parsing
+- [2026-05-24T14:26:39] clarify usage
