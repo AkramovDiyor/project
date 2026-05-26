@@ -346,3 +346,4 @@
 - [2026-05-23T13:26:02] null pointer in loader
 - [2026-05-24T14:06:51] cleanup imports
 - [2026-05-24T09:10:14] rename vars
+- [2026-05-26T14:37:04] split module
