@@ -326,3 +326,4 @@
 - [2026-05-19T09:45:11] update README
 - [2026-05-21T10:17:23] rename vars
 - [2026-05-21T21:05:49] update config
+- [2026-05-27T20:07:45] update README
