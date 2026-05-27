@@ -294,3 +294,4 @@
 - [2026-05-22T22:07:40] bump deps
 - [2026-05-23T09:03:43] minor refactor
 - [2026-05-27T09:47:34] add caching layer
+- [2026-05-27T19:25:23] update config
