@@ -347,3 +347,4 @@
 - [2026-05-24T14:06:51] cleanup imports
 - [2026-05-24T09:10:14] rename vars
 - [2026-05-26T14:37:04] split module
+- [2026-05-27T21:27:01] race condition
