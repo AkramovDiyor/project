@@ -288,3 +288,4 @@
 - [2026-05-24T14:26:39] clarify usage
 - [2026-05-26T12:04:48] cleanup imports
 - [2026-05-31T18:13:14] split module
+- [2026-05-31T14:26:08] format code
