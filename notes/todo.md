@@ -291,3 +291,4 @@
 - [2026-05-31T14:26:08] format code
 - [2026-05-31T17:53:34] support new format
 - [2026-06-01T21:03:09] off-by-one in loop
+- [2026-06-04T12:56:24] off-by-one in loop
