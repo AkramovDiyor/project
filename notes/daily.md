@@ -297,3 +297,4 @@
 - [2026-05-27T19:25:23] update config
 - [2026-05-27T10:13:28] handle edge case
 - [2026-06-01T13:11:59] implement parser
+- [2026-06-05T09:58:41] split module
