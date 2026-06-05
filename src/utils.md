@@ -328,3 +328,4 @@
 - [2026-05-21T21:05:49] update config
 - [2026-05-27T20:07:45] update README
 - [2026-06-03T14:50:55] update README
+- [2026-06-05T22:52:49] extract function
