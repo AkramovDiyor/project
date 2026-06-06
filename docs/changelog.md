@@ -318,3 +318,4 @@
 - [2026-06-04T21:05:16] cleanup imports
 - [2026-06-05T13:51:29] ok
 - [2026-06-05T16:14:06] update README
+- [2026-06-06T11:31:45] race condition
