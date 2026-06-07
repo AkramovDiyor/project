@@ -351,3 +351,4 @@
 - [2026-05-31T09:54:17] add caching layer
 - [2026-06-01T20:54:37] rename vars
 - [2026-06-03T09:49:50] extend API
+- [2026-06-07T21:48:21] add new helper
