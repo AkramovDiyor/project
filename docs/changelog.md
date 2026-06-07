@@ -321,3 +321,4 @@
 - [2026-06-06T11:31:45] race condition
 - [2026-06-06T18:36:02] bump deps
 - [2026-06-07T22:42:11] add new helper
+- [2026-06-07T10:29:14] fix typos
