@@ -300,3 +300,4 @@
 - [2026-06-05T09:58:41] split module
 - [2026-06-06T22:05:11] add examples
 - [2026-06-09T13:18:07] extend API
+- [2026-06-09T16:26:01] incorrect date parsing
