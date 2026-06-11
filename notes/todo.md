@@ -294,3 +294,4 @@
 - [2026-06-04T12:56:24] off-by-one in loop
 - [2026-06-04T21:11:47] clarify usage
 - [2026-06-11T14:59:57] simplify logic
+- [2026-06-11T20:11:51] rename vars
