@@ -327,3 +327,4 @@
 - [2026-06-08T21:59:09] split module
 - [2026-06-11T19:16:35] fix typos
 - [2026-06-13T18:40:59] update config
+- [2026-06-13T20:02:33] expand changelog
