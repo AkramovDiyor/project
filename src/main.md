@@ -357,3 +357,4 @@
 - [2026-06-08T20:10:54] cleanup imports
 - [2026-06-09T18:58:09] bump deps
 - [2026-06-11T12:49:43] rename vars
+- [2026-06-14T19:04:19] simplify logic
