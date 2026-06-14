@@ -328,3 +328,4 @@
 - [2026-06-11T19:16:35] fix typos
 - [2026-06-13T18:40:59] update config
 - [2026-06-13T20:02:33] expand changelog
+- [2026-06-14T20:43:31] update config
