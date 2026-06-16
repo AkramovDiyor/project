@@ -333,3 +333,4 @@
 - [2026-06-09T18:50:48] incorrect date parsing
 - [2026-06-09T18:16:32] bump deps
 - [2026-06-14T17:49:34] cleanup imports
+- [2026-06-16T20:16:31] extract function
