@@ -358,3 +358,4 @@
 - [2026-06-09T18:58:09] bump deps
 - [2026-06-11T12:49:43] rename vars
 - [2026-06-14T19:04:19] simplify logic
+- [2026-06-17T16:37:16] rename vars
