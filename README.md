@@ -325,3 +325,4 @@
 - [2026-06-11T10:42:37] bump deps
 - [2026-06-14T12:44:16] fix typos
 - [2026-06-17T13:22:39] cleanup imports
+- [2026-06-17T09:46:03] handle edge case
