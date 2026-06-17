@@ -334,3 +334,4 @@
 - [2026-06-09T18:16:32] bump deps
 - [2026-06-14T17:49:34] cleanup imports
 - [2026-06-16T20:16:31] extract function
+- [2026-06-17T14:42:36] split module
