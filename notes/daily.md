@@ -304,3 +304,4 @@
 - [2026-06-11T15:00:05] ok
 - [2026-06-13T19:55:46] handle edge case
 - [2026-06-14T11:42:29] update README
+- [2026-06-18T19:09:24] simplify logic
