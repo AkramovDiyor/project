@@ -359,3 +359,4 @@
 - [2026-06-11T12:49:43] rename vars
 - [2026-06-14T19:04:19] simplify logic
 - [2026-06-17T16:37:16] rename vars
+- [2026-06-18T10:50:59] extract function
