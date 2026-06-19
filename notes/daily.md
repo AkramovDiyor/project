@@ -305,3 +305,4 @@
 - [2026-06-13T19:55:46] handle edge case
 - [2026-06-14T11:42:29] update README
 - [2026-06-18T19:09:24] simplify logic
+- [2026-06-19T16:08:25] bump deps
