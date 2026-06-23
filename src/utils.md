@@ -337,3 +337,4 @@
 - [2026-06-17T14:42:36] split module
 - [2026-06-18T21:25:24] split module
 - [2026-06-19T11:37:21] add new helper
+- [2026-06-23T17:33:58] update config
