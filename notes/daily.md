@@ -306,3 +306,4 @@
 - [2026-06-14T11:42:29] update README
 - [2026-06-18T19:09:24] simplify logic
 - [2026-06-19T16:08:25] bump deps
+- [2026-06-25T22:16:43] clarify usage
