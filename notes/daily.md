@@ -307,3 +307,4 @@
 - [2026-06-18T19:09:24] simplify logic
 - [2026-06-19T16:08:25] bump deps
 - [2026-06-25T22:16:43] clarify usage
+- [2026-06-25T21:37:28] fix typos
