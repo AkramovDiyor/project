@@ -309,3 +309,4 @@
 - [2026-06-25T22:16:43] clarify usage
 - [2026-06-25T21:37:28] fix typos
 - [2026-06-26T10:57:05] off-by-one in loop
+- [2026-06-26T14:47:17] update README
