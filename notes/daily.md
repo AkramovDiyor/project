@@ -308,3 +308,4 @@
 - [2026-06-19T16:08:25] bump deps
 - [2026-06-25T22:16:43] clarify usage
 - [2026-06-25T21:37:28] fix typos
+- [2026-06-26T10:57:05] off-by-one in loop
