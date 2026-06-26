@@ -339,3 +339,4 @@
 - [2026-06-19T11:37:21] add new helper
 - [2026-06-23T17:33:58] update config
 - [2026-06-25T09:13:00] format code
+- [2026-06-26T09:32:00] off-by-one in loop
