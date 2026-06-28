@@ -341,3 +341,4 @@
 - [2026-06-25T09:13:00] format code
 - [2026-06-26T09:32:00] off-by-one in loop
 - [2026-06-26T14:58:23] implement parser
+- [2026-06-28T16:02:16] rename vars
