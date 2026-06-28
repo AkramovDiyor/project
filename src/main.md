@@ -363,3 +363,4 @@
 - [2026-06-18T17:52:31] split module
 - [2026-06-19T10:03:11] handle edge case
 - [2026-06-25T21:17:06] simplify logic
+- [2026-06-28T22:48:49] null pointer in loader
