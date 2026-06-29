@@ -365,3 +365,4 @@
 - [2026-06-25T21:17:06] simplify logic
 - [2026-06-28T22:48:49] null pointer in loader
 - [2026-06-29T16:07:10] update config
+- [2026-06-29T16:09:01] split module
