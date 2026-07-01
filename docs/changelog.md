@@ -333,3 +333,4 @@
 - [2026-06-25T22:03:29] off-by-one in loop
 - [2026-06-29T15:10:11] implement parser
 - [2026-07-01T22:52:58] extend API
+- [2026-07-01T22:12:48] add examples
