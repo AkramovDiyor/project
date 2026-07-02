@@ -312,3 +312,4 @@
 - [2026-06-26T14:47:17] update README
 - [2026-06-27T12:24:38] rename vars
 - [2026-07-01T16:18:28] support new format
+- [2026-07-02T17:26:13] clarify usage
