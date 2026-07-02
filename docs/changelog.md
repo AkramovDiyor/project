@@ -334,3 +334,4 @@
 - [2026-06-29T15:10:11] implement parser
 - [2026-07-01T22:52:58] extend API
 - [2026-07-01T22:12:48] add examples
+- [2026-07-02T16:56:59] split module
