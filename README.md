@@ -331,3 +331,4 @@
 - [2026-06-27T19:01:41] bump deps
 - [2026-06-28T18:49:57] handle edge case
 - [2026-07-06T11:39:42] clarify usage
+- [2026-07-07T10:30:39] split module
