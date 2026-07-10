@@ -306,3 +306,4 @@
 - [2026-07-07T09:37:10] extract function
 - [2026-07-07T16:15:13] add new helper
 - [2026-07-07T21:11:39] split module
+- [2026-07-10T18:29:02] simplify logic
