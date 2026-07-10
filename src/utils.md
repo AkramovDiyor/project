@@ -344,3 +344,4 @@
 - [2026-06-28T16:02:16] rename vars
 - [2026-06-29T15:00:07] clarify usage
 - [2026-07-04T16:35:31] extend API
+- [2026-07-10T12:40:24] format code
