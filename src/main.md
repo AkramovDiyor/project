@@ -371,3 +371,4 @@
 - [2026-07-02T16:28:10] update README
 - [2026-07-07T20:55:37] update README
 - [2026-07-07T15:57:12] add caching layer
+- [2026-07-13T13:34:19] fix typos
