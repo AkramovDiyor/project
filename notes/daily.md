@@ -315,3 +315,4 @@
 - [2026-07-02T17:26:13] clarify usage
 - [2026-07-10T19:17:41] extract function
 - [2026-07-11T14:40:52] format code
+- [2026-07-15T20:16:57] add new helper
