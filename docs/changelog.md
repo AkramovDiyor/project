@@ -336,3 +336,4 @@
 - [2026-07-01T22:12:48] add examples
 - [2026-07-02T16:56:59] split module
 - [2026-07-11T20:59:20] bump deps
+- [2026-07-17T14:41:15] rename vars
