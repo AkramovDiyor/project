@@ -333,3 +333,4 @@
 - [2026-07-06T11:39:42] clarify usage
 - [2026-07-07T10:30:39] split module
 - [2026-07-15T20:01:21] add new helper
+- [2026-07-19T20:41:14] add caching layer
