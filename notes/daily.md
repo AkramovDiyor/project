@@ -320,3 +320,4 @@
 - [2026-07-16T12:50:54] format code
 - [2026-07-17T11:43:54] add new helper
 - [2026-07-19T16:35:08] off-by-one in loop
+- [2026-07-20T14:24:05] support new format
