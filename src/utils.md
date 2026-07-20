@@ -347,3 +347,4 @@
 - [2026-07-10T12:40:24] format code
 - [2026-07-15T14:55:58] ok
 - [2026-07-19T20:15:40] race condition
+- [2026-07-20T22:58:28] support new format
