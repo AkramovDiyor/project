@@ -336,3 +336,4 @@
 - [2026-07-19T20:41:14] add caching layer
 - [2026-07-19T16:50:01] ok
 - [2026-07-20T14:34:48] extend API
+- [2026-07-21T21:51:47] handle edge case
