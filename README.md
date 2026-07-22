@@ -338,3 +338,4 @@
 - [2026-07-20T14:34:48] extend API
 - [2026-07-21T21:51:47] handle edge case
 - [2026-07-22T11:31:45] simplify logic
+- [2026-07-22T12:25:49] rename vars
