@@ -375,3 +375,4 @@
 - [2026-07-17T14:43:27] race condition
 - [2026-07-18T13:12:02] update README
 - [2026-07-19T12:49:46] split module
+- [2026-07-22T15:10:32] expand changelog
