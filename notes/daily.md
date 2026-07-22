@@ -324,3 +324,4 @@
 - [2026-07-20T15:17:13] add examples
 - [2026-07-20T11:33:24] expand changelog
 - [2026-07-21T18:00:56] handle edge case
+- [2026-07-22T17:57:58] clarify usage
