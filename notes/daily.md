@@ -326,3 +326,4 @@
 - [2026-07-21T18:00:56] handle edge case
 - [2026-07-22T17:57:58] clarify usage
 - [2026-07-25T10:49:23] clarify usage
+- [2026-07-25T14:59:45] minor refactor
