@@ -327,3 +327,4 @@
 - [2026-07-22T17:57:58] clarify usage
 - [2026-07-25T10:49:23] clarify usage
 - [2026-07-25T14:59:45] minor refactor
+- [2026-07-25T22:06:17] add new helper
