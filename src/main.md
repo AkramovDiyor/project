@@ -377,3 +377,4 @@
 - [2026-07-19T12:49:46] split module
 - [2026-07-22T15:10:32] expand changelog
 - [2026-07-25T18:52:58] handle edge case
+- [2026-07-25T09:12:08] handle edge case
