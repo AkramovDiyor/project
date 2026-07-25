@@ -376,3 +376,4 @@
 - [2026-07-18T13:12:02] update README
 - [2026-07-19T12:49:46] split module
 - [2026-07-22T15:10:32] expand changelog
+- [2026-07-25T18:52:58] handle edge case
