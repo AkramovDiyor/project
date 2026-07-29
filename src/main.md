@@ -383,3 +383,4 @@
 - [2026-07-28T16:46:27] incorrect date parsing
 - [2026-07-29T19:15:42] clarify usage
 - [2026-07-29T22:41:53] add examples
+- [2026-07-29T19:48:30] rename vars
