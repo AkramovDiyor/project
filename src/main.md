@@ -385,3 +385,4 @@
 - [2026-07-29T22:41:53] add examples
 - [2026-07-29T19:48:30] rename vars
 - [2026-08-01T10:53:35] minor refactor
+- [2026-08-02T16:33:24] add new helper
