@@ -388,3 +388,4 @@
 - [2026-08-02T16:33:24] add new helper
 - [2026-08-02T16:27:20] support new format
 - [2026-08-02T20:29:31] update README
+- [2026-08-02T17:35:16] extract function
