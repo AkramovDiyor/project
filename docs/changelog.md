@@ -339,3 +339,4 @@
 - [2026-07-17T14:41:15] rename vars
 - [2026-07-21T20:38:35] rename vars
 - [2026-07-28T15:34:23] minor refactor
+- [2026-08-05T10:21:37] implement parser
