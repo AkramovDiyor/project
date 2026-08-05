@@ -343,3 +343,4 @@
 - [2026-08-01T12:51:27] cleanup imports
 - [2026-08-01T20:23:13] incorrect date parsing
 - [2026-08-05T10:29:26] bump deps
+- [2026-08-05T12:36:31] rename vars
