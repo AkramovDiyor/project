@@ -312,3 +312,4 @@
 - [2026-07-28T14:10:37] split module
 - [2026-07-29T13:15:46] handle edge case
 - [2026-08-01T19:34:43] update config
+- [2026-08-06T18:52:30] add examples
