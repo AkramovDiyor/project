@@ -352,3 +352,4 @@
 - [2026-07-27T21:19:23] split module
 - [2026-07-28T11:40:24] simplify logic
 - [2026-08-02T22:58:06] incorrect date parsing
+- [2026-08-07T12:58:57] add new helper
