@@ -353,3 +353,4 @@
 - [2026-07-28T11:40:24] simplify logic
 - [2026-08-02T22:58:06] incorrect date parsing
 - [2026-08-07T12:58:57] add new helper
+- [2026-08-08T11:08:41] ok
