@@ -316,3 +316,4 @@
 - [2026-08-06T14:56:50] format code
 - [2026-08-11T18:46:30] extract function
 - [2026-08-11T15:19:03] bump deps
+- [2026-08-11T20:41:35] incorrect date parsing
