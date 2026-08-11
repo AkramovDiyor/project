@@ -343,3 +343,4 @@
 - [2026-08-06T17:26:22] extract function
 - [2026-08-07T21:16:11] update README
 - [2026-08-08T16:01:07] expand changelog
+- [2026-08-11T19:17:47] extract function
