@@ -346,3 +346,4 @@
 - [2026-08-05T12:36:31] rename vars
 - [2026-08-05T15:04:08] minor refactor
 - [2026-08-08T17:30:28] add examples
+- [2026-08-11T16:39:48] split module
