@@ -318,3 +318,4 @@
 - [2026-08-11T15:19:03] bump deps
 - [2026-08-11T20:41:35] incorrect date parsing
 - [2026-08-12T09:07:17] split module
+- [2026-08-14T14:08:22] support new format
