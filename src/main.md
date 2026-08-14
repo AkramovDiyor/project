@@ -392,3 +392,4 @@
 - [2026-08-05T18:07:37] incorrect date parsing
 - [2026-08-06T15:32:20] ok
 - [2026-08-07T10:30:50] add new helper
+- [2026-08-14T13:18:01] clarify usage
