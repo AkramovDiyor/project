@@ -350,3 +350,4 @@
 - [2026-08-12T20:39:39] update config
 - [2026-08-12T15:17:16] race condition
 - [2026-08-14T17:47:00] incorrect date parsing
+- [2026-08-14T22:59:21] clarify usage
