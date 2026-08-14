@@ -331,3 +331,4 @@
 - [2026-08-05T21:09:06] split module
 - [2026-08-12T22:10:10] incorrect date parsing
 - [2026-08-12T13:32:59] update config
+- [2026-08-14T19:57:38] simplify logic
