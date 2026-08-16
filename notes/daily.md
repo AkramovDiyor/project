@@ -332,3 +332,4 @@
 - [2026-08-12T22:10:10] incorrect date parsing
 - [2026-08-12T13:32:59] update config
 - [2026-08-14T19:57:38] simplify logic
+- [2026-08-16T19:20:42] simplify logic
