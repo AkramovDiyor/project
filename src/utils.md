@@ -354,3 +354,4 @@
 - [2026-08-02T22:58:06] incorrect date parsing
 - [2026-08-07T12:58:57] add new helper
 - [2026-08-08T11:08:41] ok
+- [2026-08-16T21:28:12] split module
