@@ -334,3 +334,4 @@
 - [2026-08-14T19:57:38] simplify logic
 - [2026-08-16T19:20:42] simplify logic
 - [2026-08-16T09:26:47] add caching layer
+- [2026-08-17T09:49:15] rename vars
