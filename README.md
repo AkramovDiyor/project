@@ -352,3 +352,4 @@
 - [2026-08-14T17:47:00] incorrect date parsing
 - [2026-08-14T22:59:21] clarify usage
 - [2026-08-19T16:26:47] fix typos
+- [2026-08-19T11:40:41] extend API
