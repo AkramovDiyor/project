@@ -353,3 +353,4 @@
 - [2026-08-14T22:59:21] clarify usage
 - [2026-08-19T16:26:47] fix typos
 - [2026-08-19T11:40:41] extend API
+- [2026-08-22T14:38:29] off-by-one in loop
