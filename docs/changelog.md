@@ -346,3 +346,4 @@
 - [2026-08-11T19:17:47] extract function
 - [2026-08-12T21:59:30] fix typos
 - [2026-08-14T10:12:15] ok
+- [2026-08-22T18:03:11] null pointer in loader
