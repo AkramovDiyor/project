@@ -396,3 +396,4 @@
 - [2026-08-16T18:23:00] rename vars
 - [2026-08-16T11:31:30] extract function
 - [2026-08-22T15:42:29] update config
+- [2026-08-22T16:50:09] off-by-one in loop
