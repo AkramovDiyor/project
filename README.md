@@ -354,3 +354,4 @@
 - [2026-08-19T16:26:47] fix typos
 - [2026-08-19T11:40:41] extend API
 - [2026-08-22T14:38:29] off-by-one in loop
+- [2026-08-23T10:28:58] add new helper
