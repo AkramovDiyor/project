@@ -336,3 +336,4 @@
 - [2026-08-16T09:26:47] add caching layer
 - [2026-08-17T09:49:15] rename vars
 - [2026-08-17T09:03:25] implement parser
+- [2026-08-23T10:00:00] handle edge case
