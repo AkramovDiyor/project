@@ -357,3 +357,4 @@
 - [2026-08-23T10:28:58] add new helper
 - [2026-08-23T21:28:38] rename vars
 - [2026-08-23T16:45:35] off-by-one in loop
+- [2026-08-25T16:00:48] simplify logic
