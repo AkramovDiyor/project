@@ -358,3 +358,4 @@
 - [2026-08-22T10:35:13] rename vars
 - [2026-08-25T16:34:11] rename vars
 - [2026-08-25T15:11:09] extract function
+- [2026-08-27T18:46:42] clarify usage
