@@ -359,3 +359,4 @@
 - [2026-08-25T16:34:11] rename vars
 - [2026-08-25T15:11:09] extract function
 - [2026-08-27T18:46:42] clarify usage
+- [2026-08-27T21:44:41] bump deps
