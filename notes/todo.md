@@ -324,3 +324,4 @@
 - [2026-08-19T09:09:45] incorrect date parsing
 - [2026-08-22T18:13:33] clarify usage
 - [2026-08-23T21:54:27] ok
+- [2026-08-27T20:15:27] support new format
