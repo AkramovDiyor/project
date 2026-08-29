@@ -360,3 +360,4 @@
 - [2026-08-25T15:11:09] extract function
 - [2026-08-27T18:46:42] clarify usage
 - [2026-08-27T21:44:41] bump deps
+- [2026-08-29T14:55:54] minor refactor
