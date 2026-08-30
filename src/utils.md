@@ -361,3 +361,4 @@
 - [2026-08-27T18:46:42] clarify usage
 - [2026-08-27T21:44:41] bump deps
 - [2026-08-29T14:55:54] minor refactor
+- [2026-08-30T19:49:51] split module
