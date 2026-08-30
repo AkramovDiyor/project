@@ -327,3 +327,4 @@
 - [2026-08-27T20:15:27] support new format
 - [2026-08-28T19:42:44] minor refactor
 - [2026-08-28T14:45:44] split module
+- [2026-08-30T19:51:22] split module
