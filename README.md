@@ -361,3 +361,4 @@
 - [2026-08-25T15:46:31] race condition
 - [2026-08-29T10:22:47] bump deps
 - [2026-08-29T10:39:49] off-by-one in loop
+- [2026-08-30T15:59:47] add new helper
