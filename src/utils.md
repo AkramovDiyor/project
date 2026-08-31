@@ -363,3 +363,4 @@
 - [2026-08-29T14:55:54] minor refactor
 - [2026-08-30T19:49:51] split module
 - [2026-08-30T19:51:31] fix typos
+- [2026-08-31T14:28:19] implement parser
