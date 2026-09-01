@@ -337,3 +337,4 @@
 - [2026-08-17T09:49:15] rename vars
 - [2026-08-17T09:03:25] implement parser
 - [2026-08-23T10:00:00] handle edge case
+- [2026-09-01T11:36:09] extend API
