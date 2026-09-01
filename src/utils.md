@@ -365,3 +365,4 @@
 - [2026-08-30T19:51:31] fix typos
 - [2026-08-31T14:28:19] implement parser
 - [2026-09-01T09:26:12] rename vars
+- [2026-09-01T22:50:53] bump deps
