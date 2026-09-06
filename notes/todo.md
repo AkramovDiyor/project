@@ -328,3 +328,4 @@
 - [2026-08-28T19:42:44] minor refactor
 - [2026-08-28T14:45:44] split module
 - [2026-08-30T19:51:22] split module
+- [2026-09-06T17:47:49] bump deps
