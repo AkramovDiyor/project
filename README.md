@@ -364,3 +364,4 @@
 - [2026-08-30T15:59:47] add new helper
 - [2026-08-30T22:07:51] minor refactor
 - [2026-08-30T18:37:23] add new helper
+- [2026-09-06T18:28:13] expand changelog
