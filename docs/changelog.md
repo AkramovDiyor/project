@@ -347,3 +347,4 @@
 - [2026-08-12T21:59:30] fix typos
 - [2026-08-14T10:12:15] ok
 - [2026-08-22T18:03:11] null pointer in loader
+- [2026-09-06T21:23:58] update README
