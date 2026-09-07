@@ -329,3 +329,4 @@
 - [2026-08-28T14:45:44] split module
 - [2026-08-30T19:51:22] split module
 - [2026-09-06T17:47:49] bump deps
+- [2026-09-07T17:23:05] extract function
