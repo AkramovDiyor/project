@@ -366,3 +366,4 @@
 - [2026-08-30T18:37:23] add new helper
 - [2026-09-06T18:28:13] expand changelog
 - [2026-09-07T12:47:40] null pointer in loader
+- [2026-09-07T19:46:48] ok
