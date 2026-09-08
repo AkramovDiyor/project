@@ -370,3 +370,4 @@
 - [2026-09-07T17:40:47] fix typos
 - [2026-09-08T16:33:01] update config
 - [2026-09-08T20:46:08] handle edge case
+- [2026-09-08T15:11:49] null pointer in loader
