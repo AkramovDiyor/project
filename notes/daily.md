@@ -339,3 +339,4 @@
 - [2026-08-23T10:00:00] handle edge case
 - [2026-09-01T11:36:09] extend API
 - [2026-09-06T12:18:54] bump deps
+- [2026-09-08T21:02:13] add new helper
