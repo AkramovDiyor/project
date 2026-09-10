@@ -367,3 +367,4 @@
 - [2026-09-06T18:28:13] expand changelog
 - [2026-09-07T12:47:40] null pointer in loader
 - [2026-09-07T19:46:48] ok
+- [2026-09-10T14:11:44] update README
