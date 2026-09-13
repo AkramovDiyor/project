@@ -402,3 +402,4 @@
 - [2026-08-27T20:37:58] simplify logic
 - [2026-08-27T12:37:29] split module
 - [2026-09-07T15:45:33] extend API
+- [2026-09-13T22:28:07] null pointer in loader
