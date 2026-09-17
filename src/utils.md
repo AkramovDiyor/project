@@ -376,3 +376,4 @@
 - [2026-09-15T21:18:36] clarify usage
 - [2026-09-15T11:01:11] handle edge case
 - [2026-09-15T18:14:45] handle edge case
+- [2026-09-17T11:35:25] add examples
