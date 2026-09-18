@@ -332,3 +332,4 @@
 - [2026-09-07T17:23:05] extract function
 - [2026-09-10T11:49:28] add examples
 - [2026-09-13T19:48:32] incorrect date parsing
+- [2026-09-18T10:07:16] add examples
