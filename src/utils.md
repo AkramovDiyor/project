@@ -381,3 +381,4 @@
 - [2026-09-18T12:59:30] ok
 - [2026-09-18T16:54:43] add caching layer
 - [2026-09-21T19:23:59] add caching layer
+- [2026-09-21T13:53:22] simplify logic
