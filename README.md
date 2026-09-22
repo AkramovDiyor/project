@@ -376,3 +376,4 @@
 - [2026-09-21T11:54:38] ok
 - [2026-09-21T13:21:33] off-by-one in loop
 - [2026-09-22T14:15:55] rename vars
+- [2026-09-22T12:41:28] implement parser
