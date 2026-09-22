@@ -405,3 +405,4 @@
 - [2026-09-13T22:28:07] null pointer in loader
 - [2026-09-13T15:54:00] add examples
 - [2026-09-15T20:24:35] clarify usage
+- [2026-09-22T15:28:52] format code
