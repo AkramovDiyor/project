@@ -379,3 +379,4 @@
 - [2026-09-22T12:41:28] implement parser
 - [2026-09-25T09:15:28] incorrect date parsing
 - [2026-09-25T20:36:33] split module
+- [2026-09-25T21:15:24] race condition
