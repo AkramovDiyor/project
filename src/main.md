@@ -406,3 +406,4 @@
 - [2026-09-13T15:54:00] add examples
 - [2026-09-15T20:24:35] clarify usage
 - [2026-09-22T15:28:52] format code
+- [2026-09-25T20:43:06] add new helper
