@@ -383,3 +383,4 @@
 - [2026-09-21T19:23:59] add caching layer
 - [2026-09-21T13:53:22] simplify logic
 - [2026-09-21T17:17:03] simplify logic
+- [2026-09-27T15:41:04] update README
