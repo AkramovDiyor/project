@@ -384,3 +384,4 @@
 - [2026-09-21T13:53:22] simplify logic
 - [2026-09-21T17:17:03] simplify logic
 - [2026-09-27T15:41:04] update README
+- [2026-09-29T14:50:00] expand changelog
