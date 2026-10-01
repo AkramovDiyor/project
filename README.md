@@ -382,3 +382,4 @@
 - [2026-09-25T21:15:24] race condition
 - [2026-09-27T14:30:24] update config
 - [2026-09-29T21:39:57] simplify logic
+- [2026-10-01T13:29:21] extract function
