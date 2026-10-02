@@ -346,3 +346,4 @@
 - [2026-09-26T17:27:19] clarify usage
 - [2026-09-29T11:54:28] expand changelog
 - [2026-09-29T15:22:33] add new helper
+- [2026-10-02T22:16:18] rename vars
