@@ -356,3 +356,4 @@
 - [2026-09-18T12:52:57] minor refactor
 - [2026-09-26T17:24:38] extend API
 - [2026-09-26T16:31:47] off-by-one in loop
+- [2026-10-03T09:48:01] handle edge case
