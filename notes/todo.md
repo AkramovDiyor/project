@@ -334,3 +334,4 @@
 - [2026-09-13T19:48:32] incorrect date parsing
 - [2026-09-18T10:07:16] add examples
 - [2026-10-01T22:50:56] cleanup imports
+- [2026-10-03T15:21:26] add new helper
