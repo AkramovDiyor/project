@@ -358,3 +358,4 @@
 - [2026-09-26T16:31:47] off-by-one in loop
 - [2026-10-03T09:48:01] handle edge case
 - [2026-10-04T20:06:09] extract function
+- [2026-10-06T09:02:09] add caching layer
