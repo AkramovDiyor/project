@@ -384,3 +384,4 @@
 - [2026-09-29T21:39:57] simplify logic
 - [2026-10-01T13:29:21] extract function
 - [2026-10-03T12:55:52] add examples
+- [2026-10-06T12:21:20] expand changelog
