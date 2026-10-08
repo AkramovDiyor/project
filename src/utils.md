@@ -386,3 +386,4 @@
 - [2026-09-27T15:41:04] update README
 - [2026-09-29T14:50:00] expand changelog
 - [2026-10-04T11:45:27] extend API
+- [2026-10-08T19:16:22] race condition
