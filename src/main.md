@@ -408,3 +408,4 @@
 - [2026-09-22T15:28:52] format code
 - [2026-09-25T20:43:06] add new helper
 - [2026-09-27T11:39:25] update README
+- [2026-10-08T13:16:22] null pointer in loader
