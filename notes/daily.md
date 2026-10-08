@@ -353,3 +353,4 @@
 - [2026-10-06T15:51:29] bump deps
 - [2026-10-06T18:42:50] race condition
 - [2026-10-08T20:13:49] handle edge case
+- [2026-10-08T13:38:07] null pointer in loader
