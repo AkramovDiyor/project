@@ -336,3 +336,4 @@
 - [2026-10-01T22:50:56] cleanup imports
 - [2026-10-03T15:21:26] add new helper
 - [2026-10-06T09:49:36] ok
+- [2026-10-09T12:50:06] add caching layer
