@@ -387,3 +387,4 @@
 - [2026-09-29T14:50:00] expand changelog
 - [2026-10-04T11:45:27] extend API
 - [2026-10-08T19:16:22] race condition
+- [2026-10-09T11:43:52] extract function
