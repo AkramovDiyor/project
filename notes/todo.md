@@ -337,3 +337,4 @@
 - [2026-10-03T15:21:26] add new helper
 - [2026-10-06T09:49:36] ok
 - [2026-10-09T12:50:06] add caching layer
+- [2026-10-11T21:28:02] add examples
